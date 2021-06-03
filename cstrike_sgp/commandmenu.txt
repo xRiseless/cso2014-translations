@@ -222,20 +222,20 @@
 
 "3" "Client Settings"
 {
-	"1" "Stop BGM" "mp3 stop"
+	"1" "Stop Current Playing BGM" "mp3 stop"
 	"2" "Game Functions"
 	{
-		"1" "Fast Switch"
+		"1" "Fast Weapon Switch"
 		{
 			"1" "On" "hud_fastswitch 1"
 			"2" "Off" "hud_fastswitch 0"
 		}
-		"2" "Lock Playermodel"
+		"2" "Mininal Playermodel"
 		{
 			"1" "On" "cl_minmodels 1"
 			"2" "Off" "cl_minmodels 0"
 		}
-		"3" "HUD Switch"
+		"3" "Draw HUD On Screen"
 		{
 			"1" "On" "hud_draw 1;cl_radar_on 1"
 			"2" "Off" "hud_draw 0;cl_radar_on 0"
@@ -243,7 +243,7 @@
 	}
 	"3" "Frame (FPS)"
 	{
-		"1" "Show FPS On Upper Left"
+		"1" "Show On Upper Left"
 		{
 			"1" "On" "cl_showfps 1"
 			"2" "Off" "cl_showfps 0"
@@ -260,7 +260,7 @@
 			"2" "Off" "gl_vsync 0"
 		}
 	}
-	"4" "Entity Information"
+	"4" "Entity's Information"
 	{
 		"1" "Players"
 		{
@@ -274,15 +274,15 @@
 			"2" "Off" "cl_objname 0"
 		}
 	}
-	"5" "Bloody Restriction"
+	"5" "Bleeding Type"
 	{
-		"1" "No Limit" "violence_hblood 1;violence_ablood 1;violence_redblood 1"
-		"2" "Enable" "violence_hblood 1;violence_ablood 1;violence_redblood 0"
-		"3" "Serious" "violence_hblood 0;violence_ablood 0"
+		"1" "Red" "violence_hblood 1;violence_ablood 1;violence_redblood 1"
+		"2" "Yellow" "violence_hblood 1;violence_ablood 1;violence_redblood 0"
+		"3" "No Blood" "violence_hblood 0;violence_ablood 0"
 	}
 	"6" "Network Info"
 	{
-		"1" "Show Network Info On Bottom"
+		"1" "Show On Bottom"
 		{
 			"1" "On" "net_graph 3"
 			"2" "Off" "net_graph 0"
@@ -295,51 +295,63 @@
 		}
 	}
 }
+
 "4" "Host Settings"
 {
-	"1" "BOT"
+	"1" "If You Are Not Host:"
 	{
-		"1" "After Added BOT On Zombie Mode"
-		{
-			"1" "Please Do 'Refresh Match'!" "echo"
-		}
-		"2" "Add CT"
-		{
-			"1" "1" "cso_bot_add 1"
-			"2" "3" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
-			"3" "5" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
-		}
-		"3" "Add T"
-		{
-			"1" "1" "cso_bot_add 2"
-			"2" "3" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
-			"3" "5" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
-		}
-		"4" "Difficulties" 
+		"1" "Options Below Will Not Work!" " "
+	}
+	"2" "BOT"
+	{
+		"1" "Difficulties" 
 		{
 			"1" "Newbie Friendly"
 			{
 				"1" "#CSO_Bot_Difficulty_0" "bot_difficulty 0"
 				"2" "#CSO_Bot_Difficulty_1" "bot_difficulty 1"
-				"3" "#CSO_Bot_Difficulty_2" "bot_difficulty 2"
-				"4" "#CSO_Bot_Difficulty_3" "bot_difficulty 3"
 			}
-			"2" "Hardcore"
+			"2" "Good"
 			{
-				"1" "#CSO_Bot_Difficulty_4" "bot_difficulty 4"
-				"2" "#CSO_Bot_Difficulty_5" "bot_difficulty 5"
-				"3" "#CSO_Bot_Difficulty_6" "bot_difficulty 6"
-				"4" "#CSO_Bot_Difficulty_7" "bot_difficulty 7"
+				"1" "#CSO_Bot_Difficulty_2" "bot_difficulty 2"
+				"2" "#CSO_Bot_Difficulty_3" "bot_difficulty 3"
+				"3" "#CSO_Bot_Difficulty_4" "bot_difficulty 4"
+				"4" "#CSO_Bot_Difficulty_5" "bot_difficulty 5"
+			}
+			"3" "Hardcore"
+			{
+				"1" "#CSO_Bot_Difficulty_6" "bot_difficulty 6"
+				"2" "#CSO_Bot_Difficulty_7" "bot_difficulty 7"
 			}
 		}
-		"5" "Chatter"
+		"2" "Add BOT(s)"
+		{
+			"1" "#CSO_ClsCT"
+			{
+				"1" "1" "cso_bot_add 1"
+				"2" "3" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
+				"3" "5" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
+			}
+			"2" "#CSO_ClsTER"
+			{
+				"1" "1" "cso_bot_add 2"
+				"2" "3" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
+				"3" "5" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
+			}
+			"3" "Both"
+			{
+				"1" "1" "cso_bot_add 1;cso_bot_add 2"
+				"2" "3" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
+			}
+		}
+		"3" "Communicate"
 		{
 			"1" "Voice" "bot_chatter normal"
 			"2" "Voice (Less Talk)" "bot_chatter mininal"
 			"3" "Radio" "bot_chatter radio"
-			"4" "No Talk" "bot_chatter off"
+			"4" "No Communicate" "bot_chatter off"
 		}
 	}
 }
 
-"6" "Close Menu"
+"5" "Close Menu" " "
