@@ -1,6 +1,8 @@
 ﻿"lang"
 {
 "Language" "koreana"
+
+ДЕНИС ПИДАРАС
 "Tokens"
 {
 "Cstrike_Reset_View"		"시점 재설정"
