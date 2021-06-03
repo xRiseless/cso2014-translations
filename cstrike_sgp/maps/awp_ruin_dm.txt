@@ -1,0 +1,6 @@
+﻿Ancient Ruins - Deathmatch
+Plan/Level Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+- Kill all players around.
+- The player with the most kills in the end wins.

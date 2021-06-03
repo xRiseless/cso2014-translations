@@ -1,0 +1,7 @@
+﻿哈瓦那(havana) – 生化盟战
+
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+- 消灭地图上的所有敌人，提高友军队伍的分数。
+- 首先达成指定击杀数的一方获胜。

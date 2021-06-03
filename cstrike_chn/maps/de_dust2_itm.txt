@@ -1,0 +1,7 @@
+﻿沙漠Ⅱ(Dust2) – 娱乐模式 道具赛
+地图制作： DaveJ (http://www.johnsto.co.uk/)
+纹理制作： MacMan (MacManInfi@aol.com)
+
+目标:击杀敌人，达成目标杀敌数!!
+贴士:使用道具，可对敌人造成范围伤害与获得特殊技能。
+

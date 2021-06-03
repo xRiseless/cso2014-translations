@@ -1,0 +1,6 @@
+﻿Torn - Deathmatch
+Level Design: Crinity & Madcross
+www.planethalflife.com/crinity/
+
+- Kill all players around.
+- The player with the most kills in the end wins.

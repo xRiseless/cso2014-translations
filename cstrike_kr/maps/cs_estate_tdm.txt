@@ -1,0 +1,6 @@
+﻿이스테이트(Estate) - 팀데스매치
+맵 제작: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- 맵 상에 모든 적 팀원을 죽여 팀의 점수를 올려야 한다.
+- 지정된 사살 수를 채우면 승리한다.

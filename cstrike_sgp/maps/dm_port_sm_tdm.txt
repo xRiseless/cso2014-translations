@@ -1,0 +1,6 @@
+﻿Port (The Port) - Annihilation:Beast
+Planning / Production: Nexon
+Texture / Modeling / Edit: Nexon
+
+- Kill any enemy on the map to gain points for your team.
+- First team to score the designated number of kills wins.

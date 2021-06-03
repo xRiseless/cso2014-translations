@@ -1,0 +1,8 @@
+﻿747 - Team Deathmatch
+Level Design: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Texture Edit: "The Postman" 
+(heavengame@yahoo.com)
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.

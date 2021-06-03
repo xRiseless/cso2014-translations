@@ -1,0 +1,6 @@
+﻿Santorini – Deathmatch
+Map created by: Nexon
+Texture created by: Nexon
+ 
+- Eliminate all players around.
+- Eliminate the most of players to win.

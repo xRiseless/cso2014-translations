@@ -1,0 +1,7 @@
+﻿Dust II Annihilation - Death Match
+Map created by: DaveJ (http://www.johnsto.co.uk/)
+Texture created by: MacMan (MacManInfi@aol.com)
+Map modification: Nexon
+
+- Kill all the players in the battlefield.
+- Player will the most kill win the match.

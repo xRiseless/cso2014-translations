@@ -1,0 +1,7 @@
+﻿Estate - Zombie Unite
+Level Design: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.
+- The acquisition of an item-chest counts as kill.

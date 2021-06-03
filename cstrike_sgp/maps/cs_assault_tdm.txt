@@ -1,0 +1,5 @@
+﻿Assault - Team Deathmatch
+Level Design: CryptR (lmuur@dlc.fi)
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.

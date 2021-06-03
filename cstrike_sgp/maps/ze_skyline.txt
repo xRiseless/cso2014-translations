@@ -1,0 +1,17 @@
+﻿SKYLINE - Zombie Escape
+Map created by: Nexon
+Texture created by: Nexon
+
+
+The government had obtained intelligence, stating that zombies are appearing in development business area. 
+To closely check on the situation ,they had urgently deployed the government research team.
+
+After they have confirmed on the zombie's existence,
+They would conduct an air bombing to isolate the city permanently...
+
+Not much time are left till the air bombing!
+Ride on the truck to escape towards the escape area!
+
+Goal:
+Human: Run to the escape area within the time limit given. Players must remain as a human.
+Zombie: Infect/block the human players from escaping within the time limit given.

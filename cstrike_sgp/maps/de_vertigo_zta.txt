@@ -1,0 +1,8 @@
+﻿Vertigo (Vertigo) - Zombie Annihilation
+Map created by: Chris Auty (Barney) (fragged101@yahoo.com)
+Texture created by: Telnets and J0esm0e
+
+
+- Annihilate everyone in the game.
+- Victory goes to the first who reached the designated kills. 
+- No respawn until the start of the next round 

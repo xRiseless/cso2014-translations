@@ -1,0 +1,6 @@
+﻿原油通路(Inferno) – 生化盟战
+地图制作： Chris Auty (Barney) (narby@counter-strike.net)
+纹理制作： Valve software
+
+- 消灭地图上的所有敌人，提高友军队伍的分数。
+- 首先达成指定击杀数的一方获胜。

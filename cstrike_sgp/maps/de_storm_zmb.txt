@@ -1,0 +1,9 @@
+﻿Storm - Zombie
+Map created by: FLiPMoDE|Daank
+Texture created by:  Fingers - jOeSmOe - MattC
+
+In the middle of the fight between Counter-Terrorists and Terrorists, trange creatures appearing to be zombies escaped from the Rex Research Institute. The humans have to combine their forces to keep them alive.
+
+Human: Either stay alive for the remaining round time or annihilate all zombies.
+Zombie: Infect all humans into zombies. Zombies are stronger and faster than humans.
+

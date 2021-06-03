@@ -1,0 +1,6 @@
+﻿Village(Village) - Death Match
+Plan / Production : Nexon
+Texture/Modeling/Modification : Nexon
+
+- Kill all enemies.
+- The player with the most kills wins.

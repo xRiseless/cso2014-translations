@@ -1,0 +1,8 @@
+﻿Vertigo - Defusing a bomb
+Level Design: Chris Auty (Barney) (fragged101@yahoo.com)
+Texture Edit: Telnets and J0esm0e
+
+In the middle of the fight between Counter-Terrorists and Terrorists, zombies-alike creatures have escaped from the ReX Research Institute. The humans have to join forces to stay alive.
+
+Humans: Either stay alive till the time expired or kill all zombies.
+Zombie: Turned all humans into zombies, so that your team will mutiply in quantity. The Zombies are stronger and faster than humans.

@@ -1,0 +1,6 @@
+﻿하바나(Havana) - 팀데스매치
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+- 맵 상에 모든 적 팀원을 죽여 팀의 점수를 올려야 한다.
+- 지정된 사살 수를 채우면 승리한다.

@@ -1,0 +1,17 @@
+﻿Blood Castle - Zombie Escape
+Map created by: Nexon
+Texture created by: Nexon
+
+An ominous energy is approaching to the unit that was assigned to fix an old castle.
+
+
+After receiving a report from the unit, the upper management decided that the old castle is dangerous due to the zombie virus. The report also state
+that the unit had planted a huge bomb to isolate the area permanently. 
+
+
+Not much time left till it detonates...
+Remember, the goal is to escape!
+
+Goal:
+Human: Run to the escape area within the time limit given. Players must remain as a human.
+Zombie: Infect/block the human players from escaping within the time limit given.

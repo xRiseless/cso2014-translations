@@ -1,0 +1,6 @@
+﻿Office - Death Match
+Level Design: Hobbit (Hobbit@nodream.net)	
+Texture Edit: Sphinx and George_Pooshoes.
+
+- Kill all players around.
+- The player with the most kills in the end wins.

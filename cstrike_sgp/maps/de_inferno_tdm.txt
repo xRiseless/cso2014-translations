@@ -1,0 +1,6 @@
+﻿Inferno - Team Deatchmatch
+Level Design: Chris Auty (Barney) (narby@counter-strike.net)
+Texture Edit: Valve software
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.

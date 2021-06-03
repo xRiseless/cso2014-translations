@@ -1,0 +1,8 @@
+﻿意大利(Italy) – 生化盟战
+地图制作：
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+纹理/图形制作：
+DigiChaos (digichaos@hotsheep.com)
+
+- 消灭地图上的所有敌人，提高友军队伍的分数。
+- 首先达成指定击杀数的一方获胜。

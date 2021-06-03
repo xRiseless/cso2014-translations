@@ -1,0 +1,7 @@
+﻿비행장(Airstrip) - 팀데스매치
+맵 제작: Barney (aka narby) (narby@counter-strike.net)
+
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+- 맵 상에 모든 적 팀원을 죽여 팀의 점수를 올려야 한다.
+- 지정된 사살 수를 채우면 승리한다.

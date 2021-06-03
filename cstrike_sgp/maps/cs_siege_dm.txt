@@ -1,0 +1,5 @@
+﻿Siege - Death Match
+Map created by: N0TH1NG  (n0th1ng@mailcity.com)
+
+- Annihilate all enemies in the battlefield.
+- Players with the most kill win.

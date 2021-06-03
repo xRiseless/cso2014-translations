@@ -1,0 +1,8 @@
+﻿Dust II(Dust2) - Gun Deathmatch
+Map created by: DaveJ (http://www.johnsto.co.uk/)
+Texture created by: MacMan (MacManInfi@aol.com)
+
+Goal
+- Victory goes to the team who kills their enemies first with a final grenade.
+- Kill every enemy on the map to gain team score.
+- First to score the designated kills within the time limit wins.

@@ -1,0 +1,7 @@
+﻿古城废墟(Chateau) – 个人决战模式
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- 击杀地图上的所有角色。
+- 最终击杀次数最多的角色获胜。
+

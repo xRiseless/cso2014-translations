@@ -1,0 +1,11 @@
+﻿Piranesi(Piranesi) - Plant the Bomb / Defuse the Bomb
+
+Fingers - iikkak@valvesoftware.com
+
+Thanks to Ido Magal for texture sources
+
+Background: A beautiful palace, Villa Piranesi is opening up as a museum to the public. Currently, lots of expensive furnitures and arts are delivering into the building.
+
+Terrorist: Destroy the most important 2 articles on exhibition (Sundials in the front yard or the solar system model in the back yard) and stop the museum from opening.
+
+Counter-Terrorist: Protect this historical place from Terrorist.

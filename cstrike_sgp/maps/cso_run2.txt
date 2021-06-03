@@ -1,0 +1,6 @@
+﻿Run2 - Challenge
+Plan / Production: Nexon
+Texture/Modelling/Modification: Nexon
+- Victory goes to a player achieved the fastest time record within the time limit.
+- If you are dead or fell down within the map, you will re-spawn at the last check point that you have passed.
+- Player-blocking will not be occurred in the map.

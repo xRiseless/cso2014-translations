@@ -1,0 +1,6 @@
+﻿Rooftop(Another Episode) - Death Match
+Planned / Produced by : Nexon
+Text/Modeling/Edited by : Nexon
+
+- Eliminate all players.
+- Player with the highest frags, wins the game.

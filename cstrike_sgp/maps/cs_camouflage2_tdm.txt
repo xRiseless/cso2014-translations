@@ -1,0 +1,6 @@
+﻿Camouflage2 - Team Deatchmatch
+Plan/Level Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.

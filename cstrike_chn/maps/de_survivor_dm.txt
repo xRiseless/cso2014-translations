@@ -1,0 +1,8 @@
+﻿雪原(Survivor) – 个人决战模式
+地图制作： Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+- 击杀地图上的所有角色。
+- 最终击杀次数最多的角色获胜。
+

@@ -1,0 +1,13 @@
+﻿Torn - Plant/Defuse the bomb
+ 
+Map created by: Crinity & Madcross
+ 
+www.planethalflife.com/crinity/
+ 
+Counter-Terrorist: Stop the Terrorist from planting the bomb or defuse the bomb if it is planted.
+ 
+Terrorist: Plant the bomb and prevent Counter-Terrorist to defuse it.
+ 
+ 
+ 
+Note: There are two bomb-planting areas in this mission.

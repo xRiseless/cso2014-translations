@@ -1,0 +1,12 @@
+﻿747客机(747) – 拯救人质
+地图制作： Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+纹理制作： "The Postman" 
+(heavengame@yahoo.com)
+
+CT阵营：将藏身于客机的人质救出。
+
+T阵营：阻止CT阵营救出人质。
+
+其他：客机上总共有5名人质。
+

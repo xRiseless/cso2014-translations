@@ -1,0 +1,7 @@
+﻿Greesia Museum - Deathmatch
+
+Planning/Production: NEXON
+Texture/Modeling/Revision: NEXON
+
+- Kill all nearby players.
+- The player with the most kills wins.

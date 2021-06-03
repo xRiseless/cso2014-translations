@@ -1,0 +1,12 @@
+﻿Angel City - Plant the bomb / Defuse the bomb
+Creator: unknown
+Map created by: Nexon
+Texture created by: Nexon
+
+Counter-Terrorist: Terrorist's movement has been detected from a city area in Thailand.
+Stop their terrorism and protect all citizens!
+
+Terrorist: Overcome Counter-Terrorist's interruption and
+Destroy the department store!
+
+Other information: There is only one bombsite in this map.

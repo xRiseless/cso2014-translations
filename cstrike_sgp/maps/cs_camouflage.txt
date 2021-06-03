@@ -1,0 +1,9 @@
+﻿Camouflage - Hostage Rescue
+Plan/Level Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+There are Terrorist forces hidden in an old building that was known to be a warehouse. As soon as this becomes known, the Terrorists kidnap four doctors from a near by goverment research facility and demand ransom in the form of an escape helicopter.
+Counter-Terrorists: Kill all Terrorists that are in the way and rescue the hostages.
+Terrorist: Keep the Counter-Terrorists from rescueing the hostages.
+
+Remark: There are four hostages in this map.

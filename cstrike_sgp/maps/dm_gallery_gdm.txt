@@ -1,0 +1,11 @@
+﻿Gallery - Gun Deathmatch
+Plan / Produced by : Nexon
+Texture/Modeling/Modification : Nexon
+
+- Kill all players around.
+- Kill the most of players to win.
+
+Goal
+- Victory goes to a team who kills enemy team members first with a final grenade.
+- Kill every enemy on the map to gain team score.
+- First to score the designated kills within the time limit wins.

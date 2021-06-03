@@ -1,0 +1,7 @@
+﻿Gallery - Annihilation
+Plan/Level Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+The Terrorists and Counter-Terrorists are on the move to backup their teams in the fight at the Greesia Museum, when they run into each other at the art gallery next door.
+
+Goal: Kill all enemies.

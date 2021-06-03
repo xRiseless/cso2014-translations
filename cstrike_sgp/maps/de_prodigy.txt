@@ -1,0 +1,9 @@
+﻿Prodigy - Plant the bomb / Defuse the bomb
+Map created by: Hobbit (hobbit@nodream.net)
+
+Counter-Terrorist: Stop Terrorist from planting C4 in either the computer lab or fuel pipe control room. Soliders are to defuse any bombs planted in target areas.
+
+Terrorist: Ignite the C4 planted at the explosion target located in one of the bomb sites.
+
+
+Other Information: There are two bomb sites in this map.

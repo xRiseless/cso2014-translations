@@ -1,0 +1,11 @@
+﻿747 - Rescue Hostage
+Map created by: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Texture created by: "The Postman" 
+(heavengame@yahoo.com)
+
+Counter-Terrorist: Sneak into the airplane and rescue the hostages.
+
+Terrorist: Stop Counter-Terrorist from rescuing the hostages.
+
+Other Information: There are 5 hostages on the plane.

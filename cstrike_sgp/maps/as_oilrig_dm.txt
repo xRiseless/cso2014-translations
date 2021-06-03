@@ -1,0 +1,8 @@
+﻿Oilrig - Deathmatch
+Level Design: MacMan (macmaninfi@aol.com)
+Texture Edit: MacMan
+Westland Wessex Helicopter Design: Agent Orange 
+[agentorange@freemail.nl]
+
+- Kill all players around.
+- The player with the most kills in the end wins.

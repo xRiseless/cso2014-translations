@@ -1,0 +1,10 @@
+﻿Abyss2 - Zombie
+Plan/Level Design: Nexon
+Texture/Modification : Nexon
+
+To rescue the survivers left behind in the ReX research institute B-1, the emergency team has to take a detour through block C, which contains military training facilities.
+But when they try to enter B-1 through block C-5 they are attacked by unknown creatures.
+The emergency team and creatures try any means to get out of there, but this only results in them waking up an abysmal creature...
+
+Humans: Survive the zombie assault until backup arrives. Keep an eye on your comrades since any of the humans can turn into zombies. You can kill all zombies.
+Zombie: Humans turned into zombies have to attack all humans to turn them into zombies. Zombies are stronger and faster than humans.

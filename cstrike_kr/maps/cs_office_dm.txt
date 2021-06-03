@@ -1,0 +1,6 @@
+﻿사무실(Office) - 데스매치
+맵 제작: Hobbit (Hobbit@nodream.net)	
+텍스처 제작: Sphinx and George_Pooshoes.
+
+- 주변의 모든 플레이어들을 사살한다.
+- 최종적으로 가장 많은 사살 수를 낸 플레이어가 승리한다.

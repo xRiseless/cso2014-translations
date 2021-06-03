@@ -1,0 +1,9 @@
+﻿古城废墟(Chateau) – 解除炸弹
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+T阵营：古堡事件过后，威廉打算重建过去他度假时使用过的古城。必须阻止他重建古城。在古城的前院或后院安装C4炸药。
+
+CT阵营：阻止T阵营安装炸弹，保护威廉的财产。
+

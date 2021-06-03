@@ -1,0 +1,6 @@
+﻿Champion)(Champion) - Team Death Match
+Plan / Production : Nexon
+Texture/Modeling/Modification : Nexon
+
+- Every enemy you kill awards your team a point.
+- First team to reach the designated score wins.

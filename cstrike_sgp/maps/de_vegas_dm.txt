@@ -1,0 +1,7 @@
+﻿Vegas - Death Match
+Production : +Cadaver+
+Texture : George_Pooshoes, JOeSmOe
+Modify : Nexon
+
+- Kill all players around.
+- The player with the most kills in the end wins.

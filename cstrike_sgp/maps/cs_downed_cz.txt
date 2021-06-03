@@ -1,0 +1,8 @@
+﻿Downed - Hostage Rescue
+
+A civilian airplane was attacked by a Terrorist RPG and has crashed into the jungle. The Terrorists have taken civilians hostage and are demanding a large amount of money.
+
+- Counter-Terrorists: Rescue the hostages. Neutralize the Terrorists without killing the hostages.
+- Terrorists: Use all means necessary to prevent the Counter-Terrorist rescue attempt.
+
+Note: There are 4 hostages in this mission.

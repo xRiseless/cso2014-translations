@@ -1,0 +1,6 @@
+﻿建筑工地(Vertigo) – 生化盟战
+地图制作： Chris Auty (Barney) (fragged101@yahoo.com)
+纹理制作： Telnets and J0esm0e
+
+- 消灭地图上的所有敌人，提高友军队伍的分数。
+- 首先达成指定击杀数的一方获胜。

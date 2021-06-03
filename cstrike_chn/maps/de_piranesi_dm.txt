@@ -1,0 +1,7 @@
+﻿皮诺内西(Piranesi) – 个人决战模式
+Fingers - iikkak@valvesoftware.com
+Thanks to Ido Magal for texture sources
+
+- 击杀地图上的所有角色。
+- 最终击杀次数最多的角色获胜。
+

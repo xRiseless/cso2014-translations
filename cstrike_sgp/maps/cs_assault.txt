@@ -1,0 +1,10 @@
+﻿Cs_assault
+
+Assault is a hostage rescue map that pits the Terrorists inside a large garage where they must defend against two ground entrances (Front entrance and Back door),
+ and another entrance on the roof. This map is relatively small, so it is suitable for small to medium groups.
+
+Terrorist Objectives:
+Eliminate the Counter-Terrorists before they rescue the hostages.
+
+Counter-Terrorists Objectives:
+Escort the hostages to the rescue zone.

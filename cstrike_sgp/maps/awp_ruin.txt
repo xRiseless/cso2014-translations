@@ -1,0 +1,8 @@
+﻿Ancient Ruins (Ruin) - Annihilation
+Plan/Level Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+One of our sniper team that was sent into the jungle to raid the secret base of the Terrorists is ambushed. They have been contacted by a Terrorist sniper team near the ancient ruins.
+With both teams losing contact to base, their only survivor chance is to engage with their sniper weapons.
+
+Goal: Get rid of all of the opposing side's snipers.

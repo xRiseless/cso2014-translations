@@ -1,0 +1,8 @@
+﻿风暴回廊(Storm) – 团队决战模式
+地图制作： FLiPMoDE|Daank
+      (daankvirus420k@icqmail.com)
+纹理制作：  Fingers - jOeSmOe - MattC
+
+- 消灭地图上的所有敌人，提高友军队伍的分数。
+- 首先达成指定击杀数的一方获胜。
+

@@ -1,0 +1,6 @@
+﻿Moonlight - Deathmatch
+Plan/Level Design: Nexon
+Mapping/Modification: Nexon
+
+- Kill all players around.
+- The player with the most kills in the end wins.

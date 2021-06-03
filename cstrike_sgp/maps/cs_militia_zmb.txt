@@ -1,0 +1,7 @@
+﻿Militia - Zombie
+Level Design: Andrew Aumann (andrewja@home.com)
+
+Zombies are swarming everywhere, escaping from the Rex Lab, humans will have to stick together to surpress the outbreak!
+
+Humans: Stay alive for the duration of the round or eliminate all Zombies to win.
+Zombie: Zombies are strong and faster than humans, attack all humans and try to infect the entire team to win.

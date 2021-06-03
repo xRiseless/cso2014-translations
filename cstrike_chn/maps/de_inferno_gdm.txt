@@ -1,0 +1,7 @@
+﻿原油通路(Inferno) – 枪王决战模式
+地图制作： Chris Auty (Barney) (narby@counter-strike.net)
+纹理制作： Valve software
+
+- 率先使用高爆手雷击杀敌方的队伍将获得胜利
+- 击杀所有出现在你面前的敌人，提高整个队伍的总分
+- 在限制的时间内优先达到指定击杀数的队伍获得胜利

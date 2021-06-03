@@ -1,0 +1,6 @@
+﻿사무실(Office) - 좀비 연합
+맵 제작: Hobbit (Hobbit@nodream.net)	
+텍스처 제작: Sphinx and George_Pooshoes.
+
+- 모든 적 팀원을 사살하여 팀의 점수를 올려야 한다.
+- 지정된 사살 수를 채우면 승리한다.

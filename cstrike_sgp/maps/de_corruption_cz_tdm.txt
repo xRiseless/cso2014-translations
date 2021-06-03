@@ -1,0 +1,5 @@
+﻿Minoa (Corruption) - Team Deatchmatch
+by Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.

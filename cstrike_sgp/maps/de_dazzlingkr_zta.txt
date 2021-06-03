@@ -1,0 +1,7 @@
+﻿Hong Kong (Dazzling) – Defeat Zombie Association
+Plan / Production : Nexon
+Texture/Modeling/Modify : Nexon
+
+- Kill all the enemies on the map.
+- Meet a designated round number to win.
+- No respawn until start to next round.

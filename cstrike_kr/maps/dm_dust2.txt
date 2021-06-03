@@ -1,0 +1,7 @@
+﻿더스트 II 섬멸 (Dust2 Annihilation) - 섬멸
+맵 제작: DaveJ (http://www.johnsto.co.uk/)
+텍스처 제작: MacMan (MacManInfi@aol.com)
+맵 수정: Nexon
+
+- 맵 상의 모든 적 팀원을 사살하라.
+- 팀 중 한쪽이 전멸하면 남은 팀이 승리한다.

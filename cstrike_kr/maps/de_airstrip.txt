@@ -1,0 +1,12 @@
+﻿비행장(Airstrip) - 폭탄설치 / 해체
+맵 제작: Barney (aka narby) (narby@counter-strike.net)
+
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+대 테러리스트: 테러리스트들이 비행장 건물에 폭탄을 장착하지 못하도록 막아라.
+
+테러리스트: 비행장 건물에 C4를 장착하여 연료 탱크와 화물 창고를 폭파하라.
+
+기타: 이 맵에는 폭파 목표 지점이 2 곳 있다.
+
+

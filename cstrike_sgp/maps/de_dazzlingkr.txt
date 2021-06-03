@@ -1,0 +1,9 @@
+﻿Hong Kong (Dazzling) – Plant the Bomb/Defuse the Bomb
+Plan / Production : Nexon
+Texture/Modeling/Modify : Nexon
+
+Suspicious Terrorists' activities have been detected in the Central Distric, Hongkong. The government has sent in Counter-Terrorists in an attempt to curb the Terrorists' activities.
+
+Terrorist Objective: Plant the bomb at either bombsite A or bombsite B as indicated on the mini-map. Prevent the Counter-Terrorists from defusing the bomb.
+
+Counter-Terrorist Objective: Prevent the Terrorists from successfully detonating the bomb.

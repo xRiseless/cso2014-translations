@@ -1,0 +1,11 @@
+﻿事务所(Office) – 拯救人质
+
+地图制作：Hobbit (Hobbit@nodream.net)	
+纹理制作：Sphinx and George_Pooshoes.
+
+CT阵营：进入办公楼拯救人质。 注意不要让人质置身于危险之中，并消灭所有T阵营成员。
+
+T阵营：阻止CT阵营救出人质。
+
+其他：这次任务中有4名人质。
+

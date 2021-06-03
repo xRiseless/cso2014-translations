@@ -1,0 +1,4 @@
+﻿Vostok(Vostok) - Death Match
+
+- Kill all players around.
+- The player with the most kills in the end wins.

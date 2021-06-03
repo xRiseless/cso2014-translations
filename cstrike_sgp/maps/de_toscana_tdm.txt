@@ -1,0 +1,7 @@
+﻿Toscana - Team Death Match
+Map created by: Nexon
+Texture created by: Nexon
+
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.

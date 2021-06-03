@@ -1,0 +1,6 @@
+﻿Champion(Champion) - Death Match
+Plan / Production : Nexon
+Texture/Modeling/Modification : Nexon
+
+- Kill every enemy on sight.
+- The player with the most kills wins.

@@ -1,0 +1,12 @@
+﻿DARKCITY - Zombie
+Level Design: Nexon
+Texture Edit: Nexon
+
+The sound of the laughter of children echoes throughout the abandoned city. No trace of life is to be found anywhere, as the dark and desolate city has long since been infested by zombies.
+
+Gunshots are heard, as the few remaining survivors make a final stand against the zombies. Flames and explosions are a common sight in this hellscape. However, no matter how hard the survivors fight, their numbers dwindle as the days go by, but so does the number of undead. It has finally come to this. Survivors and zombies face off one another for dominance over the Dark City.
+
+Objectives:
+
+Humans: Fight off the zombies and survive until dawn
+Zombies: Eliminate all humans

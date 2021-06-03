@@ -1,0 +1,8 @@
+Chateau - Zombie
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+While exchanging fire with the Terrorists, scouts have spotted strange creatures that look like zombies, who have obviously escaped from the ReX Research Institute. The humans have to combine forces to stay alive.
+
+Humans: Either stay alive for the rest of the time or kill all zombies.
+Zombie: Humans turned into zombies have to kill all remaining humans. Zombies are stronger and faster than humans.

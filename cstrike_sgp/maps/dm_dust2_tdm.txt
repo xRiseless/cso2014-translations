@@ -1,0 +1,7 @@
+﻿Dust II Annihilation - Team Death Match
+Map created by: DaveJ (http://www.johnsto.co.uk/)
+Texture created by: MacMan (MacManInfi@aol.com)
+Map modification: Nexon
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.

@@ -1,0 +1,9 @@
+﻿Italy(Italy) - Team Death Match
+Map created by:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Text/Graphic created by:
+DigiChaos (digichaos@hotsheep.com)
+
+
+- Eliminate all opponents.
+- Complete the victory goal to win the game.

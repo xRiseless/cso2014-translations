@@ -1,0 +1,5 @@
+﻿Nuke - Deathmatch
+Level Design: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Kill all players around.
+- The player with the most kills in the end wins.

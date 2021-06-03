@@ -1,0 +1,9 @@
+﻿意大利(Italy) – 个人决战模式
+地图制作：
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+纹理/图形制作：
+DigiChaos (digichaos@hotsheep.com)
+
+- 击杀地图上的所有角色。
+- 最终击杀次数最多的角色获胜。
+

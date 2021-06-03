@@ -1,0 +1,10 @@
+﻿De_dust
+
+De_dust is an official bomb defusal map and the first installment in the dust series. It is set in a Middle Eastern town and features two bombsites.
+
+Terrorist Objective:
+Plant the bomb at either bombsite A or bombsite B as indicated on the mini-map. Prevent the Counter-Terrorists from defusing the bomb.
+
+Counter-Terrorists Objective:
+Prevent the Terrorists from successfully detonating the bomb.
+

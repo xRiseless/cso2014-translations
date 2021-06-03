@@ -1,0 +1,12 @@
+﻿皮诺内西(Piranesi) – 解除炸弹
+
+Fingers - iikkak@valvesoftware.com
+
+Thanks to Ido Magal for texture sources
+
+背景：维拉•皮诺内西是一座美丽的宫殿，不久将变身成为一座博物馆向普通居民开放。目前无数高价美术品正运往这座美丽的宫殿。
+
+T阵营：破坏博物馆中最重要的2件展品使其无法开放。（前院的日晷仪或后院的太阳系仪）
+
+CT阵营：阻止T阵营的行动保护历史文物。
+

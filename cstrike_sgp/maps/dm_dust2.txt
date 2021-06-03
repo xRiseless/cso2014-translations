@@ -1,0 +1,7 @@
+﻿Dust II Annihilation - Annihilation
+Map created by: DaveJ (http://www.johnsto.co.uk/)
+Texture created by: MacMan (MacManInfi@aol.com)
+Map modification: Nexon
+
+- Kill all the enemies on the map.
+- Winners will be the team survived after annihilating all enemies.

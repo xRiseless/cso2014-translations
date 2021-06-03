@@ -1,0 +1,6 @@
+﻿Office - Zombie Unite
+Level Design: Hobbit (Hobbit@nodream.net)	
+Texture Edit: Sphinx and George_Pooshoes.
+
+- Kill all enemies to gain team score.
+- First to score the designated kills wins.

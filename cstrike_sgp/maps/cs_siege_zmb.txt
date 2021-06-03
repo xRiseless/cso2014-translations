@@ -1,0 +1,7 @@
+﻿Siege - Zombie
+Map created by: N0TH1NG  (n0th1ng@mailcity.com)
+
+In the middle of the fight between the Counter-Terrorists and Terrorists, strange creatures appear that look like zombies, having obviously escaped from the ReX Research Institute. The humans have to combine their forces to stay alive.
+
+Human : Either stay alive for the rest of the time or kill all zombies.
+Zombie : Humans turned into zombies have to attack all humans to turn them into zombies. Zombies are stronger and faster than humans.

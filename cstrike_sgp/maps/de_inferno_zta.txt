@@ -1,0 +1,7 @@
+﻿Inferno(Inferno) - Zombie Association Annihilation
+Map created by: Chris Auty (Barney) (narby@counter-strike.net)
+Texture created by: Valve software
+
+- Kill all the enemies on the map.
+- Victory goes to the first team that reaches the designated round numbers.
+- No respawn until the start of the next round.

@@ -1,0 +1,12 @@
+﻿建筑工地(Vertigo) – 解除炸弹
+地图制作： Chris Auty (Barney) (fragged101@yahoo.com)
+纹理制作： Telnets and J0esm0e
+
+T阵营企图摧毁正在建设中的摩天大厦。
+
+CT阵营：阻止建筑被摧毁。
+
+T阵营：安装炸弹摧毁建筑。
+
+其他：留心不要从建筑上坠落。
+

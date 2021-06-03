@@ -1,0 +1,8 @@
+﻿Italy(Italy) - Death Match
+Map Created by:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Text/Graphic created by:
+DigiChaos (digichaos@hotsheep.com)
+
+- Eliminate all players.
+- Player with the highest frags, wins the game.

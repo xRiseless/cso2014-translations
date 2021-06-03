@@ -1,0 +1,10 @@
+﻿Urban Assault – Battle Rush
+Map created by: Nexon
+Texture created by: Nexon
+Scenario
+Some Terrorist's former leader who is a condemned criminal has been used as an experiment object in a special Research Institute.
+CT Force will perform a mission to transfer the Condemned Criminal to other area.
+TR Force obtained the information and they will perform an Ambush Operation by blocking the transfer route and rescue the leader.
+Goal                                         
+Counter-Terrorist: Destroy any obstacles that block the way and convey the Transport Car until it reaches the destination.
+Terrorist: Rescue the leader by dismantling the entire bondage devices that attached on the car.

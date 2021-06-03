@@ -1,0 +1,11 @@
+﻿Vegas - Plant the Bomb / Defuse the Bomb
+Production : +Cadaver+
+Texture : George_Pooshoes, JOeSmOe
+Modify : Nexon
+
+
+Counter-Terrorist: Enter into building and protect target from being bombed and kill all the Terrorists.
+
+Terrorist: Explode a vault using through C4.
+           If it's going to fail then explode the Sphinx as a show of power to the world.
+　　　　　　 

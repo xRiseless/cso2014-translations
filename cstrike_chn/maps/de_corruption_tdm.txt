@@ -1,0 +1,5 @@
+﻿米诺雅(Minoa) – 团队决战模式
+地图制作: Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- 消灭地图上的所有敌人，提高友军队伍的分数。
+- 首先达成指定击杀数的一方获胜。

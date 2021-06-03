@@ -1,0 +1,8 @@
+﻿玫瑰庄园(Estate) – 拯救人质
+地图制作： Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+CT阵营：拯救出被关押在公寓里的3名人质。
+
+T阵营：阻止CT阵营救出人质。
+

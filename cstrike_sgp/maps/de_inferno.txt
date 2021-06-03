@@ -1,0 +1,12 @@
+﻿Inferno(Inferno) - Plant the bomb / Defuse the bomb
+Map created by: Chris Auty (Barney) (narby@counter-strike.net)
+Texture created by: Valve software
+
+Terrorists are attempting to explode important oil pipelines which pass through two small towns.
+
+Counter-Terrorists: Stop the terrorists from exploding the oil pipelines.
+
+Terrorists: Explode two target oil pipelines.
+
+
+Other information: There are two target explosion areas in this map.

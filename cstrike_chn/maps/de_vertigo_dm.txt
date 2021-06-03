@@ -1,0 +1,7 @@
+﻿建筑工地(Vertigo) – 个人决战模式
+地图制作： Chris Auty (Barney) (fragged101@yahoo.com)
+纹理制作： Telnets and J0esm0e
+
+- 击杀地图上的所有角色。
+- 最终击杀次数最多的角色获胜。
+

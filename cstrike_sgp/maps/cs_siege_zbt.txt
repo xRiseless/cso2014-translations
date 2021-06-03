@@ -1,0 +1,6 @@
+﻿Siege - Zombie Association
+Map created by: N0TH1NG  (n0th1ng@mailcity.com)
+
+- Kill all enemy team members around the map to increase team score.
+- First to score the designated kills wins.
+- Obtain an item box to add your kill count.

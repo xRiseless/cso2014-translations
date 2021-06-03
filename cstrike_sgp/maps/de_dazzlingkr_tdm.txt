@@ -1,0 +1,6 @@
+﻿Hong Kong (Dazzling) – Team Death Match
+Plan / Production : Nexon
+Texture/Modeling/Modify : Nexon
+
+- Kill all enemies on the map to gain team score.
+- First team to reach designated kills wins.

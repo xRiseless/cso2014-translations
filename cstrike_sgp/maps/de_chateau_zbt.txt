@@ -1,0 +1,8 @@
+Chateau - Zombie Unite
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.
+- Acquisition of chest-box item counts as a kill.
+ 

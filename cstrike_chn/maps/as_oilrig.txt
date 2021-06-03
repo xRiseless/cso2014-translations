@@ -1,0 +1,11 @@
+﻿钻井平台(Oilrig) – VIP
+地图制作： MacMan (macmaninfi@aol.com)
+纹理制作： MacMan
+Westland Wessex直升机制作： Agent Orange 
+[agentorange@freemail.nl]
+
+背景：一名重要证人藏身于这艘钻井平台上。 在之前的证人保护计划中被移送至此，但如今已是不宜久留之地。 军方派遣了一架直升机以安全护送证人离开
+
+CT阵营：不管发生什么事也必须保护VIP。 安全地将人质护送上甲板上的直升机。
+
+T阵营：在VIP成功逃脱前将其击倒。

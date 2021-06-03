@@ -1,0 +1,5 @@
+﻿Siege - Team Death Match
+Map created by: N0TH1NG  (n0th1ng@mailcity.com)
+
+- Need to kill every enemies on the map to gain team score.
+- First to score the designated kills wins.

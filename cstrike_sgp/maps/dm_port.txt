@@ -1,0 +1,8 @@
+﻿The Port (The Port) - Annihilation
+Plan / Production : Nexon
+Texture/Modeling/Modify : Nexon
+
+A gun battle breaks out with Terrorist in a port where lots of the cargo containers are piled up.
+
+- Kill all the enemies on the map.
+- Winners will be a team survived till the last by annihilating enemies.

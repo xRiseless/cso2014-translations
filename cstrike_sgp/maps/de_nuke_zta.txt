@@ -1,0 +1,6 @@
+﻿Nuke(Nuke) - Zombie Association Annihilation
+Map created by: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Kill all players around.
+- Victory goes to the first who reached the designated round numbers.
+- No respawn untill start to next round.

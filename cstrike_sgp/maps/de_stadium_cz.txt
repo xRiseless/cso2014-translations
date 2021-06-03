@@ -1,0 +1,6 @@
+﻿Stadium - Bomb Planting/Defusing
+
+- Counter-Terrorists: Stop the Terrorists from their attempt to bomb the stadium.
+- Terrorists: Bomb the stadium.
+
+Note: There are two bombing sites in this mission.

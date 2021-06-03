@@ -1,0 +1,7 @@
+﻿Storm – Team Death Match
+Map created by: FLiPMoDE|Daank
+      (daankvirus420k@icqmail.com)
+Texture created by:  Fingers - jOeSmOe - MattC
+
+- Eliminate all enemies on the map to gain team score.
+- First to score the targeted kills will win.

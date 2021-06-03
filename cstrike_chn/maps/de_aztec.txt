@@ -1,0 +1,10 @@
+﻿阿兹特克(Aztec) – 解除炸弹
+地图制作： Chris Auty (Barney) (narby@counter-strike.net)
+纹理制作： Macman 
+
+CT阵营：阻止T阵营摧毁遗迹。
+
+T阵营：摧毁珍贵的阿兹特克（Aztec）遗迹。
+
+其他：在这个地图中爆破目标有2处。
+

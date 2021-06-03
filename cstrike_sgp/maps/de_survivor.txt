@@ -1,0 +1,12 @@
+﻿Survivor - Plant the bomb / Defuse the bomb
+Map created by: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+Terrorist: Explode a truck or a crashed plane.
+Counter-Terrorist: Prevent the Terrorists from bombing.
+
+Background:
+In a heavy snowstorm, a plane that carrying a top secret goods crashed. Inboard Aircrews escaped successfully with their parachute, and start unloading the goods to a truck. However, the heavy snowfall prevent the SWAT-team from unloading all of the goods from the plane.
+
+Terrorist following the plane will try all means to prevent the goods to be loaded to the truck from the crashed plane or allowing the CT team to escape safely.

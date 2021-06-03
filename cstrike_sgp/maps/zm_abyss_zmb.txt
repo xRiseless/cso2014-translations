@@ -1,0 +1,10 @@
+﻿Abyss - Zombie
+Plan/Level Design: Nexon
+Texture/Modification : Nexon
+
+Some team members got cut off in block B-1 when a C4 bomb went off during their duty in block B-2 of the ReX research institute.
+This place used to be a laboratory for experiments on living bodies, but after the experiments failed, it was sealed off. 
+Due to the explosions, the abysmal creature that was confined here has woken...
+
+Humans: Survive the zombie assault until backup arrives. Keep an eye on your comrades since any of the humans can turn into zombies. You can kill all zombies.
+Zombie: Humans turned into zombies have to attack all humans to turn them into zombies. Zombies are stronger and faster than humans.

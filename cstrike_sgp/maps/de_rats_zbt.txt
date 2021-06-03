@@ -1,0 +1,7 @@
+﻿Rats (Rats) - Zombie Association
+Plan / Production : Nexon
+Texture / Modification : Nexon
+
+- Kill all enemies around the map to increase team score.
+- First to score the designated kills wins.
+- Obtain an item box which can add to your kill count.

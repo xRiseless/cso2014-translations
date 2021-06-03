@@ -1,0 +1,14 @@
+﻿Suzhou (Suzhou) - Gun Deathmatch
+Plan / Production : Nexon
+Texture/Modeling/Modify : Nexon
+
+
+The China government has received news from the intelligence that drug smuggling is happening in Suzhou village, located at the outskirts of the city controlled by the Terrorist.
+Counter-Terrorist has covered the village and found the Terrorist inside the village.
+Terrorist's scout has announced the Counter-Terrorist's sudden attack and are prepared for the battle.
+
+
+Goal
+- Victory goes to the team who kills all enemy team members first with a final grenade.
+- Need to kill every enemy on the map to gain team score.
+- First to score the designated kills within the time limit wins.

@@ -1,0 +1,11 @@
+﻿Oil rig (Oilrig) - Assassination
+Map created by: MacMan (macmaninfi@aol.com)
+Texture created by: MacMan
+West land wessex helicopter created by: Agent Orange 
+[agentorange@freemail.nl]
+
+Background: Oil rig is where the most important witness is hiding in. He has been hiding here safely by hostage protection program, however this place is no longer safe. Therefore a helicopter has sent to bring the witness to a safer place. 
+
+Counter terrorist: Protect VIP no matter what happens. Lead him to a helicopter at deck. 
+
+Terrorist: Eliminate VIP before he escapes. 

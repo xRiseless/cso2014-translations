@@ -1,0 +1,7 @@
+﻿Union - Deathmatch
+
+Planning/Production: NEXON
+Texture/Revision: NEXON
+
+- Kill all nearby players.
+- The player with the most kills wins.

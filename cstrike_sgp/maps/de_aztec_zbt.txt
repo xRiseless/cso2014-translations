@@ -1,0 +1,7 @@
+﻿Aztec - Zombie Unite
+Level Design: Chris Auty (Barney) (narby@counter-strike.net)
+Texture Edit: Macman 
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.
+- The acquisition of an item-chest counts as kill.

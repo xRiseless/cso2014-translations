@@ -1,0 +1,7 @@
+﻿Piranesi (Piranesi) - Zombie Association Annihilation
+Fingers - iikkak@valvesoftware.com
+Thanks to Ido Magal for texture sources
+
+- Kill all the enemies on the map.
+- Victory goes to the first who reached the designated round numbers.
+- No respawn until the start of next round.

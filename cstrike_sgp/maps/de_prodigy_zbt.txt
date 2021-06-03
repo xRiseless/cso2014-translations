@@ -1,0 +1,6 @@
+﻿Prodigy - Zombie Association
+Map created by: Hobbit (hobbit@nodream.net)
+
+- Kill all enemies in the map to increase team score.
+- First to score the designated kills wins.
+- Obtain an item box to add your kill count.

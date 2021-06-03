@@ -1,0 +1,9 @@
+﻿钻井平台(Oilrig) – 个人决战模式
+地图制作： MacMan (macmaninfi@aol.com)
+纹理制作： MacMan
+Westland Wessex直升机制作： Agent Orange 
+[agentorange@freemail.nl]
+
+- 击杀地图上的所有角色。
+- 最终击杀次数最多的玩家获胜。
+

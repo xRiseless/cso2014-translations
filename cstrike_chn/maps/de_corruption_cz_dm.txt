@@ -1,0 +1,6 @@
+﻿米诺雅(Minoa) –  个人决战模式
+地图制作: Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- 击杀地图上的所有角色。
+- 最终击杀次数最多的角色获胜。
+

@@ -1,0 +1,9 @@
+﻿Italy(Italy) - Zombie
+Map Created by:glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Texy/Graphic created by:DigiChaos (digichaos@hotsheep.com)
+
+Zombies have escaped Rex Laboratory, the only way to survive is to work together to push the invading creatures back to where they came from.
+
+Humans: Survive the Zombie's attacks or eliminate all Zombies within the stipulated time. Shots at Zombies slow them down, momentarily.
+Zombie: Zombies are to infect all humans till there are no more standing! Zombies have higher physical strength and speed compared to humans. 
+

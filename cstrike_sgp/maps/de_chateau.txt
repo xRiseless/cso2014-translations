@@ -1,0 +1,8 @@
+﻿Chateau(Chateau) - Plant the bomb / Defuse the bomb
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+Terrorist: After the accident in Koble, Sir William is rebuilding an old castle where he usually spends his summer holidays. Stop him at all cost from rebuilding the old castle by destroying the front or back side of the yard with the C4
+
+Counter-Terrorist: Protect Sir William's property with your life from the Terrorist and prevent the explosion to happen. 

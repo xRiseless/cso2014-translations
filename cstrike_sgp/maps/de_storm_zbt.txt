@@ -1,0 +1,8 @@
+﻿Storm - Zombie Unite
+
+Map Created By: FLiPMoDE|Daank
+Texture Created By:  Fingers - jOeSmOe - MattC
+
+- Raise the team score by killing all enemy team members on the map.
+- Win by achieving a designated number of kills.
+- Kill count will increase if item box is obtained.

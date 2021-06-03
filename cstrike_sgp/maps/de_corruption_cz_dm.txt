@@ -1,0 +1,5 @@
+﻿Minoa (Corruption) - Deatchmatch
+by Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Kill all players around.
+- The player with the most kills in the end wins.

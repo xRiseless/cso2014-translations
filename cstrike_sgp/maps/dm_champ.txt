@@ -1,0 +1,6 @@
+﻿Champion(Champion) - Annihilation
+Plan / Production : Nexon
+Texture/Modeling/Modification : Nexon
+
+- Eliminate all enemies.
+- The team to eliminate all enemies wins.

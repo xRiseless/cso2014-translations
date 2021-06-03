@@ -1,0 +1,12 @@
+﻿Toscana - Plant the bomb / Defuse the bomb
+Map created by: Nexon
+Texture created by: Nexon
+
+Counter-Terrorist: Terrorist is trying to blow up their Toscana headquarters in Italy to destroy all evidences, as their headquarters has been discovered.
+Soliders are to defuse any bombs planted in target areas.
+Annihilate all enemies along the way!
+
+Terrorist: Ignite the C4 planted at the explosion target located in one of the bomb sites.
+Watch out for disturbances from the Counter-Terrorist and destroy all evidences related with the headquarters!!
+
+Other information: There are two bomb sites in this map.

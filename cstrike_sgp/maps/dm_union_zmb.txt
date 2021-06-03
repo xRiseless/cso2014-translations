@@ -1,0 +1,9 @@
+﻿Union - Zombie
+
+Planning/Production: NEXON
+Texture/Revision: NEXON
+
+During the battle between Terrorists and Counter-Terrorists, unidentified beings were discovered. They appear to be Zombies that escaped from the Rex Laboratory. The Humans must now work together in order to survive.
+
+- Humans: Survive the Zombie attacks for the remaining duration or kill all the Zombies.
+- Zombies: Those who have turned into Zombies must kill the Humans and turn them into Zombies. Zombies have higher HP and faster speeds than Humans.

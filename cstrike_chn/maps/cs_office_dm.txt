@@ -1,0 +1,7 @@
+﻿事务所(Office) – 个人决战模式
+地图制作：Hobbit (Hobbit@nodream.net)	
+纹理制作：Sphinx and George_Pooshoes.
+
+- 击杀地图上的所有角色。
+- 最终击杀次数最多的角色获胜。
+

@@ -1,0 +1,8 @@
+﻿Italy(Italy) - Hostage Rescue
+Map Created by:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Text/Graphic created by:
+DigiChaos (digichaos@hotsheep.com)
+
+Counter Terrorist: Rescue hostages from the Terrorists who have them detained somewhere in the small Italian village.
+Terrorist: Prevent the rescue of the hostages by the Counter Terrorists.

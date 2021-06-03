@@ -1,0 +1,10 @@
+﻿意大利(Italy) – 拯救人质
+地图制作：
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+纹理/图形制作：
+DigiChaos (digichaos@hotsheep.com)
+
+CT阵营：从T阵营的手中拯救被困于小镇的人质。
+
+T阵营：阻止CT阵营救出人质。
+

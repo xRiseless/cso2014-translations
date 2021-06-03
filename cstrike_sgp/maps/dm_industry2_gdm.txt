@@ -1,0 +1,12 @@
+﻿Industry2(Industry2) - Gun Deathmatch
+Plan / Production : Nexon
+Texture/Modeling/Modification : Nexon
+
+Intelligence sources have confirmed that a Terrorist headquarters is located at the outskirts of the city.
+Counter-Terrorist: Ambush the headquarter and kill all Terrorists.
+Terrorists: Defend against Counter-Terrorist's ambush.
+
+Goal
+- Victory condition: First team to kill an enemy with a final grenade.
+- Your team gain a point for every kill.
+- First team to reach the designated point within the time limit wins.

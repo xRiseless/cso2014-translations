@@ -1,0 +1,6 @@
+﻿Hong Kong (Dazzling) – Death Match
+Plan / Production : Nexon
+Texture/Modeling/Modify : Nexon
+
+- Kill all players around.
+- The player with the most kills in the end wins.

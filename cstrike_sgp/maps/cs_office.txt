@@ -1,0 +1,10 @@
+﻿Cs_office
+
+This map is set in an abandoned office building and its surrounding area.
+The several entrances to the office building and hidden corners offer advantages to snipers. 
+
+Terrorist Objectives:
+Eliminate the Counter-Terrorists before they rescue the hostages.
+
+Counter-Terrorists Objectives:
+Escort the hostages to the rescue zone.

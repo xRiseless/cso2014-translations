@@ -1,0 +1,7 @@
+﻿Italy(Italy) - Zombie Association Annihilation
+Map created by:glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Text/Graphic created by:DigiChaos (digichaos@hotsheep.com)
+
+- Eliminate all enemies.
+- Complete the victory goal to win the game.
+- Users that have been eliminated, will only respawn at the start of a new round.

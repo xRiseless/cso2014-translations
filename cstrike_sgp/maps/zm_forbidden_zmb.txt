@@ -1,0 +1,11 @@
+﻿Forbidden - Zombie
+Plan/Produced by: Nexon
+Texture/Modification: Nexon
+
+Nearby an illegal chemical research area
+There is a facility to dispose remaining chemical waste from the research. However, it has been stopped for a pretty long time.
+Now, this place becomes a resting ground for zombies that strengthened from various chemical wastes.
+
+Human: Either stay alive for the remaining round time or annihilate all zombies.
+Zombie: Infect all humans into zombies. Zombies are stronger and faster than humans.
+

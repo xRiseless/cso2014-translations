@@ -1,0 +1,7 @@
+﻿Piranesi (Piranesi) - Zombie Assosiation
+Fingers - iikkak@valvesoftware.com
+Thanks to Ido Magal for texture sources
+
+- Kill all enemy team members around the map to increase team score.
+- Victory goes to the first who reached the designated kills.
+- Obtain an item box to add your kill count.

@@ -1,0 +1,9 @@
+﻿De_dust 2
+
+De_dust2 is the second installment in the dust series.  It is based in the Middle East, similar to de_dust. It is one of the smallest official maps in Counter-Strike Online.
+
+Terrorist Objective:
+Plant the bomb at either bombsite A or bombsite B as indicated on the mini-map. Prevent the Counter-Terrorists from defusing the bomb.
+
+Counter-Terrorists Objective:
+Prevent the Terrorists from successfully detonating the bomb.

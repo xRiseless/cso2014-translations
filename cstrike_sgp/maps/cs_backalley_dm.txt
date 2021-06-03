@@ -1,0 +1,5 @@
+﻿Backalley - Deathmatch
+Level Design: TYR (tyr@barking-dog.com)
+
+- Kill all players around.
+- The player with the most kills in the end wins.

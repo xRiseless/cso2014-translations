@@ -1,0 +1,15 @@
+﻿Union - Zombie Unite
+Plan/Level Design: Nexon
+Texture/Modification : Nexon
+
+The ReX research institute completed successful experiments to find a new antibody and reversal formula for the ReX virus for the zombies to be controlled.
+
+The government used this formula to attack the European base of the Terrorists. However, Doctor ReX who had been believed to be missing, was found there.
+
+Due to a failed experiment he had turned into a zombie himself, but he still behaved like a human.
+
+He wants to take revenge on the government that had forsaken him by combining his zombie army forces with the Terrorists.
+
+
+- Kill all enemies to gain team score.
+- First to score the designated kills wins.

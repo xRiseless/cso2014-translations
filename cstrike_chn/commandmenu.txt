@@ -1,0 +1,339 @@
+﻿// Command Menu definition
+// 
+// Basic Format:
+//		"<Bound Key>" "<Button Text>" "<Command sent to server>"
+//
+// 
+//
+//
+// Buttons can also open up submenus, as follows:
+// {
+// 	"Some More Options",
+//	{
+//		...
+//	}
+// }
+//
+//
+// Buttons preceded with "CUSTOM" are handled in special ways. They can only be moved
+// around or deleted.
+//
+//
+// Limitations:
+//		Maximum of 40 menus.
+//		Maximum of 100 buttons per menu.
+
+//--------------------------------------------------------
+// Everything below here is editable
+
+"1" "#Cstrike_HELP"
+{
+	CUSTOM		"1" "#Cstrike_Map_Desc"	"!MAPBRIEFING"
+	"2" "#Cstrike_Time_Left" 		"timeleft"
+	"3" "#Cstrike_Adjust_Crosshair" 	"adjust_crosshair"
+	"4" "#Cstrike_Use_Left_Hand" 		"cl_righthand 0"
+	"5" "#Cstrike_Use_Right_Hand" 		"cl_righthand 1"
+}
+
+"2" "#Cstrike_TEAM_MESSAGE"
+{
+	// Map Specific
+
+	MAP cs_siege "1" "#Cstrike_Map_Siege"
+	{
+		"1" "#Cstrike_take_underground"	"say_team '占领地下室！'"
+		"2" "#Cstrike_enemy_garage" 		"say_team '停车场发现敌人'"
+		"3" "#Cstrike_rush_hostage_room"   	"say_team '集中火力冲向人质房间！'"
+		"4" "#Cstrike_snipers_watch_out" 	"say_team '有狙击手，小心！'"
+		"5" "#Cstrike_take_upper_route"  	"say_team '走上面！'"
+	}
+
+	MAP de_train "1" "#Cstrike_train"
+	{
+		"1" "#Cstrike_rush_trainyard" 		"say_team '集中火力向火车站爆炸目标冲锋。'"
+		"2" "#Cstrike_rush_enclosed"		"say_team '集中火力向室内爆炸目标冲锋。'"
+		"3" "#Cstrike_flank_them"   		"say_team '侧翼迂回进攻！'"
+		"4" "#Cstrike_bomb_site_secure"  	"say_team '守住爆炸目标！'"
+		"5" "#Cstrike_lend_me_blaster"  	"say_team '火力支援！'"
+	}
+
+	MAP de_vertigo "1" "#Cstrike_vertigo"
+	{
+		"1" "#Cstrike_rush_upper_level" 	"say_team '集中火力冲上层！'"
+		"2" "#Cstrike_rush_lower_level" 	"say_team '集中火力冲下层！'"
+		"3" "#Cstrike_flank_them"   		"say_team '侧翼迂回进攻！'"
+		"4" "#Cstrike_snipers_watch_out"	"say_team '有狙击手，小心！'"
+		"5" "#Cstrike_bomb_site_secure"  	"say_team '守住爆炸目标！'"
+	}
+
+	MAP de_prodigy "1" "#Cstrike_prodigy"
+	{
+		"1" "#Cstrike_rush_to_pipes" 		"say_team '集中火力向通风管区域冲锋！'"
+		"2" "#Cstrike_rush_to_lab" 		"say_team '集中火力向实验室冲锋！'"
+		"3" "#Cstrike_take_the hallway"   	"say_team '占领走廊！'"
+		"4" "#Cstrike_flank_them"		"say_team '侧翼迂回进攻！'"
+		"5" "#Cstrike_take_the_apc"  		"say_team '占领载具通路！'"
+	}
+
+	MAP de_aztec "1" "#Cstrike_aztec"
+	{
+		"1" "#Cstrike_take_bridge"		"say_team '占领吊桥！'"
+		"2" "#Cstrike_enemy_at_bomb_site" 	"say_team '爆炸目标区域发现敌人'"
+		"3" "#Cstrike_rush_to_bomb_site"   	"say_team '集中火力占领爆炸目标区！'"
+		"4" "#Cstrike_bomb_site_secure"	"say_team '守住爆炸目标！'"
+		"5" "#Cstrike_take_water_route"  	"say_team '向湿地进军！'"
+	}
+
+	MAP de_inferno "1" "#Cstrike_inferno"
+	{
+		"1" "#Cstrike_take_bridge"		"say_team '占领吊桥！'"
+		"2" "#Cstrike_enemy_at_bomb_site"	"say_team '爆炸目标区域发现敌人'"
+		"3" "#Cstrike_rush_to_bomb_site"	"say_team '集中火力占领爆炸目标区！'"
+		"4" "#Cstrike_bomb_site_secure"	"say_team '守住爆炸目标！'"
+		"5" "#Cstrike_take_water_route"		"say_team '向湿地进军！'"
+	}
+
+	MAP cs_office "1" "#Cstrike_office"
+	{
+		"1" "#Cstrike_take_back_route"		"say_team '向后门进军！'"
+		"2" "#Cstrike_rush_to_hostages"	"say_team '集中火力向人质区域进军！'"
+		"3" "#Cstrike_do_it_for_manilov"		"say_team '为了马罗尼夫将军！'"
+		"4" "#Cstrike_take_front_route"		"say_team '向正门进军！'"
+		"5" "#Cstrike_flank_them"		"say_team '侧翼迂回进攻！'"
+	}
+
+	MAP cs_backalley "1" "#Cstrike_backalley"
+	{
+		"1" "#Cstrike_flank_them"		"say_team '侧翼迂回进攻！'"
+		"2" "#Cstrike_enemy_overhead" 	"say_team '上方出现敌军！'"
+		"3" "#Cstrike_rush_to_hostages"	"say_team '集中火力向人质区域进军！'"
+		"4" "#Cstrike_go_you_blaster"		"say_team '冲啊！'"
+		"5" "#Cstrike_taking_heavy_fire"		"say_team '正与敌军交火！'"
+	}
+
+	MAP cs_747 "1" "#Cstrike_747"
+	{
+		"1" "#Cstrike_rush_the_plane'"		"say_team '集中火力向机舱冲锋'"
+		"2" "#Cstrike_meet_in_terminal"		"say_team '在终点集合！'"
+		"3" "#Cstrike_enemy_outside_plane"	"say_team '客机外部区域发现敌人'"
+		"4" "#Cstrike_enemy_in_cargo"  	"say_team '货柜区域发现敌人'"
+		"5" "#Cstrike_flank_them"		"say_team '侧翼迂回进攻！'"
+	}
+
+	MAP as_oilrig "1" "#Cstrike_oilrig"
+	{
+		"1" "#Cstrike_rush_to_chopper" 	"say_team '集中火力向直升机移动！'"
+		"2" "#Cstrike_to_the_elevator" 		"say_team '向升降梯移动'"
+		"3" "#Cstrike_vip_spotted"   		"say_team '发现VIP！'"
+		"4" "#Cstrike_sniper_spotted"  		"say_team '发现狙击手！'"
+		"5" "#Cstrike_protect_the_vip"  		"say_team '保护VIP！'"
+	}
+
+	MAP cs_assault "1" "#Cstrike_assault"
+	{
+		"1" "#Cstrike_rush_the_building" 	"say_team '集中火力向建筑物内进攻！'"
+		"2" "#Cstrike_take_the_vents" 		"say_team '占领通风管！'"
+		"3" "#Cstrike_enemy_in_vents"   	"say_team '通风管区域发现敌人！'"
+		"4" "#Cstrike_rush_hostage_room"	"say_team '集中火力冲向人质房间！'"
+		"5" "#Cstrike_team_regroup"  		"say_team '重新组队！'"
+	}
+
+	MAP de_nuke "1" "#Cstrike_nuke"
+	{
+		"1" "#Cstrike_go_to_main_hall" 		"say_team '向主大厅移动！'"
+		"2" "#Cstrike_go_to_basement" 		"say_team '向地下室移动！'"
+		"3" "#Cstrike_flank_yard"   		"say_team '从室外迂回进攻！'"
+		"4" "#Cstrike_flank_comm_room"  	"say_team '从通信室迂回进攻'"
+		"5" "#Cstrike_at_entrance_hall"  	"say_team '有入口！'"
+	}
+
+	MAP de_cbble "1" "#Cstrike_cbble"
+	{
+		"1" "#Cstrike_heading_central_hall" 	"say_team '正在向中廊移动！'"
+		"2" "#Cstrike_heading_underpass" 	"say_team '正在向地道移动！'"
+		"3" "#Cstrike_sniper_in_tower"   	"say_team '塔楼上发现狙击手！'"
+		"4" "#Cstrike_bomb_target_secure"  	"say_team '守住爆炸目标区域！'"
+		"5" "#Cstrike_guard_start_area"  	"say_team '防守出生地！'"
+	}
+
+	MAP de_dust "1" "#Cstrike_dust"
+	{
+		"1" "#Cstrike_heading_to_hallway" 	"say_team '正在向走廊移动！'"
+		"2" "#Cstrike_heading_underpass" 	"say_team '地道发现狙击手！'"
+		"3" "#Cstrike_bomb_a_secure"   	"say_team '守住A区！'"
+		"4" "#Cstrike_bomb_b_secure"  	"say_team '守住B区！'"
+		"5" "#Cstrike_sniper_at_underpass"  	"say_team '地道发现狙击手！'"
+	}
+
+	MAP de_dust2 "1" "#Cstrike_dust2"
+	{
+		"1" "#Cstrike_heading_to_hallway" 	"say_team '正在向走廊移动！'"
+		"2" "#Cstrike_heading_underpass" 	"say_team '地道发现狙击手！'"
+		"3" "#Cstrike_bomb_a_secure"   	"say_team '守住A区！'"
+		"4" "#Cstrike_bomb_b_secure"  	"say_team '守住B区！'"
+		"5" "#Cstrike_heading_to_tunnel"  	"say_team '向地道移动'"
+	}
+
+	MAP cs_italy "1" "#Cstrike_italy"
+	{
+		"1" "#Cstrike_meet_at_market" 		"say_team '在市场集合！'"
+		"2" "#Cstrike_rush_the_house" 		"say_team '集中火力向公寓进军！'"
+		"3" "#Cstrike_head_to_wine_cellar"   	"say_team '向酒窖移动！'"
+		"4" "#Cstrike_rush_long_passage"  	"say_team '集中火力向长廊进攻！'"
+		"5" "#Cstrike_hostages_rescued"  	"say_team '正在拯救人质'"
+	}
+
+	MAP cs_estate "1" "#Cstrike_estate"
+	{
+		"1" "#Cstrike_go_to_sewer" 		"say_team '向下水道移动！'"
+		"2" "#Cstrike_enemy_on_first_story" 	"say_team '1楼发现敌人！'"
+		"3" "#Cstrike_enemy_on_sec_story"   	"say_team '2楼发现敌人！'"
+		"4" "#Cstrike_enemy_in_back"  		"say_team '后方出现敌人！'"
+		"5" "#Cstrike_enemy_in_front"  		"say_team '前方出现敌人！'"
+	}
+	
+	MAP as_tundra "1" "#Cstrike_tundra"
+	{
+		"1" "#Cstrike_use_sec_route" 		"say_team '向2号通路移动！'"
+		"2" "#Cstrike_use_primary_route" 	"say_team '向1号通路移动！'"
+		"3" "#Cstrike_snipers_watch_out"	"say_team '有狙击手，小心！'"
+		"4" "#Cstrike_rush_to_apc"  		"say_team '集中火力向装甲车进军！'"
+		"5" "#Cstrike_rush_to_chopper"  	"say_team '集中火力向直升机移动！'"
+	}	
+
+	MAP cs_militia "1" "#Cstrike_militia"
+	{
+		"1" "#Cstrike_meet_at_garage" 		"say_team '车库通风口集合'"
+		"2" "#Cstrike_meet_front_house" 	"say_team '在房子前面集合！'"
+		"3" "#Cstrike_meet_backyard"   		"say_team '在后院集合！'"
+		"4" "#Cstrike_enemy_topside"  		"say_team '上方出现敌军！'"
+		"5" "#Cstrike_enemy_sewers"  		"say_team '下水道出现敌军！'"
+	}
+
+
+     "2" "#Cstrike_Acknowledged"	"say_team '明白'"
+     "3" "#Cstrike_Negative"		"say_team '做不到！'"
+     "4" "#Cstrike_Go"			"say_team '冲啊！'"
+     "5" "#Cstrike_On_My_Way"		"say_team '移动中'"
+     "6" "#Cstrike_Need_Backup"		"say_team '需要掩护！'"
+}
+
+"3" "------------"
+
+"1" "个人设置"
+{
+	"1" "停止播放背景音乐" "mp3 stop"
+	"2" "功能开关"
+	{
+		"1" "快速切枪"
+		{
+			"1" "开启" "hud_fastswitch 1"
+			"2" "关闭" "hud_fastswitch 0"
+		}
+		"2" "角色锁定"
+		{
+			"1" "开启" "cl_minmodels 1"
+			"2" "关闭" "cl_minmodels 0"
+		}
+		"3" "界面(HUD)"
+		{
+			"1" "开启" "hud_draw 1;cl_radar_on 1"
+			"2" "关闭" "hud_draw 0;cl_radar_on 0"
+		}
+	}
+	"3" "帧数(FPS)"
+	{
+		"1" "显示开关"
+		{
+			"1" "开启" "cl_showfps 1"
+			"2" "关闭" "cl_showfps 0"
+		}
+		"2" "最大帧数设置"
+		{
+			"2" "100" "fps_max 100"
+			"3" "72" "fps_max 72"
+			"4" "60" "fps_max 60"
+		}
+		"3" "垂直同步开关"
+		{
+			"1" "开启" "gl_vsync 1"
+			"2" "关闭" "gl_vsync 0"
+		}
+	}
+	"4" "实体图标"
+	{
+		"1" "其他玩家"
+		{
+			"1" "显示名称" "cl_headname 1"
+			"2" "显示图标" "cl_headname 2"
+			"3" "关闭" "cl_headname 0"
+		}
+		"2" "各类物品"
+		{
+			"1" "显示图标" "cl_objname 1"
+			"2" "关闭" "cl_objname 0"
+		}
+	}
+	"5" "血液限制"
+	{
+		"1" "无限制" "violence_hblood 1;violence_ablood 1;violence_redblood 1"
+		"2" "轻微" "violence_hblood 1;violence_ablood 1;violence_redblood 0"
+		"3" "严重" "violence_hblood 0;violence_ablood 0"
+	}
+	"6" "网络信息"
+	{
+		"1" "显示开关"
+		{
+			"1" "开启" "net_graph 3"
+			"2" "关闭" "net_graph 0"
+		}
+		"2" "显示位置"
+		{
+			"1" "左下方" "net_graphpos 0;net_graphwidth 150"
+			"2" "中下方" "net_graphpos 2;net_graphwidth 150"
+			"3" "右下方" "net_graphpos 1;net_graphwidth 150"
+		}
+	}
+}
+"2" "房主设置"
+{
+	"1" "电脑(BOT)"
+	{
+		"1" "生化加BOT后:"
+		{
+			"1" "请记得刷新对局!"
+		}
+		"2" "加CT"
+		{
+		"1" "1个" "cso_bot_add 1"
+		"2" "3个" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
+		"3" "5个" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
+		}
+		"3" "加T"
+		{
+		"1" "1个" "cso_bot_add 2"
+		"2" "3个" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
+		"3" "5个" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
+		}
+		"4" "难度" 
+		{
+			"1" "#CSO_Bot_Difficulty_0" "bot_difficulty 0"
+			"2" "#CSO_Bot_Difficulty_1" "bot_difficulty 1"
+			"3" "#CSO_Bot_Difficulty_2" "bot_difficulty 2"
+			"4" "#CSO_Bot_Difficulty_3" "bot_difficulty 3"
+			"5" "#CSO_Bot_Difficulty_4" "bot_difficulty 4"
+			"6" "#CSO_Bot_Difficulty_5" "bot_difficulty 5"
+			"7" "#CSO_Bot_Difficulty_6" "bot_difficulty 6"
+			"8" "#CSO_Bot_Difficulty_7" "bot_difficulty 7"
+		}
+		"5" "交流"
+		{
+			"1" "语音" "bot_chatter normal"
+			"2" "语音(话少)" "bot_chatter mininal"
+			"3" "无线电" "bot_chatter radio"
+			"4" "不交流" "bot_chatter off"
+		}
+	}
+}
+
+"6" "#CommandMenu_close"

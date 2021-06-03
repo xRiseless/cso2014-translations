@@ -1,0 +1,6 @@
+﻿The Port (The Port) - Team Death Match
+Plan / Production : Nexon
+Texture/Modeling/Modify : Nexon
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.

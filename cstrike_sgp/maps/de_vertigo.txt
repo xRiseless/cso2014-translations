@@ -1,0 +1,13 @@
+﻿Vertigo (Vertigo) Mission: - Plant the Bomb (Terrorist) / Defuse the Bomb (Counter Terrorist)
+Map created by: Chris Auty (Barney) (fragged101@yahoo.com)
+Texture created by: Telnets and J0esm0e
+
+Terrorists are trying to destroy Lizleturn tower which is currently under construction.
+
+
+Counter-Terrorist: Defend the Building at all cost from the TerroristS. 
+
+Terrorist: Plant  and destroy the building with the C4
+
+Warning: You will fall from the building if you are not careful. 
+

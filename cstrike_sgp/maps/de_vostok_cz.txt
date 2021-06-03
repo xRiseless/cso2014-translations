@@ -1,0 +1,6 @@
+﻿Vostok(Vostok) - Plant the Bomb / Defuse the Bomb
+Terrorist Objective: Plant the bomb at either bombsite A or bombsite B as indicated on the mini-map. Prevent the Counter-Terrorists from defusing the bomb.
+
+Counter-Terrorist Objective: Prevent the Terrorists from successfully detonating the bomb.
+
+Other Information: There has two place to plant the bomb in this mission.

@@ -1,0 +1,13 @@
+﻿Lost City(Lost city) - Survival
+Plan / Production : Nexon
+Mapping / Modification : Nexon
+
+
+It has been a month since a research group was out of contact after being sent to the city that had been isolated due to Lex Virus infection. 
+The government dispatched special forces for investigation and they saw countless zombie in all over the city. When they were just about to report to headquarters, communication with the outside world were cut off and zombies attacked them. 
+The surviving humans from the attacks are now preparing for the final battle.
+
+
+- Survive for as long as possible. The game will end if all players are dead.
+- Click the [B] Key to purchase a weapon/equipment, or upgrade your health and attack.
+- Dead players will respawn in the next round, if any players survive until the end of the round.

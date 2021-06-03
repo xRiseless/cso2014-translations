@@ -1,0 +1,5 @@
+﻿Nuke - Team Deathmatch
+Level Design: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Kill all enemies on the map to gain team score.
+- First to score the designated kills wins.

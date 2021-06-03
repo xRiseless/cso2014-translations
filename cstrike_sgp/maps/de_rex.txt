@@ -1,0 +1,8 @@
+﻿ReX Research Institute (Rex) - Planting/Defusing a bomb
+Plan/Level Design: Nexon
+Texture/Modification : Nexon
+
+When their secret headquarters are discovered, the Terrorists attack the nearby research facility knows as "ReX" and kidnap the scientists. After discovering hidden biological weapons in the facility, they decide to destroy all related documents to keep the weapons from being put to use.
+Counter-Terrorists: Stop the Terrorists from planting bombs in the research facilities. The mission is to defuse all bombs in the area.
+Terrorists: The Terrorists with the C4 have to plant a bomb in at least one of two designated places and make sure that it explodes.
+Remark: There are two target areas for bomb planting in this map.

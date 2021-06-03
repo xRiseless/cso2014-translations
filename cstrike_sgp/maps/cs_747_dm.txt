@@ -1,0 +1,8 @@
+﻿747 - Deathmatch
+Level Design: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Texture Edit: "The Postman" 
+(heavengame@yahoo.com)
+
+- Kill all players around.
+- The player with the most kills in the end wins.

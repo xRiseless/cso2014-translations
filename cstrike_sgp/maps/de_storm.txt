@@ -1,0 +1,10 @@
+﻿Storm - Plant the bomb / Defuse the bomb
+Map created by: FLiPMoDE|Daank
+      (daankvirus420k@icqmail.com)
+Texture created by:  Fingers - jOeSmOe - MattC
+
+Counter-Terrorist: Protect the weapon crates. These weapons will be delivered to an country threatened by the Terrorists
+
+Terrorist:  There is a small country that your faction wishes to destroy for political reasons. Stop Counter-Terrorists from delivering the weapons.
+
+Other information: There are two target areas to explode in this map.

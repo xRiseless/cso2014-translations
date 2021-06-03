@@ -1,0 +1,7 @@
+﻿Run1 - Challenge
+Plan/Level Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+- The player with the fastest time within the time limit wins.
+- Plyers who die or fall during the game will be respawned at the latest check point.
+- There will be no collision of players in this map.

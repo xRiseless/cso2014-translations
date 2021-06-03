@@ -1,0 +1,6 @@
+﻿沙漠Ⅰ(Dust) – 生化盟战
+地图制作： DaveJ (http://www.johnsto.co.uk/)
+纹理制作： MacMan (MacManInfi@aol.com)
+
+- 消灭地图上的所有敌人，提高友军队伍的分数。
+- 首先达成指定击杀数的一方获胜。

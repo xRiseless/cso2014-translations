@@ -1,0 +1,20 @@
+﻿HITCHHIKING – Zombie Escape
+Planned and produced by: Nexon
+Graphics by: Nexon
+
+After the VanGuard Laboratory’s collapse...
+The remaining troops of David Black and Erica have gone missing while they were performing the mission.
+
+Meanwhile, there was a team who retrieved an important research document from the ruined VanGuard Laboratory.
+
+An unidentified man and his troops headed to the Polar Regions with the retrieved item.
+It looked like the plan was working smoothly although it did not have a clear reason and destination.
+
+However, as always, the danger appeared suddenly. 
+They arrived at the wrong destination due to an unknown infection incident while they were heading to the Polar Regions.
+
+The unidentified team has been searching for ways to escape as they were chased by unknown creatures and their screaming...
+
+Goal
+Human: Escape to the transportation train in the escape area within the time limit. You must remain as a human.
+Zombie: Infect every human with the virus or move to the escape area and stop humans from escaping.

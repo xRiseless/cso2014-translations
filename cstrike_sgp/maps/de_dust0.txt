@@ -1,0 +1,13 @@
+﻿Dust 0 - Plant the bomb / Defuse the bomb
+Map created by: Nexon
+Texture created by: Nexon
+
+Counter-Terrorist: Terrorist's movement has been detected from a strategic location in the Middle East area.
+Our mission is to defuse every bombs that are planted in target areas and annihilate Terrorist.
+
+Terrorist: Watch out for disturbances from Counter-Terrorist.
+Ignite the C4 planted at the explosion target located in one of the bomb sites.
+
+
+
+Other information: There are two bomb sites in this map.

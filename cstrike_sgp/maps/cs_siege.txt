@@ -1,0 +1,8 @@
+﻿Siege - Rescue hostage
+Map created by: N0TH1NG  (n0th1ng@mailcity.com)
+
+Counter-Terrorist: Enter a facility where  prisoners of war are locked up and rescue them out of that place. Be careful not to harm hostages and annihilate all Terrorist.
+
+Terrorist: Prevent the Counter-Terrorist's from rescuing the hostages.
+
+Othere information: There are 4 hostages for this mission.

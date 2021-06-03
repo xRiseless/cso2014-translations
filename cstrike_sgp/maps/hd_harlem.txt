@@ -1,0 +1,9 @@
+﻿Hidden City - Hidden Mode
+Map created by: Nexon
+Texture created by: Nexon
+
+An unidentified masked assassin will appear if you go to a ruined slum of the town.
+
+Goal: Kill the masked assassin to reach the designated point!
+
+Tip: The masked assassin will be exposed as time goes by but will be back to transparent if it killed an enemy.

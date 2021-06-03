@@ -1,0 +1,9 @@
+﻿Industry2(Industry2) - Team Death Match
+Plan / Created by : Nexon
+Texture/Modeling/Modification : Nexon
+
+The government has received intelligence information about the huge warehouse located on the outskirt of a city, where Terrorists had made it their main headquarters.
+The Counter-Terrorist plans to stop them by an ambush but was suprised that the Terrorists are prepared for the battle. The Terrorist's scouts have exposed the ambush plan.
+
+Goal : Kill all enemies on the map to gain team-score.
+Team that score the designated kills first wins.

@@ -1,0 +1,13 @@
+﻿密林停机坪(Airstrip) – 解除炸弹
+地图制作：Barney (aka narby) (narby@counter-strike.net)
+
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+CT阵营：阻止T阵营在飞机场建筑物中安装炸弹。
+
+T阵营：在飞机场建筑物中安装C4炸药，摧毁燃料箱和货舱。
+
+其他：在这个地图中爆破目标有2处。
+
+
+

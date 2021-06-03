@@ -1,0 +1,9 @@
+﻿钻井平台(Oilrig) – 团队决战模式
+地图制作： MacMan (macmaninfi@aol.com)
+纹理制作： MacMan
+Westland Wessex直升机制作： Agent Orange 
+[agentorange@freemail.nl]
+
+- 消灭地图上的所有敌人，提高友军队伍的分数。
+- 首先达成规定击杀数的一方获胜。
+

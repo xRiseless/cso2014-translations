@@ -1,0 +1,10 @@
+﻿Industry - Team Deathmatch
+Plan/Level Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+The government got a secret information about a planned terror act in a factory downtown.
+To keep this from happening the Counter-Terrorists enter the factory where they discover that the Terrorists are preparing in the building across the street.
+The Terrorists' scouts have discovered the Counter-Terrorists as well and prepare to annihilate them.
+
+Goal: Kill all enemies on the map to gain team score.
+First to score the designated kills wins.

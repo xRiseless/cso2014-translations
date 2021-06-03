@@ -1,0 +1,6 @@
+﻿Estate - Hostage Rescue
+
+Map Created By: Zaphod Beeblebrox (zaphod@mapcore.com)
+
+- Counter-Terrorists: Rescue the 3 hostages trapped in the estate.
+- Terrorists: Prevent the Counter-Terrorists from rescuing the hostages.

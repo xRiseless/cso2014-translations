@@ -1,0 +1,7 @@
+﻿Estate - Zombie Annihilation
+
+Map Created By: Zaphod Beeblebrox (zaphod@mapcore.com)
+
+- Kill all enemies on the map.
+- Win by completing the designated number of rounds.
+- You will not respawn until the next round starts.

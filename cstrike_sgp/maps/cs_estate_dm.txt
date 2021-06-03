@@ -1,0 +1,6 @@
+﻿Estate - Deatchmatch
+Level Design: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- Kill all players around.
+- The player with the most kills in the end wins.

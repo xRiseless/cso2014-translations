@@ -1,0 +1,6 @@
+﻿Dark Snow - Team Death Match
+Map created by: Nexon
+Texture created by: Nexon
+
+- Kill any enemy on the map to gain points for your team.
+- First team to score the designated number of kills wins.

@@ -1,0 +1,7 @@
+﻿事务所(Office) – 生化盟战(歼灭)模式
+地图制作：Hobbit (Hobbit@nodream.net)
+纹理制作：Sphinx and George_Pooshoes
+
+- 消灭地图上的所有敌人
+- 赢得一定数量的回合数获得优胜
+- 死亡后无法复活，直到下一回合开始后复活

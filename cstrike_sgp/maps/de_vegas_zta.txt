@@ -1,0 +1,8 @@
+﻿Vegas - Defeat Zombie Association
+Production : +Cadaver+
+Texture : George_Pooshoes, JOeSmOe
+Modify : Nexon
+
+- Kill every enemies on the map.
+- Meet a designated round number to win.
+- No respawn untill start to next round.

@@ -1,0 +1,11 @@
+﻿De_cbble
+
+Similar in style and play to Dust, Cobble is another defusing map set in an ancient manor house - which the Terrorists are of course trying to destroy.
+Combat can occur in both the wide open courtyards and tight corridors of this map, but it is essential for the Counter-Terrorists to put their opponents down as quickly as possible, 
+as if the Ts can get the bomb planted in the courtyard, it becomes fairly easy for them to hold it against the Counter-Terrorists.
+
+Terrorist Objective:
+Plant the bomb at either bombsite A or bombsite B as indicated on the mini-map. Prevent the Counter-Terrorists from defusing the bomb.
+
+Counter-Terrorists Objective:
+Prevent the Terrorists from successfully detonating the bomb.

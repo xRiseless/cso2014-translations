@@ -1,0 +1,9 @@
+﻿Tides – Plant/Defuse the bomb
+ 
+Counter-Terrorist: Stop the Terrorist from planting the bomb or defuse the bomb if it is planted.
+ 
+Terrorist: Plant the bomb and prevent Counter-Terrorist to defuse it.
+ 
+ 
+ 
+Note: There are two bomb-planting areas in this mission.

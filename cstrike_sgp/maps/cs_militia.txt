@@ -1,0 +1,9 @@
+﻿Militia(Militia) - Hostage Rescue
+Map Design: Andrew Aumann (andrewja@home.com)
+
+Counter Terrorist: Rescue the hostages held in the mansion; eliminate all
+the Terrorists while avoiding injuring the hostages.
+
+Terrorist: Prevent the Counter Terrorists from saving the hostages.
+
+Tip: There are 4 hostages in this mission.

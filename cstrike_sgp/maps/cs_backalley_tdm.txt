@@ -1,0 +1,5 @@
+﻿Backalley - Team Deathmatch
+Level Design: TYR (tyr@barking-dog.com)
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.

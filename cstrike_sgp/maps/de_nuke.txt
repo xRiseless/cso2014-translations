@@ -1,0 +1,9 @@
+﻿Nuke(Nuke) - Plant the bomb / Defuse the bomb
+Map created by: Jo Bieg (MEEEEDIC@gmx.net)
+
+Counter-Terrorist: Stop terrorist from exploding a nuclear missile. They can attack you from upper or down side. Team members must defuse a bomb which plant at the target area.
+
+Terrorist: Terrorist who has C4 must suceed to explod a nuclear missile.
+
+
+Other: There are 2 target explosion area in this map.

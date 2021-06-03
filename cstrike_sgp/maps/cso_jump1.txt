@@ -1,0 +1,7 @@
+﻿Jump1 - Challenge
+Plan / Production : Nexon
+Texture/Modeling/Modification : Nexon
+
+- Victory goes to the player who achieved the fastest time record within the time limit.
+- If you fell off or died during the the challenge, you will be respawned to the latest checkpoint that you've passed.
+- No player clash would occur in the map.

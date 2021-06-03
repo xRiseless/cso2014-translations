@@ -1,0 +1,5 @@
+﻿Militia - Deathmatch
+Level Design: Andrew Aumann (andrewja@home.com)
+
+- Eliminate all opponents.
+- Player with most frags, wins.

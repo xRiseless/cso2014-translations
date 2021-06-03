@@ -1,0 +1,4 @@
+﻿Stadium - Team Deathmatch
+
+- Raise the team score by killing all enemy team members on the map.
+- Win by achieving a designated number of kills.

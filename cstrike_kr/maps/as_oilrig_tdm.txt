@@ -1,0 +1,8 @@
+﻿원유 시추선(Oilrig) - 팀 데스매치
+맵 제작: MacMan (macmaninfi@aol.com)
+텍스처 제작: MacMan
+웨스트랜드 웨섹스 헬기 제작: Agent Orange 
+[agentorange@freemail.nl]
+
+- 맵 상에 모든 적 팀원을 죽여 팀의 점수를 올려야 한다.
+- 지정된 사살 수를 채우면 승리한다.

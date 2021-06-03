@@ -1,0 +1,7 @@
+﻿Inferno(Inferno) - Zombie Association
+Map created by: Chris Auty (Barney) (narby@counter-strike.net)
+Texture created by: Valve software
+
+- Kill all enemies on the map to increase team score.
+- Victory goes to the first team that reaches the designated kills.
+- Obtain an item box to increase your kill count.

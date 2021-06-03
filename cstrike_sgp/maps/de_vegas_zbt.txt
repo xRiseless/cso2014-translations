@@ -1,0 +1,8 @@
+﻿Vegas - Zombie Association
+Production : +Cadaver+
+Texture : George_Pooshoes, JOeSmOe
+Modify : Nexon
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.
+- Number of kills will be added when you gain item box.

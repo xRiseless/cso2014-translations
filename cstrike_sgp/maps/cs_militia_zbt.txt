@@ -1,0 +1,6 @@
+﻿Militia - Zombie Unite
+Level Design: Andrew Aumann (andrewja@home.com)
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.
+- The acquisition of an item-chest counts as kill.

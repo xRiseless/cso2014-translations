@@ -1,0 +1,8 @@
+﻿Sanctuary - Plant / Defuse the bomb
+Created by: Nexon
+
+Counter-Terrorist: Stop the terrorists from blowing up the cultural remains. Team members must defuse every bomb planted in the target areas.
+
+Terrorist: The terrorist armed with C4 must blow up one of the target explosion area.
+
+Other: There are 2 target explosion areas in this map.

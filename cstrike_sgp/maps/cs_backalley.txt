@@ -1,0 +1,8 @@
+Backalley - Deathmatch
+Level Design: TYR (tyr@barking-dog.com)
+
+Terrorist Objectives:
+Eliminate the Counter-Terrorists before they rescue the hostages.
+
+Counter-Terrorists Objectives:
+Escort the hostages to the rescue zone.

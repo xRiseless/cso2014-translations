@@ -1,0 +1,8 @@
+﻿Sienna(Sienna) - Detonation Map
+Mission Explanation: 
+Top secret information from a spy planted deep within the Terrorists has revealed that their next target is the rustic town of Sienna. The Government has stepped up defense, limiting entry and exit to the town in an attempt to prevent the Terrorists' attacks.
+
+
+Terrorist: Successfully detonate the bomb or eliminate all Counter-Terrorists
+
+Counter-Terrorist: Prevent the Terrorists from detonating the bomb or eliminate all Terrorists.

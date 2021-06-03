@@ -1,0 +1,12 @@
+﻿Shoreline - Zombie
+Level Design: Nexon
+Texture Edit: Nexon
+
+In order to investigate the mysterious case of infections, covert troops were deployed on location. However, the infection rate is a lot worse than initially perceived. The team arrives at the coast and soon enough, signs of the infected were spotted.
+
+The team was soon overwhelmed by zombies and many have turned undead. The remaining survivors have to fight off both their former comrades and the undead horde until reinforcements arrive.
+
+Objective:
+
+Humans: Fight off the zombies and survive until dawn
+Zombies: Eliminate all humans

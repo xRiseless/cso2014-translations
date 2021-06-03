@@ -1,0 +1,7 @@
+﻿Airstrip - Team Deathmatch
+Level Design: Barney (aka narby) (narby@counter-strike.net)
+
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.

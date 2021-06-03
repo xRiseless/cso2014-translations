@@ -1,0 +1,6 @@
+Chateau - Deatchmatch
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Kill all players in the game.
+- The player with the most kills win the round.

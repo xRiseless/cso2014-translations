@@ -1,0 +1,9 @@
+﻿747 - Zombie Association Annihilation
+Map created by: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Texture created by: "The Postman" 
+(heavengame@yahoo.com)
+
+- Kill all the enemies on the map.
+- Victory goes to the first who reached the designated round numbers.
+- No respawn until the start of the next round.

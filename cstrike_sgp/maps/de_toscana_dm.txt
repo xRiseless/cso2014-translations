@@ -1,0 +1,6 @@
+﻿Toscana - Death Match
+Map created by: Nexon
+Texture created by: Nexon
+
+- Annihilate all enemies in the battlefield.
+- Players with the most kill win.

@@ -1,0 +1,10 @@
+﻿Train – Plant the Bomb/Defuse the Bomb
+ 
+
+Counter Terrorist : Prevent the Terrorists from destroying the nuclear warheads that are located in two different areas of the map.
+ 
+
+Terrorists: Plant the C4 in one of the two areas that have nuclear warheads.
+ 
+
+Tip: There are two target areas on this map

@@ -1,0 +1,8 @@
+﻿Checkmate – Gun DeathMatch
+Map created by: Nexon
+Texture created by: Nexon
+A disturbance had occured in a young man's peaceful room.
+Goal
+- Victory goes to the team who kills enemy team members first with a final grenade.
+- Eliminate every enemy on the map to gain team score.
+- First person to score the designated kills within the time limit wins.

@@ -1,0 +1,6 @@
+﻿더스트(Dust) - 팀데스매치
+맵 제작: DaveJ (http://www.johnsto.co.uk/)
+텍스처 제작: MacMan (MacManInfi@aol.com)
+
+- 맵 상에 모든 적 팀원을 죽여 팀의 점수를 올려야 한다.
+- 지정된 사살 수를 채우면 승리한다.

@@ -1,0 +1,11 @@
+﻿原油通路(Inferno) – 解除炸弹
+地图制作： Chris Auty (Barney) (narby@counter-strike.net)
+纹理制作： Valve software
+T阵营企图用炸弹摧毁连接2个小镇的重要原油输送管。
+
+CT阵营：阻止恐怖分子摧毁原油输送管。
+
+T阵营：摧毁2处原油输送管。
+
+其他：在这个地图中爆破目标有2处。
+

@@ -1,0 +1,8 @@
+﻿Industry 2 - Zombie Annihilation
+
+Planning/Production: NEXON
+Texture/Modeling/Revision: NEXON
+
+- Kill all enemies on the map.
+- Win by completing the designated number of rounds.
+- You will not respawn until the next round starts.

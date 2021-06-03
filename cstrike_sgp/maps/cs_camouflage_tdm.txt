@@ -1,0 +1,6 @@
+﻿Camouflage - Team Deathmatch
+Planning/Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+- Each enemy team member on the map must be killed to raise the score of your own team.
+- First to score the designated kills wins.

@@ -1,0 +1,7 @@
+﻿Angel City - Death Match
+Creator: unknown
+Map created by: Nexon
+Texture created by: Nexon
+
+- Eliminate all the players.
+- Eliminate the most players will win.

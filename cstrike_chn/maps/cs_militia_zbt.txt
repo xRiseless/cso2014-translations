@@ -1,0 +1,5 @@
+﻿野战训练营(Militia) – 生化盟战
+地图制作： Andrew Aumann (andrewja@home.com)
+
+- 消灭地图上的所有敌人，提高友军队伍的分数。
+- 首先达成指定击杀数的一方获胜。

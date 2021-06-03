@@ -1,0 +1,7 @@
+﻿沙漠ⅡA (Dust2 Annihilation) – 歼灭
+地图制作：DaveJ (http://www.johnsto.co.uk/)
+纹理制作：MacMan (MacManInfi@aol.com)
+地图修改：Nexon
+
+- 歼灭地图上所有的敌对成员
+- 对方全军覆没即获得胜利

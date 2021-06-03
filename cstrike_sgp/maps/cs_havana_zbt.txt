@@ -1,0 +1,8 @@
+﻿Havana (Havana) - Zombie Association
+
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+- Kill all enemy team members around the map to increase team score.
+- First to score the designated kills wins.
+- Obtain an item box to add into your kill count.

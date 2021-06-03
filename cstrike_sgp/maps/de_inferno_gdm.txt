@@ -1,0 +1,11 @@
+﻿Inferno - Gun Deathmatch
+Map created by: Chris Auty (Barney) (narby@counter-strike.net)
+Texture created by: Valve software
+
+- Kill all players around.
+- Kill the most of players to win.
+
+Goal
+- Victory goes to a team who kills enemy team members first with a final grenade.
+- Kill every enemy on the map to gain team score.
+- First to score the designated kills within the time limit wins.

@@ -1,0 +1,6 @@
+﻿Militia - Team Death Match
+Level Design: Andrew Aumann (andrewja@home.com)
+
+- Eliminate all opponents.
+- First team to achieve the victory goal, wins.
+

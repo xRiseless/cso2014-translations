@@ -1,0 +1,8 @@
+﻿密林停机坪(Airstrip) – 团队决战模式
+地图制作： Barney (aka narby) (narby@counter-strike.net)
+
+Special thanks to Iikka Keranen, John Morello and Minh Le
+
+- 消灭地图上的所有敌人，提高友军队伍的分数。
+- 首先达成指定击杀数的一方获胜。
+

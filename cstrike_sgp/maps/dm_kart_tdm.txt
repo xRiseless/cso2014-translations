@@ -1,0 +1,6 @@
+﻿Village(Village) - Team Death Match
+Plan / Production : Nexon
+Texture/Modeling/Modification : Nexon
+
+- Your team gains a point for every kill.
+- First team to reach the designated score wins.

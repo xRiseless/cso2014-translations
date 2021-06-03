@@ -1,0 +1,9 @@
+﻿747客机(747) – 个人决战模式
+地图制作： Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+纹理制作： "The Postman" 
+(heavengame@yahoo.com)
+
+- 击杀地图上的所有角色。
+- 最终击杀次数最多的角色获胜。
+

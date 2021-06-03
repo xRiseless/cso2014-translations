@@ -1,0 +1,7 @@
+﻿Survivor – Team Death Match
+Map created by: Michael Visser aka 3D_Mike
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+- Eliminate all enemies on the map to gain team score.
+- First to score the targeted kills will win.

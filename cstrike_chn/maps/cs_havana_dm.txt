@@ -1,0 +1,7 @@
+﻿哈瓦那(havana) – 个人决战模式
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+- 击杀地图上的所有角色。
+- 最终击杀次数最多的角色获胜。
+

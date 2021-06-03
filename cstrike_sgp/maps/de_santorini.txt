@@ -1,0 +1,9 @@
+﻿Santorini  – Plant the bomb/Defuse the bomb
+Map created by: Nexon
+Texture created by: Nexon
+ 
+Counter-Terrorist: Terrorist’s movement has been detected from Santorini area. Counter-Terrorists should defuse all the bombs that plant in the target area and annihilate the Terrorists.
+
+Terrorist: Watch out the Counter-Terrorist’s disturbing work, and you must explode one of the bombing areas.
+
+Others: There are total 2 bombing areas in this map.

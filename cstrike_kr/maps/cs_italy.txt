@@ -1,0 +1,9 @@
+﻿이탈리아(Italy) - 인질 구출
+맵 제작:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+텍스처/그래픽 제작:
+DigiChaos (digichaos@hotsheep.com)
+
+대 테러리스트: 이탈리아의 작은 마을에 억류되어 있는 인질들을 테러리스트들로부터 구출하라.
+
+테러리스트: 대 테러리스트들이 인질을 구출하지 못하도록 하라.

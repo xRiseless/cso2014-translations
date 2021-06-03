@@ -1,0 +1,5 @@
+﻿Sanctuary - Team Death Match
+Created by: Nexon
+
+- Kill all enemies on the map to gain team score.
+- First to score the designated amount of kills wins.

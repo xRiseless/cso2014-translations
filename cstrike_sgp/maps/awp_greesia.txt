@@ -1,0 +1,8 @@
+﻿Greesia Museum - Annihilation
+Plan/Level Design: Nexon
+Texture/Modeling/Modification: Nexon
+
+During a fight near the Greesia Museum the Counter-Terrorist team moves into the museum to back up their snipers but happen upon the Terrorist sniper team.
+Since communication with the back up squad was disrupted, both teams have to trust in only their weapons for the fight.
+
+Goal: Get rid of all of the opposing side's snipers.

@@ -1,0 +1,6 @@
+﻿Industry2(Industry2) - Death Match
+Plan / Created by : Nexon
+Texture/Modeling/Modification : Nexon
+
+- Kill all players.
+- Players that gets the most kills will be the winner.

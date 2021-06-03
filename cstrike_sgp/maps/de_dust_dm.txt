@@ -1,0 +1,6 @@
+﻿Dust - Deatchmatch
+Level Design: DaveJ (http://www.johnsto.co.uk/)
+Texture Edit: MacMan (MacManInfi@aol.com)
+
+- Kill all players around.
+- The player with the most kills in the end wins.

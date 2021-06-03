@@ -1,0 +1,9 @@
+﻿Village(Village) - Annihilation
+Plan / Production : Nexon
+Texture/Modeling/Modification : Nexon
+
+Intelligence sources have confimed that terrorist activity has been detected in a small village located at outskirt of the city.
+Arriving at the village, they could feel that something is amiss
+
+- Eliminate all enemies.
+- The team to eliminate all enemies wins.

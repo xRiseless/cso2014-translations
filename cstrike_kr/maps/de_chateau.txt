@@ -1,0 +1,8 @@
+﻿샤또(Chateau) - 폭탄설치 / 해체
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+테러리스트: 코블에서의 사건 이후, 윌리엄 경은 그가 여름 휴가를 보내던 고성을 재건축하고 있다. 그의 재건축을 막아라. 앞 또는 뒤쪽 마당에 C4를 장착하라.
+
+대 테러리스트: 테러리스트들의 폭탄 설치를 막아 윌리엄 경의 재산을 보호하라.

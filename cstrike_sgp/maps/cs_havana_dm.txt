@@ -1,0 +1,6 @@
+﻿Havana - Deatchmatch
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+- Kill all players around.
+- The player with the most kills in the end wins.

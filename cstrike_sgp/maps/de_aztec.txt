@@ -1,0 +1,11 @@
+﻿De_aztec
+
+Aztec is a medium size map set in a jungle excavation site. 
+Terrorists try to bomb one of the two targets while the Counter-Terrorists try to stop them.
+The map is full of wide open spaces where a skilled sniper can go on a killing spree.
+
+Terrorist Objective:
+Plant the bomb at either bombsite A or bombsite B as indicated on the mini-map. Prevent the Counter-Terrorists from defusing the bomb.
+
+Counter-Terrorists Objective:
+Prevent the Terrorists from successfully detonating the bomb.

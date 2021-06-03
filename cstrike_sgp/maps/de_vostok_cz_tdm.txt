@@ -1,0 +1,3 @@
+﻿Vostok(Vostok) - Team Death Match
+- Kill all enemies on the map to gain team score.
+- First team to reach designated kills wins.

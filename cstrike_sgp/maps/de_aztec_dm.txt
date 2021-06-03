@@ -1,0 +1,6 @@
+﻿Aztec - Deatchmatch
+Level Design: Chris Auty (Barney) (narby@counter-strike.net)
+Texture Edit: Macman 
+
+- Kill all players around.
+- The player with the most kills in the end wins.

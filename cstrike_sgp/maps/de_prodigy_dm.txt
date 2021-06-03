@@ -1,0 +1,5 @@
+﻿Prodigy - Death Match
+Map created by: Hobbit (hobbit@nodream.net)
+
+- Annihilate all enemies in the battlefield.
+- Players with the most kill win.

@@ -1,0 +1,6 @@
+﻿Rats (Rats) - Death Match
+Plan / Production : Nexon
+Texture / Modification : Nexon
+
+- Kill all the players around you.
+- The player with the most kills win.

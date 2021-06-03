@@ -1,0 +1,345 @@
+// Command Menu definition
+// 
+// Basic Format:
+//		"<Bound Key>" "<Button Text>" "<Command sent to server>"
+//
+// 
+//
+//
+// Buttons can also open up submenus, as follows:
+// {
+// 	"Some More Options",
+//	{
+//		...
+//	}
+// }
+//
+//
+// Buttons preceded with "CUSTOM" are handled in special ways. They can only be moved
+// around or deleted.
+//
+//
+// Limitations:
+//		Maximum of 40 menus.
+//		Maximum of 100 buttons per menu.
+
+//--------------------------------------------------------
+// Everything below here is editable
+
+"1" "#Cstrike_HELP"
+{
+	CUSTOM		"1" "#Cstrike_Map_Desc"	"!MAPBRIEFING"
+	"2" "#Cstrike_Time_Left" 		"timeleft"
+	"3" "#Cstrike_Adjust_Crosshair" 	"adjust_crosshair"
+	"4" "#Cstrike_Use_Left_Hand" 		"cl_righthand 0"
+	"5" "#Cstrike_Use_Right_Hand" 		"cl_righthand 1"
+}
+
+// Here are the rest of the buttons and submenus
+// You can change these safely if you want.
+"2" "#Cstrike_TEAM_MESSAGE"
+{
+	// Map Specific
+
+	MAP cs_siege "1" "#Cstrike_Map_Siege"
+	{
+		"1" "#Cstrike_take_underground"	"say_team 'Secure the basement!'"
+		"2" "#Cstrike_enemy_garage" 		"say_team 'Enemy in the parking lot!'"
+		"3" "#Cstrike_rush_hostage_room"   	"say_team 'Rush to the hostage room!'"
+		"4" "#Cstrike_snipers_watch_out" 	"say_team 'Watch out for the sniper!'"
+		"5" "#Cstrike_take_upper_route"  	"say_team 'Take upper route!'"
+	}
+
+	MAP de_train "1" "#Cstrike_train"
+	{
+		"1" "#Cstrike_rush_trainyard" 		"say_team 'Rush to the bomb site in the trainyard!'"
+		"2" "#Cstrike_rush_enclosed"		"say_team 'Rush to the bombsite inside!'
+		"3" "#Cstrike_flank_them"   		"say_team 'Flank the enemy from the side!'"
+		"4" "#Cstrike_bomb_site_secure"  	"say_team 'The bomb site secured!'"
+		"5" "#Cstrike_lend_me_blaster"  	"say_team 'Lend me the blaster!'"
+	}
+
+	MAP de_vertigo "1" "#Cstrike_vertigo"
+	{
+		"1" "#Cstrike_rush_upper_level" 	"say_team 'Rush to the upper level!'"
+		"2" "#Cstrike_rush_lower_level" 	"say_team 'Rush to the lower level!'"
+		"3" "#Cstrike_flank_them"   		"say_team 'Flank the enemy from the side!'"
+		"4" "#Cstrike_snipers_watch_out"	"say_team 'Watch out for the sniper!'"
+		"5" "#Cstrike_bomb_site_secure"  	"say_team 'The bomb site secured!'"
+	}
+
+	MAP de_prodigy "1" "#Cstrike_prodigy"
+	{
+		"1" "#Cstrike_rush_to_pipes" 		"say_team 'Rush to the pipes!'"
+		"2" "#Cstrike_rush_to_lab" 		"say_team 'Rush to the lab!'"
+		"3" "#Cstrike_take_the hallway"   	"say_team 'Secure the hallway!'"
+		"4" "#Cstrike_flank_them"		"say_team 'Flank the enemy from the side!'"
+		"5" "#Cstrike_take_the_apc"  		"say_team 'Secure the route for the APC!'"
+	}
+
+	MAP de_aztec "1" "#Cstrike_aztec"
+	{
+		"1" "#Cstrike_take_bridge"		"say_team 'Secure the bridge!'"
+		"2" "#Cstrike_enemy_at_bomb_site" 	"say_team 'Enemy sighted at the bomb site'"
+		"3" "#Cstrike_rush_to_bomb_site"   	"say_team 'Rush to the bomb site'"
+		"4" "#Cstrike_bomb_site_secure"	"say_team 'The bomb site secured!'"
+		"5" "#Cstrike_take_water_route"  	"say_team 'Take the watercourse!'"
+	}
+
+	MAP de_inferno "1" "#Cstrike_inferno"
+	{
+		"1" "#Cstrike_take_bridge"		"say_team 'Secure the bridge!'"
+		"2" "#Cstrike_enemy_at_bomb_site" 	"say_team 'Enemy sighted at the bomb site'"
+		"3" "#Cstrike_rush_to_bomb_site"   	"say_team 'Rush to the bomb site'"
+		"4" "#Cstrike_bomb_site_secure"	"say_team 'The bomb site secured!'"
+		"5" "#Cstrike_take_water_route"  	"say_team 'Take the watercourse!'"
+	}
+
+	MAP cs_office "1" "#Cstrike_office"
+	{
+		"1" "#Cstrike_take_back_route"		"say_team 'Take the back route!'"
+		"2" "#Cstrike_rush_to_hostages"	"say_team 'Rush to the hostage location!'"
+		"3" "#Cstrike_do_it_for_manilov"		"say_team 'For Manilov!'"
+		"4" "#Cstrike_take_front_route"		"say_team 'Take the frontal route!'"
+		"5" "#Cstrike_flank_them"		"say_team 'Flank the enemy from the side!'"
+	}
+
+	MAP cs_backalley "1" "#Cstrike_backalley"
+	{
+		"1" "#Cstrike_flank_them"		"say_team 'Flank the enemy from the side!'"
+		"2" "#Cstrike_enemy_overhead" 	"say_team 'Enemy overhead!'"
+		"3" "#Cstrike_rush_to_hostages"	"say_team 'Rush to the hostage location!'"
+		"4" "#Cstrike_go_you_blaster"		"say_team 'Die!'"
+		"5" "#Cstrike_taking_heavy_fire"		"say_team 'We're under heavy fire!'"
+	}
+
+	MAP cs_747 "1" "#Cstrike_747"
+	{
+		"1" "#Cstrike_rush_the_plane'"		"say_team 'Rush to the plane'"
+		"2" "#Cstrike_meet_in_terminal"		"say_team 'Assemble in the terminal'"
+		"3" "#Cstrike_enemy_outside_plane"	"say_team 'Enemy outside of the plane'"
+		"4" "#Cstrike_enemy_in_cargo"  	"say_team 'Enemy in the cargo cabin!'"
+		"5" "#Cstrike_flank_them"		"say_team 'Flank the enemy from the side!'"
+	}
+
+	MAP as_oilrig "1" "#Cstrike_oilrig"
+	{
+		"1" "#Cstrike_rush_to_chopper" 	"say_team 'Rush to the helicopter!'"
+		"2" "#Cstrike_to_the_elevator" 		"say_team 'To the elevator'"
+		"3" "#Cstrike_vip_spotted"   		"say_team 'VIP spotted!'"
+		"4" "#Cstrike_sniper_spotted"  		"say_team 'A sniper spotted'"
+		"5" "#Cstrike_protect_the_vip"  		"say_team 'Protect the VIP'"
+	}
+
+	MAP cs_assault "1" "#Cstrike_assault"
+	{
+		"1" "#Cstrike_rush_the_building" 	"say_team 'Rush to the building!'"
+		"2" "#Cstrike_take_the_vents" 		"say_team 'Secure the vents!'"
+		"3" "#Cstrike_enemy_in_vents"   	"say_team 'Enemy in the vents!'"
+		"4" "#Cstrike_rush_hostage_room"	"say_team 'Rush to the hostage room!'"
+		"5" "#Cstrike_team_regroup"  		"say_team 'Team! Regroup!'"
+	}
+
+	MAP de_nuke "1" "#Cstrike_nuke"
+	{
+		"1" "#Cstrike_go_to_main_hall" 		"say_team 'Go to the main hall'"
+		"2" "#Cstrike_go_to_basement" 		"say_team 'Move to the basement'"
+		"3" "#Cstrike_flank_yard"   		"say_team 'Bypass the yard'"
+		"4" "#Cstrike_flank_comm_room"  	"say_team 'Bypass the comm room'"
+		"5" "#Cstrike_at_entrance_hall"  	"say_team 'Currently at the entrance.'"
+	}
+
+	MAP de_cbble "1" "#Cstrike_cbble"
+	{
+		"1" "#Cstrike_heading_central_hall" 	"say_team 'Currently heading towards the central hall'"
+		"2" "#Cstrike_heading_underpass" 	"say_team 'Currently heading towards the underpass'"
+		"3" "#Cstrike_sniper_in_tower"   	"say_team 'A sniper in the tower'"
+		"4" "#Cstrike_bomb_target_secure"  	"say_team 'Targeted bomb site secured'"
+		"5" "#Cstrike_guard_start_area"  	"say_team 'Start to defend the area'"
+	}
+
+	MAP de_dust "1" "#Cstrike_dust"
+	{
+		"1" "#Cstrike_heading_to_hallway" 	"say_team 'Currently heading towards the hallway.'"
+		"2" "#Cstrike_heading_underpass" 	"say_team 'Currently heading towards the underpass'"
+		"3" "#Cstrike_bomb_a_secure"   	"say_team 'The bombing target A secured'"
+		"4" "#Cstrike_bomb_b_secure"  	"say_team 'The bombing target B secured'"
+		"5" "#Cstrike_sniper_at_underpass"  	"say_team 'A sniper in the underpass'"
+	}
+
+	MAP de_dust2 "1" "#Cstrike_dust2"
+	{
+		"1" "#Cstrike_heading_to_hallway" 	"say_team 'Currently heading towards the hallway.'"
+		"2" "#Cstrike_heading_underpass" 	"say_team 'Currently heading towards the underpass'"
+		"3" "#Cstrike_bomb_a_secure"   	"say_team 'The bombing target A secured'"
+		"4" "#Cstrike_bomb_b_secure"  	"say_team 'The bombing target B secured'"
+		"5" "#Cstrike_heading_to_tunnel"  	"say_team 'Currently heading towards the tunnel'"
+	}
+
+	MAP cs_italy "1" "#Cstrike_italy"
+	{
+		"1" "#Cstrike_meet_at_market" 		"say_team 'Assemble in the market'"
+		"2" "#Cstrike_rush_the_house" 		"say_team 'Rush to the house'"
+		"3" "#Cstrike_head_to_wine_cellar"   	"say_team 'Move to the wine cellar'"
+		"4" "#Cstrike_rush_long_passage"  	"say_team 'Rush to the long passage'"
+		"5" "#Cstrike_hostages_rescued"  	"say_team 'Currently rescuing the hostages'"
+	}
+
+	MAP cs_estate "1" "#Cstrike_estate"
+	{
+		"1" "#Cstrike_go_to_sewer" 		"say_team 'Move to the sewer'"
+		"2" "#Cstrike_enemy_on_first_story" 	"say_team 'Enemy overhead!'"
+		"3" "#Cstrike_enemy_on_sec_story"   	"say_team 'Enemy on the second floor'"
+		"4" "#Cstrike_enemy_in_back"  		"say_team 'Enemy in the back!'"
+		"5" "#Cstrike_enemy_in_front"  		"say_team 'Enemy in the front!'"
+	}
+	
+	MAP as_tundra "1" "#Cstrike_tundra"
+	{
+		"1" "#Cstrike_use_sec_route" 		"say_team 'Take the second route'"
+		"2" "#Cstrike_use_primary_route" 	"say_team 'Take the primary route'"
+		"3" "#Cstrike_snipers_watch_out"	"say_team 'Watch out for the sniper!'"
+		"4" "#Cstrike_rush_to_apc"  		"say_team 'Rush to the APC'"
+		"5" "#Cstrike_rush_to_chopper"  	"say_team 'Rush to the helicopter!'"
+	}	
+
+	MAP cs_militia "1" "#Cstrike_militia"
+	{
+		"1" "#Cstrike_meet_at_garage" 		"say_team 'Assemble in the garage'"
+		"2" "#Cstrike_meet_front_house" 	"say_team 'Assemble in front of the house'"
+		"3" "#Cstrike_meet_backyard"   		"say_team 'Assemble in the backyard'"
+		"4" "#Cstrike_enemy_topside"  		"say_team 'Enemy overhead!'"
+		"5" "#Cstrike_enemy_sewers"  		"say_team 'Enemy in the sewers!'"
+	}
+
+
+     "2" "#Cstrike_Acknowledged"	"say_team 'Roger that'"
+     "3" "#Cstrike_Negative"		"say_team 'Negative'"
+     "4" "#Cstrike_Go"			"say_team 'Go go go!'"
+     "5" "#Cstrike_On_My_Way"		"say_team 'On my way'"
+     "6" "#Cstrike_Need_Backup"		"say_team 'Need backup'"
+}
+
+"3" "Client Settings"
+{
+	"1" "Stop BGM" "mp3 stop"
+	"2" "Game Functions"
+	{
+		"1" "Fast Switch"
+		{
+			"1" "On" "hud_fastswitch 1"
+			"2" "Off" "hud_fastswitch 0"
+		}
+		"2" "Lock Playermodel"
+		{
+			"1" "On" "cl_minmodels 1"
+			"2" "Off" "cl_minmodels 0"
+		}
+		"3" "HUD Switch"
+		{
+			"1" "On" "hud_draw 1;cl_radar_on 1"
+			"2" "Off" "hud_draw 0;cl_radar_on 0"
+		}
+	}
+	"3" "Frame (FPS)"
+	{
+		"1" "Show FPS On Upper Left"
+		{
+			"1" "On" "cl_showfps 1"
+			"2" "Off" "cl_showfps 0"
+		}
+		"2" "Max FPS"
+		{
+			"2" "100" "fps_max 100"
+			"3" "72" "fps_max 72"
+			"4" "60" "fps_max 60"
+		}
+		"3" "Vertical Sync"
+		{
+			"1" "On" "gl_vsync 1"
+			"2" "Off" "gl_vsync 0"
+		}
+	}
+	"4" "Entity Information"
+	{
+		"1" "Players"
+		{
+			"1" "Show Name" "cl_headname 1"
+			"2" "Show Icon" "cl_headname 2"
+			"3" "Off" "cl_headname 0"
+		}
+		"2" "Other Items"
+		{
+			"1" "Show Icon" "cl_objname 1"
+			"2" "Off" "cl_objname 0"
+		}
+	}
+	"5" "Bloody Restriction"
+	{
+		"1" "No Limit" "violence_hblood 1;violence_ablood 1;violence_redblood 1"
+		"2" "Enable" "violence_hblood 1;violence_ablood 1;violence_redblood 0"
+		"3" "Serious" "violence_hblood 0;violence_ablood 0"
+	}
+	"6" "Network Info"
+	{
+		"1" "Show Network Info On Bottom"
+		{
+			"1" "On" "net_graph 3"
+			"2" "Off" "net_graph 0"
+		}
+		"2" "Show Position"
+		{
+			"1" "Bottom Left" "net_graphpos 0;net_graphwidth 150"
+			"2" "Bottom Middle" "net_graphpos 2;net_graphwidth 150"
+			"3" "Bottom Right" "net_graphpos 1;net_graphwidth 150"
+		}
+	}
+}
+"4" "Host Settings"
+{
+	"1" "BOT"
+	{
+		"1" "After Added BOT On Zombie Mode"
+		{
+			"1" "Please Do 'Refresh Match'!" "echo"
+		}
+		"2" "Add CT"
+		{
+			"1" "1" "cso_bot_add 1"
+			"2" "3" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
+			"3" "5" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
+		}
+		"3" "Add T"
+		{
+			"1" "1" "cso_bot_add 2"
+			"2" "3" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
+			"3" "5" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
+		}
+		"4" "Difficulties" 
+		{
+			"1" "Newbie Friendly"
+			{
+				"1" "#CSO_Bot_Difficulty_0" "bot_difficulty 0"
+				"2" "#CSO_Bot_Difficulty_1" "bot_difficulty 1"
+				"3" "#CSO_Bot_Difficulty_2" "bot_difficulty 2"
+				"4" "#CSO_Bot_Difficulty_3" "bot_difficulty 3"
+			}
+			"2" "Hardcore"
+			{
+				"1" "#CSO_Bot_Difficulty_4" "bot_difficulty 4"
+				"2" "#CSO_Bot_Difficulty_5" "bot_difficulty 5"
+				"3" "#CSO_Bot_Difficulty_6" "bot_difficulty 6"
+				"4" "#CSO_Bot_Difficulty_7" "bot_difficulty 7"
+			}
+		}
+		"5" "Chatter"
+		{
+			"1" "Voice" "bot_chatter normal"
+			"2" "Voice (Less Talk)" "bot_chatter mininal"
+			"3" "Radio" "bot_chatter radio"
+			"4" "No Talk" "bot_chatter off"
+		}
+	}
+}
+
+"6" "Close Menu"

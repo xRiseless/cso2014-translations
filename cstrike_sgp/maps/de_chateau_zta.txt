@@ -1,0 +1,7 @@
+﻿Chateau(Chateau) - Zombie Annihilation
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Kill all the enemies on the map.
+- Victory goes to the team who won the designated round numbers.
+- No respawn until the start of the next round.

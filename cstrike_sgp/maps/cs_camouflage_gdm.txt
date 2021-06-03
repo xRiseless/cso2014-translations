@@ -1,0 +1,8 @@
+﻿Camouflage(Camouflage) - Gun Deathmatch
+Plan / Production : Nexon
+Texture/Modelling/Modification : Nexon
+
+Goal
+- Victory goes to the team who kills their enemies first with a final grenade.
+- Kill every enemy on the map to gain team score.
+- First to score the designated kills within the time limit wins.

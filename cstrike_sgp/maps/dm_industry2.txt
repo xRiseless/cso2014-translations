@@ -1,0 +1,7 @@
+﻿Industry2(Industry2) - Annihilation
+Plan / Created by : Nexon
+Texture/Modeling/Modification : Nexon
+
+An empty lot in the factory and the Terrorist and Counter-Terrorist are having a tense confrontation.
+- Kill all the enemies on the map.
+- Winners will be the team that annihilates all enemies.

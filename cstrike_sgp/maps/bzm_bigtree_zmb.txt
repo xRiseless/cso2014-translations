@@ -1,0 +1,8 @@
+﻿Big Tree - Zombie
+Plan/Produced by: Nexon
+Texture/Modification: Nexon
+Zombies' attack has been spread to a remote area in the jungle. A desperate survival battle starts in an ancient historical site where does not even have a proper shelter.  
+
+Human: Don't get separated from your team and stick together around the big tree to fight against the zombies!
+Zombie: Annihilate all humans!
+

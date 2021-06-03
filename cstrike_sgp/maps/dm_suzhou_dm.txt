@@ -1,0 +1,6 @@
+﻿Suzhou (Suzhou) - Death Match
+Plan / Production : Nexon
+Texture/Modeling/Modify : Nexon
+
+- Kill all the oppenent in the game.
+- The players will the most kills win.

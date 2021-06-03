@@ -1,0 +1,6 @@
+﻿Vertigo - Deathmatch
+Level Design: Chris Auty (Barney) (fragged101@yahoo.com)
+Texture Edit: Telnets and J0esm0e
+
+- Kill all players around.
+- The player with the most kills in the end wins.

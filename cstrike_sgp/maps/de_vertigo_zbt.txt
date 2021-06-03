@@ -1,0 +1,7 @@
+﻿Vertigo - Zombie Unite
+Level Design: Chris Auty (Barney) (fragged101@yahoo.com)
+Texture Edit: Telnets and J0esm0e
+
+- Kill all enemies on the map to gain team score.
+- First to score the designated kills wins.
+- The acquisition of an item-chest counts as a kill.

@@ -1,0 +1,7 @@
+﻿Hong Kong (Dazzling) – Zombie Association
+Plan / Production : Nexon
+Texture/Modeling/Modify : Nexon
+
+- Kill enemies on the map to gain team score.
+- First team to score the designated kills wins.
+- Number of Kills will be added When you gain item box.

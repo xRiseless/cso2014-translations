@@ -1,0 +1,12 @@
+﻿Venice – Zombie Escape
+Map created by: Nexon
+Texture created by: Nexon
+A warm sunlight and calm sounds of the sea wave from Northern Italy Port City of Venice has a beautiful atmosphere which can even make you forget about the Zombie Apocalypse.
+Survivors from the Zombie Apocalypse in all over the world could have a safe and peaceful time there.
+However, this peaceful days did not last long...
+This new peaceful home has been changed into an island of hell that will never return due to a poor management over the virus carriers...
+Just when everyone have given up hope,
+They manage to contact a Cargo Helicopter Pilot through a radio who was searching for other area's survivors.
+Goal:
+Human: Move to the escape area and request help from the Cargo Helicopter Pilot to escape out of Venice!
+Zombie: Either infect all human players or reach the landing base of the approaching Cargo Helicopter first to prevent the human players from escaping!

@@ -1,0 +1,11 @@
+﻿747 - 인질 구출
+맵 제작: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+텍스처 제작: "The Postman" 
+(heavengame@yahoo.com)
+
+대 테러리스트: 비행기에 잠입하여 남아있는 인질을 구출하라.
+
+테러리스트: 카운터 테러리스트들이 인질을 구출하지 못하도록 하라.
+
+기타: 비행기에는 5명의 인질이 있다.

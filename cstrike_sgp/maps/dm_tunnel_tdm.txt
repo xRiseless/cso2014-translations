@@ -1,0 +1,9 @@
+﻿Tunnel - Team Deathmatch
+Plan/Level Design: Nexon
+Texture/Modification : Nexon
+
+To achieve their goals, the Terrorists plan to blow up a tunnel to steal money and war equipment from a train.
+Counter-Terrorists: Attack the Terrorists and keep them from acheiving their goals.
+Terrorists: Attack the Counter-Terrorists and make sure they do not succeed with their spoiling tactics.
+
+Remak: There are two spawn zones per a team on this map.

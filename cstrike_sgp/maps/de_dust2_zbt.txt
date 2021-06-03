@@ -1,0 +1,7 @@
+﻿Dust2 - Zombie Unite
+Level Design: DaveJ (http://www.johnsto.co.uk/)
+Texture Edit: MacMan (MacManInfi@aol.com)
+
+- Kill every enemies on the map to gain team score.
+- First to score the designated kills wins.
+- The acquisition of an item-chest counts as kill.

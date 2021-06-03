@@ -1,0 +1,8 @@
+﻿沙漠ⅡA (Dust2 Annihilation) – 生化盟战(歼灭)模式
+地图制作：DaveJ (http://www.johnsto.co.uk/)
+纹理制作：MacMan (MacManInfi@aol.com)
+地图修改：Nexon
+
+- 消灭地图上的所有敌人
+- 赢得一定数量的回合数获得优胜
+- 死亡后无法复活，直到下一回合开始后复活
