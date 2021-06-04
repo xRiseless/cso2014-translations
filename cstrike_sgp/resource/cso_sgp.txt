@@ -5689,7 +5689,7 @@
 //------------------------------------------------------------------------------
 "CSO_infinitysr"    "Infinity Red"
 "CSO_Item_Name_infinitysr"   "Infinity Red"
-"CSO_Item_Desc_infinitysr"   "This is upgrade version of Infinity Silver for its round number  and fire. It holds 15 rounds for each round with .45 ACP. It has a basic accuracy as Infinity Series.(Exclusive item for internet cafe)"
+"CSO_Item_Desc_infinitysr"   "This is upgrade version of Infinity Silver for its round number  and fire. It holds 15 rounds for each round with .45 ACP. It has a basic accuracy as Infinity Series."
 
 "CStrike_infinitysrPrice"   ": $600"
 "CStrike_infinitysrOrigin"   ": USA"
@@ -5710,7 +5710,7 @@
 "CSO_SpecialQuest_Label"			"Special Mission"
 "CSO_SpecialQuest_Label2"			"Continuous Achievement Record for Special Mission"
 "CSO_TodayRegularQuest_Label"		"Daily mission achieved today"
-"CSO_RecordRegularQuest_Label"		"Maximum Daily Mission Achievement Record"
+"CSO_RecordRegularQuest_Label"		"Maximum daily Mission Achievement Record"
 "CSO_QuestAllClear_Label"			"Daily Mission cleared"
 "CSO_SpecialQuestCount_Label"		"Achieving %d day(s) continuously"
 "CSO_Quest_Day"				"%d day(s)"
@@ -8848,7 +8848,7 @@ It has been enhanced from a normal infinity to increase its damage as well as mo
 //------------------------------------------------------------------------------
 "CSO_AT4EX"				        "AT4CS"
 "CSO_Item_Name_AT4EX"			        "AT4CS"
-"CSO_Item_Desc_AT4EX"			        "AT4CS has a strong destructive power against heavy armor, but has low mobility. Equipped with Homing missle as its 2nd mode. \n\n* AT4CS is able to use for all modes.\n* It will purchase with dollar from 'Weapon' tab at the weapon purchase menu during the game and will be used as a main weapon."
+"CSO_Item_Desc_AT4EX"			        "AT4CS has a strong destructive power against heavy armor, but has low mobility. Equipped with Homing missle as its 2nd mode. \n\n* AT4CS is able to use for all modes.\n\n* It will purchase with dollar from 'Weapon' tab at the weapon purchase menu during the game and will be used as a main weapon."
 
 "CStrike_at4exPrice"				": $7900"
 "CStrike_at4exOrigin"				": USA"
@@ -10433,8 +10433,8 @@ It has been enhanced from a normal infinity to increase its damage as well as mo
 "CSO_BingoPopupComment"            "[Bingo board event rules]\n If you use 1 advance code decoder during the event period, you will win 1 bingo number ranged from 0 to 99.\n\n If your winning bingo number is exists at the right side of the bingo board, the following bingo board will be opened and once you opened all of the bingo numbers in a line, you will receive a reward located at the following line.\n\n* There is a possibility that you can win a number which does not exist in the bingo board or bingo number that has been opened."
 "CSO_Bingo"                                "Purchase or use item"
 "CSO_BingoResetBtnLabel"               "Reset"
-"CSO_BingoResetBtnTip"                   "- Price: Free\n Reset the bingo board and the reward item composition. Also, all opened bingo numbers will be cancelled.\n\n* Caution! The type of reward item and its location may change.\n* Caution! All of the opened bingo numbers will be cancelled, so please think carefully before using the item."
-"CSO_BingoResetBtnConfirm"             "Do you really want to purchase 'Reset' item?\n     (500 Cash will be consumed and it won't be refundable.)"
+"CSO_BingoResetBtnTip"                   "- Price: Free\nReset the bingo board and the reward item composition. Also, all opened bingo numbers will be cancelled.\n\n* Caution! The type of reward item and its location may change.\n* Caution! All of the opened bingo numbers will be cancelled, so please think carefully before using the item."
+"CSO_BingoResetBtnConfirm"             "Do you really want to reset board?"
 "CSO_BingoShuffleBtnLabel"             "Shuffle"
 "CSO_BingoShuffleBtnTip"                 "- Price: Free\n Shuffle the numbers on the Bingo board. Opened bingo numbers will kept as open status.\n\n* Can't use the item if you've clear more than 1 line. (Available to use after reset)\n* Can't use the item if you have opened more than 11 bingo numbers. (Available to use after reset)"
 "CSO_BingoShuffleBtnConfirm"          "Do you really want to purchase the 'Shuffle' item?\n     (1100 Cash will be consumed and it won't be refundable.)"
