@@ -5045,7 +5045,7 @@
 
 "CSO_Item_Name_safPoint"		"SAF Scout + bonus 50,000 Points"
 
-"CSO_Item_Desc_safPoint"		"(+50000 Points, +20% EXP +10% Points) Silent, swift and concealed , the SAF Scout is at home in the jungle and reports on enemy movements. The Terrorists never know they are being watched, ever "
+"CSO_Item_Desc_safPoint"		"Silent, swift and concealed , the SAF Scout is at home in the jungle and reports on enemy movements. The Terrorists never know they are being watched, ever./n/n* This item gives you additional 50,000 points after purchase."
 
 "CSO_Item_Desc_Bonuspoint50000"	"You have received 50,000 points through an event. Click the button to agree to receive bonus points."
 "CSO_Item_Name_Bonuspoint50000"	"50,000 points"
@@ -7687,10 +7687,10 @@ It has been enhanced from a normal infinity to increase its damage as well as mo
 "CSO_Item_Desc_ttChaos"			"This is flame shape tattoo. The flame tattoo will be carved in your character hand once you equip it in inventory."
 
 "CSO_Item_Name_ttTiger"			"Tiger Tattoo"
-"CSO_Item_Desc_ttTiger"			"This is tiger shape tattoo. The tiger tattoo will be carved in your character hand once you equip it in inventory.\n\n* Gives additional 5% (10% for internet cafe players) EXP and Points by equipping the tiger tattoo."
+"CSO_Item_Desc_ttTiger"			"This is tiger shape tattoo. The tiger tattoo will be carved in your character hand once you equip it in inventory."
 
 "CSO_Item_Name_ttDragon"		"Dragon Tattoo"
-"CSO_Item_Desc_ttDragon"		"This is dragon shape tattoo. The dragon tattoo will be carved in your character hand once you equip it in inventory.\n\n*Gives additional 5% (10% for internet cafe players) EXP and Points by equipping the dragon tattoo."
+"CSO_Item_Desc_ttDragon"		"This is dragon shape tattoo. The dragon tattoo will be carved in your character hand once you equip it in inventory."
 //------------------------------------------------------------------------------
 
 //------------------------------------------------------------------------------
@@ -8325,10 +8325,10 @@ It has been enhanced from a normal infinity to increase its damage as well as mo
 //Fernando, Blair shop string 
 //------------------------------------------------------------------------------
 "CSO_Item_Name_FernandoSet"                        "Fernando + Holy Bomb"
-"CSO_Item_Desc_FernandoSet"                        "You will receive a holy bomb (30 days) coupon after purchase. A holy bomb can only be selected by Fernando in zombie (mutant, hero) mode. \n\n Can use Counter-Terrorist Fernando character while playing the game."
+"CSO_Item_Desc_FernandoSet"                        "You will receive a holy bomb (30 days) coupon after purchase. A holy bomb can only be selected by Fernando in zombie (mutant, hero) mode. \n\n*Can use Counter-Terrorist Fernando character while playing the game."
 
 "CSO_Item_Name_BlairSet"                           "Blair + Silver Luger"  
-"CSO_Item_Desc_BlairSet"                           "You will receive a silver luger (30 days) coupon after purchase. A silver luger can only be selected by Blair in zombie (mutant, hero) mode. \n\n Can use Terrorist Blair character while playing the game."
+"CSO_Item_Desc_BlairSet"                           "You will receive a silver luger (30 days) coupon after purchase. A silver luger can only be selected by Blair in zombie (mutant, hero) mode. \n\n*Can use Terrorist Blair character while playing the game."
 
 //------------------------------------------------------------------------------
 //Fernando, Blair exclusive weapon (Silver Luger/Holy Bomb)
@@ -9923,19 +9923,19 @@ It has been enhanced from a normal infinity to increase its damage as well as mo
 "Cstrike_SCYuri_Label"			"Yuri with wearing a soccer uniform."
 
 "CSO_Item_Name_scVIP"			"Max Thacker (Uniform)"
-"CSO_Item_Desc_scVIP"			"You can use a Counter-Terrorist character, Max Thacker with wearing a soccer uniform during the game. If you use the character in the soccer mode, Strength level +1 and start bonus will be applied."
+"CSO_Item_Desc_scVIP"			"You can use a Counter-Terrorist character, Max Thacker with wearing a soccer uniform during the game.\n\n*If you use the character in the soccer mode, Strength level +1 and start bonus will be applied."
 
 "CSO_Item_Name_scJRA"			"Asia Enemy Troops (Uniform)"
-"CSO_Item_Desc_scJRA"			"You can use a Terrorist character, Asia Enemy Troops with wearing a soccer uniform during the game. If you use the character in the soccer mode, Strength level +1 and start bonus will be applied."
+"CSO_Item_Desc_scJRA"			"You can use a Terrorist character, Asia Enemy Troops with wearing a soccer uniform during the game.\n\n*If you use the character in the soccer mode, Strength level +1 and start bonus will be applied."
 
 "CSO_Item_Name_scCJY"			"Choi Ji Yoon (Uniform)"
-"CSO_Item_Desc_scCJY"			"You can use a Counter-Terrorist character, Choi Ji Yoon with wearing a soccer uniform during the game. If you use the character in the soccer mode, Stamina level +1, Agility level +1 and start bonus will be applied."
+"CSO_Item_Desc_scCJY"			"You can use a Counter-Terrorist character, Choi Ji Yoon with wearing a soccer uniform during the game.\n\n*If you use the character in the soccer mode, Stamina level +1, Agility level +1 and start bonus will be applied."
 
 "CSO_Item_Name_scYuri"			"Yuri (Uniform)"
-"CSO_Item_Desc_scYuri"			"You can use a Terrorist character, Yuri with wearing a soccer uniform during the game. If you use the character in the soccer mode, Stamina level +1, Agility level +1 and start bonus will be applied. "
+"CSO_Item_Desc_scYuri"			"You can use a Terrorist character, Yuri with wearing a soccer uniform during the game.\n\n*If you use the character in the soccer mode, Stamina level +1, Agility level +1 and start bonus will be applied. "
 
 "CSO_Item_Name_SCWSet"			"Soccer Uniform Unlimited Set"
-"CSO_Item_Desc_SCWSet"			"A set includes of the Counter-Terrorist Choi Ji Yoon (unlimited) and Terrorist Yuri (unlimited) with soccer uniforms. If you use the character in the soccer mode, Stamina, level +1, Agility level +1 and start bonus will be applied."
+"CSO_Item_Desc_SCWSet"			"A set includes of the Counter-Terrorist Choi Ji Yoon (unlimited) and Terrorist Yuri (unlimited) with soccer uniforms.\n\n*If you use this characters in the soccer mode, Stamina level +1, Agility level +1 and start bonus will be applied."
 
 "CSO_Soccer01"				"Striker"
 "CSO_cage"				"Cage"
@@ -11972,9 +11972,9 @@ It has been enhanced from a normal infinity to increase its damage as well as mo
 "CSO_Item_Name_cossquirrelhead" "Squirrel Ears"
 "CSO_Item_Desc_cossquirrelhead" "A cute squirrel ear shaped costume that equips on the head.\n\n* Something might happen when you equip the full set of squirrel."
 "CSO_Item_Name_cossquirrelback" "Squirrel Acorn"
-"CSO_Item_Desc_cossquirrelback" "This is an acorn shaped costume for squirrel that equips on the back.\n\n*Something might happen when you equip the full set of squirrel."
+"CSO_Item_Desc_cossquirrelback" "This is an acorn shaped costume for squirrel that equips on the back.\n\n* Something might happen when you equip the full set of squirrel."
 "CSO_Item_Name_cossquirrelpelvis" "Squirrel Tail"
-"CSO_Item_Desc_cossquirrelpelvis" "A cute moving squirrel tail costume that equips on the waist.\n\n*Something might happen when you equip the full set of squirrel."
+"CSO_Item_Desc_cossquirrelpelvis" "A cute moving squirrel tail costume that equips on the waist.\n\n* Something might happen when you equip the full set of squirrel."
 "CSO_Item_Name_cossquirrelface" "Squirrel Mask"
 
 //------------------------------------------------------------------------------
@@ -11995,19 +11995,19 @@ It has been enhanced from a normal infinity to increase its damage as well as mo
 //------------------------------------------------------------------------------
 // Yuri LE
 //------------------------------------------------------------------------------
-"CSO_yuri2"   "Yuri LE"
-"CSO_Item_Name_yuri2" "Yuri LE"
-"CSO_Item_Desc_yuri2" "This uniform is worn by Yuri when she invaded and disguised her identity for secret bomb research. Nobody felt suspicious that she might be a bomb expert.\n\n*+5 EXP/Point Bonus will be applied if you play the game with Yuri LE character."
-"Cstrike_yuri2"     "Yuri LE"
-"Cstrike_yuri2_Label" "This uniform is worn by Yuri when she invaded and disguised her identity for secret bomb research.\nNobody felt suspicious that she might be a bomb expert.\n\n*+5 EXP/Point Bonus will be applied if you play the game with Yuri LE character."
+"CSO_yuri2"   "Yuri (LE)"
+"CSO_Item_Name_yuri2" "Yuri (LE)"
+"CSO_Item_Desc_yuri2" "This uniform is worn by Yuri when she invaded and disguised her identity for secret bomb research. Nobody felt suspicious that she might be a bomb expert."
+"Cstrike_yuri2"     "Yuri (LE)"
+"Cstrike_yuri2_Label" "This uniform is worn by Yuri when she invaded and disguised her identity for secret bomb research.\nNobody felt suspicious that she might be a bomb expert."
 //------------------------------------------------------------------------------
 // Alice LE
 //------------------------------------------------------------------------------
-"CSO_alice2"      "Alice LE"
-"CSO_Item_Name_alice2" "Alice LE"
-"CSO_Item_Desc_alice2" "This uniform is worn by Alice when she invaded into Cronos Company’s rival top executive house as a maid. She has completed the mission without any problems due to her understanding of high society culture.\n\n* Alice Rabbit Ears item is included inside.\n\n*+5 EXP/Point Bonus will be applied if you play the game with Alice LE character."
-"Cstrike_alice2"     "Alice LE"
-"Cstrike_alice2_Label" "This uniform is worn by Alice when she invaded into Cronos Company’s rival top executive house as a maid \nShe has completed the mission without any problems\n due to her understanding of high society culture.\n\n*+5 EXP/Point Bonus will be applied if you play the game with Alice LE character."
+"CSO_alice2"      "Alice (LE)"
+"CSO_Item_Name_alice2" "Alice (LE)"
+"CSO_Item_Desc_alice2" "This uniform is worn by Alice when she invaded into Cronos Company’s rival top executive house as a maid. She has completed the mission without any problems due to her understanding of high society culture.\n\n* Alice Rabbit Ears item is included inside."
+"Cstrike_alice2"     "Alice (LE)"
+"Cstrike_alice2_Label" "This uniform is worn by Alice when she invaded into Cronos Company’s rival top executive house as a maid \nShe has completed the mission without any problems\n due to her understanding of high society culture."
 //------------------------------------------------------------------------------
 // Alice Rabbit Ears
 //------------------------------------------------------------------------------
@@ -12016,8 +12016,8 @@ It has been enhanced from a normal infinity to increase its damage as well as mo
 //------------------------------------------------------------------------------
 // Yuri LE + Alice LE Set
 //------------------------------------------------------------------------------
-"CSO_Item_Name_yurialice2" "Yuri LE + Alice LE Set"
-"CSO_Item_Desc_yurialice2"     "A sale package set that contains of Yuri LE and Alice LE inside."
+"CSO_Item_Name_yurialice2" "Yuri (LE) + Alice (LE) Set"
+"CSO_Item_Desc_yurialice2"     "A sale package set that contains of Yuri (LE) and Alice (LE) inside."
 
 
 //-----------------------------------------------------------------------------
@@ -16190,28 +16190,28 @@ Aside from those highlighted waiting for confirmation translations, others are o
  // Choi Jiyoon LE 
  // ------------------------------------------------ ------------------------------ 
 
- "CSO_choijiyoon2" "Choi Jiyoon (LE)." 
- "CSO_Item_Name_choijiyoon2" "Choi Jiyoon (LE)." 
- "CSO_Item_Desc_choijiyoon2" "To succeed the spying mission, dress into formal dress to sneake into the terrorists’ banquet. \n Definitely no one will be suspicious about her covert mission. \n\n *Playing with this character will give the user an extra bonus of 20% EXP and 25% Points"
+ "CSO_choijiyoon2" "Choi Ji Yoon (LE)." 
+ "CSO_Item_Name_choijiyoon2" "Choi Ji Yoon (LE)." 
+ "CSO_Item_Desc_choijiyoon2" "To succeed the spying mission, dress into formal dress to sneake into the terrorists’ banquet. \n Definitely no one will be suspicious about her covert mission."
 
- "Cstrike_choijiyoon2" "Choi Jiyoon (LE)." 
- "Cstrike_choijiyoon2_Label" " To succeed the spying mission, dress into formal dress to sneak into the terrorists’ banquet. \n Definitely no one will be suspicious about her covert mission. \n\n *Playing with this character will give the user an extra bonus of 20% EXP and 25% Points"
+ "Cstrike_choijiyoon2" "Choi Ji Yoon (LE)." 
+ "Cstrike_choijiyoon2_Label" " To succeed the spying mission, dress into formal dress to sneak into the terrorists’ banquet. \n Definitely no one will be suspicious about her covert mission."
  // ------------------------------------------------ ------------------------------ 
  // Michaela LE 
  // ------------------------------------------------ ------------------------------ 
 
  "CSO_pirategirl2" "Michaela (LE)" 
  "CSO_Item_Name_pirategirl2" "Michaela (LE)" 
- "CSO_Item_Desc_pirategirl2" "Pirates longed for the days of the appearance of iron-free girl vaguely. The dress made from pirate flag, enjoy wearing it. \n\n* Playing with this character will give the user an extra bonus of 25% EXP and 20% Points "
+ "CSO_Item_Desc_pirategirl2" "Pirates longed for the days of the appearance of iron-free girl vaguely. The dress made from pirate flag, enjoy wearing it."
 
  "Cstrike_pirategirl2" "Michaela (LE)" 
- "Cstrike_pirategirl2_Label" "Pirates longed for the days of the appearance of iron-free girl vaguely. The dress made from pirate flag, enjoy wearing it. \n\n *Playing with this character will give the user an extra bonus of 25% EXP and 20% Points "
+ "Cstrike_pirategirl2_Label" "Pirates longed for the days of the appearance of iron-free girl vaguely. The dress made from pirate flag, enjoy wearing it."
 
  // ------------------------------------------------ ------------------------------ 
  // 최지윤 LE + 미카엘라 LE 세트 
  // ------------------------------------------------ ------------------------------ 
  "CSO_Item_Name_choipirate2" "Spicy and Sexy Set" 
- "CSO_Item_Desc_choipirate2" "The set includes: Michael LE (permanent) + Choi Jiyoon LE (permanent) \n\n* The package is only sales during event period"
+ "CSO_Item_Desc_choipirate2" "The set includes: Michaela (LE) (Permanent) + Choi Ji Yoon (LE) (Permanent) \n\n* The package is only sales during event period"
 
  // ------------------------------------------------ ------------------------------ 
  // BOT zombie mode map Metro 
