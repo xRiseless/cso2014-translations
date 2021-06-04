@@ -1,5 +1,0 @@
-﻿意大利EX(Italy EX)  生化模式
-地图制作：glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
-
-人类：一定时间内，在僵尸的袭击下存活或击毙所有僵尸。
-僵尸：攻击所有人类将他们全部感染为僵尸。

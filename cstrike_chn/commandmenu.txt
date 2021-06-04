@@ -35,6 +35,8 @@
 	"5" "#Cstrike_Use_Right_Hand" 		"cl_righthand 1"
 }
 
+// Here are the rest of the buttons and submenus
+// You can change these safely if you want.
 "2" "#Cstrike_TEAM_MESSAGE"
 {
 	// Map Specific
@@ -218,9 +220,7 @@
      "6" "#Cstrike_Need_Backup"		"say_team '需要掩护！'"
 }
 
-"3" "------------"
-
-"1" "个人设置"
+"3" "个人设置"
 {
 	"1" "停止播放背景音乐" "mp3 stop"
 	"2" "功能开关"
@@ -230,12 +230,12 @@
 			"1" "开启" "hud_fastswitch 1"
 			"2" "关闭" "hud_fastswitch 0"
 		}
-		"2" "角色锁定"
+		"2" "强制同一角色"
 		{
 			"1" "开启" "cl_minmodels 1"
 			"2" "关闭" "cl_minmodels 0"
 		}
-		"3" "界面(HUD)"
+		"3" "显示界面(HUD)"
 		{
 			"1" "开启" "hud_draw 1;cl_radar_on 1"
 			"2" "关闭" "hud_draw 0;cl_radar_on 0"
@@ -243,7 +243,7 @@
 	}
 	"3" "帧数(FPS)"
 	{
-		"1" "显示开关"
+		"1" "显示在左上角"
 		{
 			"1" "开启" "cl_showfps 1"
 			"2" "关闭" "cl_showfps 0"
@@ -260,7 +260,7 @@
 			"2" "关闭" "gl_vsync 0"
 		}
 	}
-	"4" "实体图标"
+	"4" "实体信息"
 	{
 		"1" "其他玩家"
 		{
@@ -274,15 +274,15 @@
 			"2" "关闭" "cl_objname 0"
 		}
 	}
-	"5" "血液限制"
+	"5" "出血类型"
 	{
-		"1" "无限制" "violence_hblood 1;violence_ablood 1;violence_redblood 1"
-		"2" "轻微" "violence_hblood 1;violence_ablood 1;violence_redblood 0"
-		"3" "严重" "violence_hblood 0;violence_ablood 0"
+		"1" "红血" "violence_hblood 1;violence_ablood 1;violence_redblood 1"
+		"2" "黄血" "violence_hblood 1;violence_ablood 1;violence_redblood 0"
+		"3" "不出血" "violence_hblood 0;violence_ablood 0"
 	}
 	"6" "网络信息"
 	{
-		"1" "显示开关"
+		"1" "显示在下方"
 		{
 			"1" "开启" "net_graph 3"
 			"2" "关闭" "net_graph 0"
@@ -295,38 +295,56 @@
 		}
 	}
 }
-"2" "房主设置"
+
+"4" "房主设置"
 {
-	"1" "电脑(BOT)"
+	"1" "如果你不是房主:"
 	{
-		"1" "生化加BOT后:"
+		"1" "以下选项将不起作用!" " "
+	}
+	"2" "BOT"
+	{
+		"1" "难度" 
 		{
-			"1" "请记得刷新对局!"
+			"1" "新手专用"
+			{
+				"1" "#CSO_Bot_Difficulty_0" "bot_difficulty 0"
+				"2" "#CSO_Bot_Difficulty_1" "bot_difficulty 1"
+			}
+			"2" "良好"
+			{
+				"1" "#CSO_Bot_Difficulty_2" "bot_difficulty 2"
+				"2" "#CSO_Bot_Difficulty_3" "bot_difficulty 3"
+				"3" "#CSO_Bot_Difficulty_4" "bot_difficulty 4"
+				"4" "#CSO_Bot_Difficulty_5" "bot_difficulty 5"
+			}
+			"3" "硬核"
+			{
+				"1" "#CSO_Bot_Difficulty_6" "bot_difficulty 6"
+				"2" "#CSO_Bot_Difficulty_7" "bot_difficulty 7"
+			}
 		}
-		"2" "加CT"
+		"2" "添加BOT"
 		{
-		"1" "1个" "cso_bot_add 1"
-		"2" "3个" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
-		"3" "5个" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
+			"1" "#CSO_ClsCT"
+			{
+				"1" "1" "cso_bot_add 1"
+				"2" "3" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
+				"3" "5" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
+			}
+			"2" "#CSO_ClsTER"
+			{
+				"1" "1" "cso_bot_add 2"
+				"2" "3" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
+				"3" "5" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
+			}
+			"3" "全部"
+			{
+				"1" "1" "cso_bot_add 1;cso_bot_add 2"
+				"2" "3" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
+			}
 		}
-		"3" "加T"
-		{
-		"1" "1个" "cso_bot_add 2"
-		"2" "3个" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
-		"3" "5个" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
-		}
-		"4" "难度" 
-		{
-			"1" "#CSO_Bot_Difficulty_0" "bot_difficulty 0"
-			"2" "#CSO_Bot_Difficulty_1" "bot_difficulty 1"
-			"3" "#CSO_Bot_Difficulty_2" "bot_difficulty 2"
-			"4" "#CSO_Bot_Difficulty_3" "bot_difficulty 3"
-			"5" "#CSO_Bot_Difficulty_4" "bot_difficulty 4"
-			"6" "#CSO_Bot_Difficulty_5" "bot_difficulty 5"
-			"7" "#CSO_Bot_Difficulty_6" "bot_difficulty 6"
-			"8" "#CSO_Bot_Difficulty_7" "bot_difficulty 7"
-		}
-		"5" "交流"
+		"3" "交流"
 		{
 			"1" "语音" "bot_chatter normal"
 			"2" "语音(话少)" "bot_chatter mininal"
@@ -336,4 +354,4 @@
 	}
 }
 
-"6" "#CommandMenu_close"
+"5" "关闭菜单" " "

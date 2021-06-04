@@ -9941,7 +9941,7 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 "CSO_ZS_Warning_MSG_316"		      "索伊:这是怎么回事？是僵尸！"
 "CSO_ZS_Warning_MSG_317"		      "索伊:尸群好象是从某个与下水道连接的地方移动过来的！"
 "CSO_ZS_Warning_MSG_318" 		      "索伊:放弃追击任务，先确保活下来再说！"
-"CSO_ZS_Warning_MSG_319" 		      "索伊:务必请坚持到总部派遣的支援部队到来为止！"
+"CSO_ZS_Warning_MSG_319" 		      "索伊:务必请坚持到总部派遣的支援部队到来u4E3A止！"
 "CSO_ZS_Warning_MSG_320" 		      "索伊:看那边的大水路，是狄欧斯！"
 "CSO_ZS_Warning_MSG_321"		      "索伊:等一下，我正试着对外联系。"
 "CSO_ZS_Warning_MSG_322"		      "索伊:狄欧斯好象要攻击，请小心！"
@@ -11613,7 +11613,7 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 "CSO_StarShopDlg" "战友专用补给道具"
 
 "CSO_JuniorComradeDismissedByHisLevelUp" "与后辈变成同一等级\n与后辈%s的战友关系已自动解除。"
-"CSO_JuniorComradeDismissedByHisLevelUp" "与后辈变成同一等级\与后辈%的战友关系已自动解除。"
+"CSO_JuniorComradeDismissedByHisLevelUp" "与后辈变成同一等级\\u4E0E后辈%的战友关系已自动解除。"
 "CSO_SeniorComradeDismissedByYourLevelUp" "与前辈变成同一等级\n与前辈%s的战友关系已自动解除。"
 "CSO_JuniorComradeDismissedByHisLevelUp" "与后辈变成同一等级\n与后辈%s的战友关系已自动解除。"
 
@@ -17071,7 +17071,7 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 "CSO_ZS_Warning_MSG_1146" "警卫队长: 从车上面移动到桥上！"
 "CSO_ZS_Warning_MSG_1147" "杰西卡: 好像快到了...这次也像失落之城那时一样糟糕。"
 "CSO_ZS_Warning_MSG_1148" "警卫队长: 终于可以出去了！大家一起移动到空地去。"
-"CSO_ZS_Warning_MSG_1149" "队员: 看到空地了！僵尸应该很难到这边来。"
+"CSO_ZS_Warning_MSG_1149" "队员: 看到u7A7A地了！僵尸应该很难到这边来。"
 "CSO_ZS_Warning_MSG_1150" "队员: 前面的路又被挡住了！"
  
 //보스라운드
@@ -17466,7 +17466,6 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 
 "InfoBanList"	"屏蔽列表"
 
-
 "CSO_GameLeaveConfimation_Text"		"中断当前进行中的游戏返回房间列表"
 
 "CSO_Bot_comment"                    "※ 无法修改虚拟对手的数量。"
@@ -17474,7 +17473,6 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 "CSO_Coupon_Text"		"请输入兑换券:"
 
 "CSO_Login_Title"		"帐号登录"
-"CSO_Login_Btn"		"登录"
 
 "CSO_NewCharater_Title"		"输入你的游戏昵称"
 "CSO_NewCharater_Text"		"字符限制：4-16位"
@@ -17482,7 +17480,7 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 
 "CSO_Warning_GM_CUT"		"您已被禁止进入此服务器！\n原因：\"{}\"\n请联系管理员以获取更多信息。"
 
-"CSO_LocRegister_Msg"		"请选择你当前所在的地区。中国居民应选择\"中华人民共和国\"\n※使用\"地区信息初始化\"道具可初始化已登记的地区。"
+"CSO_LocRegister_Msg"		"请选择你当前所在的地区。中国居民应选择\"China\"\n※使用\"地区信息初始化\"道具可初始化已登记的地区。"
 
 "CSO_gallery"		"血战画廊(Gallery)"
 "CSO_Industry"				"工业仓库(Industry)"
@@ -17598,10 +17596,10 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 
 "CSO_Item_Name_FabEnduMaxPer"  "耐久材料(无限制)"
 
-"CSO_Item_Name_newyearbox"  "祝贺新年福袋"
-"CSO_Item_Desc_newyearbox"  "打开后可以获得随机一个道具作为礼物。有概率可以获得<杰西卡>或<娜塔莎>等商城已不再售卖的物品！\n\n※点击[使用]按键，可开启福袋。"
-"CSO_Warning_newyearbox_TITLE"  "祝贺新年福袋"
-"CSO_Warning_newyearbox_MSG"  "新年新福气！祝您来财运！您已获得以下物品:"
+"CSO_Item_Name_newyearbox"  "祝贺新年礼盒"
+"CSO_Item_Desc_newyearbox"  "打开后可以获得随机一个道具作为礼物。有概率可以获得<杰西卡>或<娜塔莎>等商城已不再售卖的物品！\n\n※点击[使用]按键，可开启礼盒。"
+"CSO_Warning_newyearbox_TITLE"  "祝贺新年礼盒"
+"CSO_Warning_newyearbox_MSG"  "开启祝贺新年礼盒，获得了以下道具："
 
 "CSO_Item_Name_secretbox"	"神秘奖盒"
 "CSO_Item_Desc_secretbox"	"包含神秘道具的奖盒，开启后有概率获得<杰西卡>或<娜塔莎>或其他道具。\n\n※点击[使用]按键，可开启奖盒。"

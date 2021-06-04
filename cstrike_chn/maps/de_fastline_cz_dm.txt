@@ -1,0 +1,5 @@
+﻿地铁快线(Fastline) - 个人决战模式
+地图制作： Luke 'weasl' Whiteside (Ritual Entertainment)
+
+- 击杀地图上的所有角色。
+- 最终击杀次数最多的角色获胜。
