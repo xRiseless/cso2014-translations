@@ -171,12 +171,12 @@
 		"enabled"		"1"
 		"tabPosition"		"5"
 		"paintbackground"		"1"
-		"labelText"		"#CSO_Register_Btn"
+		"labelText"		"#CSO_Login_Register_Btn"
 		"textAlignment"		"center"
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"		"0"
-		"Default"		"1"
+		"Default"		"0"
 		"Command"		"Register"
 	}
 }

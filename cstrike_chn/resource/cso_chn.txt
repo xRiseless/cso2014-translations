@@ -17473,6 +17473,8 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 "CSO_Coupon_Text"		"请输入兑换券:"
 
 "CSO_Login_Title"		"帐号登录"
+"CSO_Login_Btn"			"登录(Enter)"
+"CSO_Login_Register_Btn"	"注册"
 
 "CSO_NewCharater_Title"		"输入你的游戏昵称"
 "CSO_NewCharater_Text"		"字符限制：4-16位"

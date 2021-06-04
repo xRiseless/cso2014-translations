@@ -4684,7 +4684,7 @@
 
 //Location
 "CSO_LocRegister_Title" 	"Registering your location"
-"CSO_LocRegister_Msg" 	"Please register your location by selecting the correct city, region and district from the drop-down list below."
+"CSO_LocRegister_Msg" 	"Please register your location by selecting the correct country."
 
 //------------------------------------------------------------------------------
 //Title(Medal) System
@@ -16711,6 +16711,8 @@ Aside from those highlighted waiting for confirmation translations, others are o
 "CStrike_sfpistolWeightLoaded"   ": Unknown"
 
 "Cstrike_kevlar_helmetDescription"	"A Kevlar helmet to compliment the Kevlar suit. It will keep the wearer's head safe to a certain extent during a battle. If you buy this item, you will purchase both helmet and suit at the same time."
+
+"CSO_Login_Register_Btn"	"Register"
 
 "CSO_Info_ETC_228" "The server team would appreciate your financial support: https://discord.gg/EvUAY6D"
 
