@@ -16305,7 +16305,7 @@ Aside from those highlighted waiting for confirmation translations, others are o
 
 
 "CSO_Quest_Honor084_Name"  "[Honour] Wrath Controller"	
-"CSO_Quest_Honor084_Desc"      "One of the seven sins is here. Can face it and survive?  \n\n*  Require 4 ppl in the room."	
+"CSO_Quest_Honor084_Desc"      "One of the seven sins is here. Can face it and survive?  \n\n* Require 4 ppl in the room."	
 "CSO_Quest_Honor084_Cond1"     " Vanquish the Yeti: The Frozen Terror for 100 times"	
 "CSO_Title_name_WrathController"    "Wrath Controller"	
 "CSO_Title_desc_WrathController"  "The honour is awarded to whom can control the wrath, not fall into the sin"
@@ -16608,10 +16608,10 @@ Aside from those highlighted waiting for confirmation translations, others are o
 // Strings fixed by us
 
 "CSO_Item_Name_codebbox30p" "Code B Decoders Bundle"
-"CSO_Item_Desc_codebbox30p" "This event item consists of 30 Code B Decoders and 30 code boxes.\n\n*  This item is only available to purchase during the event period."
+"CSO_Item_Desc_codebbox30p" "This event item consists of 30 Code B Decoders and 30 code boxes.\n\n* This item is only available to purchase during the event period."
 
 "CSO_Item_Name_codeabox30p" "Code A Decoders Bundle"
-"CSO_Item_Desc_codeabox30p" "This event item consists of 30 Code A Decoders and 30 code boxes.\n\n*  This item is only available to purchase during the event period."
+"CSO_Item_Desc_codeabox30p" "This event item consists of 30 Code A Decoders and 30 code boxes.\n\n* This item is only available to purchase during the event period."
 
 "CSO_Item_Name_fabandmax1" "The 1st Class Blueprint [S] Bundle"
 "CSO_Item_Desc_fabandmax1" "You will receive The 1st Class Blueprint [S] + Permanent durability upon purchase. No more required to make your weapon!"
@@ -16709,7 +16709,7 @@ Aside from those highlighted waiting for confirmation translations, others are o
 "CSO_Item_Desc_LuckyBag2013"            "It contain at least 1 code decoder. If you are lucky, you might receive more than 1.\n\n- Click [Use] button to receive the item."
 
 "CSO_Warning_LUCKYBAG2013_TITLE"        "Fortune Bag"
-"CSO_Warning_LUCKYBAG2013_MSG"        	"It contain 1 random item. \n\n- Click [Use] button to receive the item."
+"CSO_Warning_LUCKYBAG2013_MSG"        	"It contain 1 random item.\n\n- Click [Use] button to receive the item."
 
 "CStrike_sfpistolWeightLoaded"   ": Unknown"
 
