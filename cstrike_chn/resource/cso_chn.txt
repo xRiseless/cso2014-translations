@@ -3497,16 +3497,16 @@ MP7A1, USAS12, MP5, Galil, Famas, FiveSeven, Elite"
 //------------------------------------------------------------------------------           
 //Scroll_Message           
 //------------------------------------------------------------------------------           
-"CSO_Shop_Scroll_Text1"     "你正在游玩CSO SGP 2014。   开发人员：Jusic、Hardee、NekoMeow。" 
-"CSO_Shop_Scroll_Text2"     "你正在游玩CSO SGP 2014。   加入Discord一起畅聊：discord.gg/EvUAY6D。"
-"CSO_Shop_Scroll_Text3"     "你正在游玩CSO SGP 2014。   游戏管理员：xRiseless、Jusic、SmilexG、NekoMeow。" 
-"CSO_Shop_Scroll_Text4"     "你正在游玩CSO SGP 2014。   意见反馈请加入Discord：discord.gg/EvUAY6D。"
-"CSO_Shop_Scroll_Text5"     "你正在游玩CSO SGP 2014。   官方群组：vk.com/csnz_server。"
-"CSO_Shop_Scroll_Text6"     "你正在游玩CSO SGP 2014。   开发人员：Jusic、Hardee、NekoMeow。"
-"CSO_Shop_Scroll_Text7"     "你正在游玩CSO SGP 2014。   加入Discord一起畅聊：discord.gg/EvUAY6D。" 
-"CSO_Shop_Scroll_Text8"     "你正在游玩CSO SGP 2014。   游戏管理员：xRiseless、Jusic、SmilexG、NekoMeow。"
-"CSO_Shop_Scroll_Text9"     "你正在游玩CSO SGP 2014。   意见反馈请加入Discord：discord.gg/EvUAY6D。"
-"CSO_Shop_Scroll_Text10"     "你正在游玩CSO SGP 2014。   官方群组：vk.com/csnz_server。"
+"CSO_Shop_Scroll_Text1"     "你正在游玩CSO 2014。   开发人员：Jusic、Hardee、NekoMeow。" 
+"CSO_Shop_Scroll_Text2"     "你正在游玩CSO 2014。   加入Discord一起畅聊：discord.gg/EvUAY6D。"
+"CSO_Shop_Scroll_Text3"     "你正在游玩CSO 2014。   游戏管理员：xRiseless、Jusic、SmilexG、NekoMeow。" 
+"CSO_Shop_Scroll_Text4"     "你正在游玩CSO 2014。   意见反馈请加入Discord：discord.gg/EvUAY6D。"
+"CSO_Shop_Scroll_Text5"     "你正在游玩CSO 2014。   官方群组：vk.com/csnz_server。"
+"CSO_Shop_Scroll_Text6"     "你正在游玩CSO 2014。   开发人员：Jusic、Hardee、NekoMeow。"
+"CSO_Shop_Scroll_Text7"     "你正在游玩CSO 2014。   加入Discord一起畅聊：discord.gg/EvUAY6D。" 
+"CSO_Shop_Scroll_Text8"     "你正在游玩CSO 2014。   游戏管理员：xRiseless、Jusic、SmilexG、NekoMeow。"
+"CSO_Shop_Scroll_Text9"     "你正在游玩CSO 2014。   意见反馈请加入Discord：discord.gg/EvUAY6D。"
+"CSO_Shop_Scroll_Text10"     "你正在游玩CSO 2014。   官方群组：vk.com/csnz_server。"
 
 //----------------------------------------------------------------------------
 //Zombie2
