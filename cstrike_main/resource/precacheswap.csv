@@ -1,0 +1,8 @@
+ORIGINAL,SWAP
+sprites/event_bombexp.spr,sprites/cakeexp.spr
+sprites/event_bombexp2.spr,sprites/fexplo.spr
+models/w_eventbomb.mdl,models/w_cake_all.mdl
+models/v_eventbomb.mdl,models/v_cake_all.mdl
+models/p_eventbomb.mdl,models/p_cake_all.mdl
+sound/weapons/eventbomb_exp.wav,sound/weapons/CakeExp.wav
+sprites/wpn_eventbomb.spr,sprites/wpn_cakebomb.spr
