@@ -1026,6 +1026,127 @@ COMP
 #Cstrike_TitlesTXT_COMP
 }
 
+//08.12.10. 튜토리얼 텍스트 업데이트
+//****************************************************
+//** Training map messages for china, taiwan, japan **
+//****************************************************
+
+$position -1 -1
+$color 12 200 12
+$effect 0
+$fadein 0.2
+$holdtime 10
+$fadeout 1
+
+rex1
+{
+#CSO_TitlesTXT_rex1
+}
+
+rex2
+{
+#CSO_TitlesTXT_rex2
+}
+
+rex3
+{
+#CSO_TitlesTXT_rex3
+}
+
+rex4
+{
+#CSO_TitlesTXT_rex4
+}
+
+rex5
+{
+#CSO_TitlesTXT_rex5
+}
+
+rex6
+{
+#CSO_TitlesTXT_rex6
+}
+
+rex7
+{
+#CSO_TitlesTXT_rex7
+}
+
+rex8
+{
+#CSO_TitlesTXT_rex8
+}
+
+rex9
+{
+#CSO_TitlesTXT_rex9
+}
+
+rex10
+{
+#CSO_TitlesTXT_rex10
+}
+
+rex11
+{
+#CSO_TitlesTXT_rex11
+}
+
+rex12
+{
+#CSO_TitlesTXT_rex12
+}
+
+rex13
+{
+#CSO_TitlesTXT_rex13
+}
+
+rex14
+{
+#CSO_TitlesTXT_rex14
+}
+
+rex15
+{
+#CSO_TitlesTXT_rex15
+}
+
+rex16
+{
+#CSO_TitlesTXT_rex16
+}
+
+rex17
+{
+#CSO_TitlesTXT_rex17
+}
+
+rex18
+{
+#CSO_TitlesTXT_rex18
+}
+
+rex19
+{
+#CSO_TitlesTXT_rex19
+}
+
+rex20
+{
+#CSO_TitlesTXT_rex20
+}
+
+rex21
+{
+#CSO_TitlesTXT_rex21
+}
+
+rex22
+{
+#CSO_TitlesTXT_rex22
+}
 //09.01.12. Tutorial Text Update
 //****************************************************
 //** Training map messages for tuto0 **

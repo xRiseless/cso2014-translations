@@ -17472,6 +17472,10 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 
 "CSO_Coupon_Text"		"请输入兑换券:"
 
+"CSO_Warning_GM_CUT"		"您已被禁止进入此服务器！\n原因：\"{}\"\n请联系管理员以获取更多信息。"
+
+"CSO_LocRegister_Msg"		"请选择你当前所在的地区。中国居民应选择\"China\"\n※使用\"地区信息初始化\"道具可初始化已登记的地区。"
+
 "CSO_Login_Title"		"帐号登录"
 "CSO_Login_Btn"			"登录(Enter)"
 "CSO_Login_Register_Btn"	"注册"
@@ -17479,10 +17483,6 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 "CSO_NewCharater_Title"		"输入你的游戏昵称"
 "CSO_NewCharater_Text"		"字符限制：4-16位"
 "CSO_NewCharater_Text2"		"      ※只能使用数字、字母及符号"
-
-"CSO_Warning_GM_CUT"		"您已被禁止进入此服务器！\n原因：\"{}\"\n请联系管理员以获取更多信息。"
-
-"CSO_LocRegister_Msg"		"请选择你当前所在的地区。中国居民应选择\"China\"\n※使用\"地区信息初始化\"道具可初始化已登记的地区。"
 
 "CSO_gallery"		"血战画廊(Gallery)"
 "CSO_Industry"				"工业仓库(Industry)"
