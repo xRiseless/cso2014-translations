@@ -73,23 +73,15 @@
 "CSO_HOST_LOCK_B"		"当前房主设置为无法使用。
 请按空格键关闭窗口。"
 "CSO_ITEM_LOCK_H"		"您无法使用该装备/武器"
-"CSO_ITEM_LOCK_B"		"无法使用。
-需在商城或仓库中购买后才能使用。
-按空格键关闭窗口。"
+"CSO_ITEM_LOCK_B"		"无法使用。\n需在商城或仓库中购买后才能使用。\n按空格键关闭窗口。"
 "CSO_COST_LOCK_H"		"金钱不够"
-"CSO_COST_LOCK_B"		"金钱不够，您无法购买当前武器。
-金钱会根据每局比赛的胜负结果增加。
-按空格键关闭窗口。"
+"CSO_COST_LOCK_B"		"金钱不够，您无法购买当前武器。\n金钱会根据每局比赛的胜负结果增加。\n按空格键关闭窗口。"
 "CSO_MAP_LOCK_H"		"您无法使用该装备/武器"
-"CSO_MAP_LOCK_B"		"无法在当前地图使用。
-请按空格键关闭窗口。"
+"CSO_MAP_LOCK_B"		"无法在当前地图使用。\n请按空格键关闭窗口。"
 "CSO_BASKET_FULL_H"		"确认取消购买菜单"
-"CSO_BASKET_FULL_B"		"道具已添加至购物篮。确认关闭购买菜单？
- (※关闭时添加至购物篮的道具将自动购买。)"
+"CSO_BASKET_FULL_B"		"道具已添加至购物篮。确认关闭购买菜单？\n (※关闭时添加至购物篮的道具将自动购买。)"
 "CSO_CLASS_EXPIRED_H"		"当前所属阵营无法使用。"
-"CSO_CLASS_EXPIRED_B"		"无法使用。
-需在商城或仓库中购买后才能使用。
-按空格键关闭窗口。"
+"CSO_CLASS_EXPIRED_B"		"无法使用。\n需在商城或仓库中购买后才能使用。\n按空格键关闭窗口。"
 "CSO_IGBuyTitle"		"购买菜单"
 "CSO_ClsTER"		"T阵营"
 "CSO_ClsCT"		"CT阵营"
@@ -856,26 +848,16 @@
 "CSO_ServerMessage_Title"		"服务器消息"
 "CSO_ServerMessage_Playing"		"连接中"
 "CSO_ServerMessage_Timeout"		"等待超时"
-"CSO_ServerMessage_ServerDown"		"服务器问题 
-请稍后再次尝试连接"
-"CSO_ServerMessage_SysError"		"发生系统错误
-请稍后再次尝试连接"
-"CSO_ServerMessage_InvalidServer"		"服务器选择错误
-请再次尝试"
-"CSO_ServerMessage_InvalidSlot"		"错误的角色槽
-请再次尝试"
+"CSO_ServerMessage_ServerDown"		"服务器问题 \n请稍后再次尝试连接"
+"CSO_ServerMessage_SysError"		"发生系统错误\n请稍后再次尝试连接"
+"CSO_ServerMessage_InvalidServer"		"服务器选择错误\n请再次尝试"
+"CSO_ServerMessage_InvalidSlot"		"错误的角色槽\n请再次尝试"
 "CSO_ServerMessage_GM_NOT_ALLOWED_IP"		"在非管理员账号登录的授权范围连接"
 "CSO_ServerMessage_ID_NOT_ALLOWD"		"使用没有注册的账号登录"
-"CSO_ServerMessage_NEXONCOMERROR"		"服务器发生故障
-请稍后再次尝试"
-"CSO_ServerMessage_NEXONCOM_PASSPORTERROR"		"认证信息发生错误
-请再次尝试登录
-请稍后尝试"
-"CSO_ServerMessage_NEXONCOM_INVALID_SESSION"		"认证失败
-请再次尝试
-请再次尝试"
-"CSO_ServerMessage_ID_TOO_SHORT"		"必须2个汉字或4个英文字母以上
-请再次尝试登录"
+"CSO_ServerMessage_NEXONCOMERROR"		"服务器发生故障\n请稍后再次尝试"
+"CSO_ServerMessage_NEXONCOM_PASSPORTERROR"		"认证信息发生错误\n请再次尝试登录\n请稍后尝试"
+"CSO_ServerMessage_NEXONCOM_INVALID_SESSION"		"认证失败\n请再次尝试\n请再次尝试"
+"CSO_ServerMessage_ID_TOO_SHORT"		"必须2个汉字或4个英文字母以上\n请再次尝试登录"
 "CSO_ServerMessage_ID_TOO_LONG"		"最多不超过8个汉字或16个英文字母"
 "CSO_ServerMessage_INVALID_CHAR"		"角色名中无法使用空白或特殊符号"
 "CSO_ServerMessage_ID_DIGIT_BEFORE_CHAR"		"数字只能在角色名的末尾使用"
@@ -884,21 +866,16 @@
 "CSO_ServerMessage_ID_PROHIBITED"		"角色名中包含非法字符"
 "CSO_ServerMessage_INVALID_USERINFO"		"玩家账号信息错误"
 "CSO_ServerMessage_TRANSFER_ERR"		"服务器转换失败"
-"CSO_ServerMessage_EXCEED_MAX_CONNECTION"		"同时在线人数超过限制
-请再次尝试登录"
-"CSO_ServerMessage_NOT_STRESS_TEST"		"非压力测试期间
-请稍后再次尝试"
-"CSO_ServerMessage_NOT_TEST_PERIOD"		"非压力测试期间
-请稍后再次尝试"
+"CSO_ServerMessage_EXCEED_MAX_CONNECTION"		"同时在线人数超过限制\n请再次尝试登录"
+"CSO_ServerMessage_NOT_STRESS_TEST"		"非压力测试期间\n请稍后再次尝试"
+"CSO_ServerMessage_NOT_TEST_PERIOD"		"非压力测试期间\n请稍后再次尝试"
 "CSO_ServerMessage_NEXONCOM_UNDER_AGE"		"未满15岁的玩家无法进入游戏"
 "CSO_ServerMessage_BETA_TESTER_ID_PROHIBITED"		"为压力测试玩家预留的角色"
 "CSO_ServerMessage_CHARACTER_NUMBER_LIMIT"		"每个账号最多可以生成20个角色"
 "CSO_ServerMessage_CHARACTER_BAN"		"该角色被管理员封停"
 "CSO_ServerMessage_ACCOUNT_BAN"		"管理员限制进入游戏"
-"CSO_Warning_SERVER_SELECT_FAIL_LOBBY_FULL"		"选择的频道中同时在线的玩家数超过限制
-请选择其他频道"
-"CSO_Warning_SERVER_SELECT_FAIL_SERVER_DOWN"		"无法进入所选频道
-请选择其他频道"
+"CSO_Warning_SERVER_SELECT_FAIL_LOBBY_FULL"		"选择的频道中同时在线的玩家数超过限制\n请选择其他频道"
+"CSO_Warning_SERVER_SELECT_FAIL_SERVER_DOWN"		"无法进入所选频道\n请选择其他频道"
 "CSO_Warning_DISCONNECTED_BY_NETWORK_FAILURE"		"由于网络设定问题无法进行游戏"
 "CSO_Warning_ROOM_OPEN_FAILED_INVALID_SETTING"		"房间设定错误"
 "CSO_Warning_ROOM_OPEN_FAILED_NAME_PROHIBITED_TEXT"		"房间名中包含禁用文字"
@@ -1057,8 +1034,7 @@
 "CSO_Item_Desc_arctic"		"在游戏中选择T阵营时使用该角色。"
 "CSO_Item_Desc_militia"		"在游戏中选择T阵营时使用该角色。"
 "CSO_Item_Desc_RB"		"在游戏中选择T阵营时使用该角色。少校(30级)以上级别可以购买。"
-"CSO_Item_Desc_IRA"		"在游戏中选择T阵营时使用该角色。
-获得经验20%加成和金币10%加成"
+"CSO_Item_Desc_IRA"		"在游戏中选择T阵营时使用该角色。\n获得经验20%加成和金币10%加成"
 "CSO_Item_Desc_ETA"		"在游戏中选择T阵营时使用该角色。"
 "CSO_Item_Desc_JRA"		"在游戏中选择T阵营时使用该角色。"
 "CSO_Item_Desc_urban"		"在游戏中选择CT阵营时使用该角色。"
@@ -1068,8 +1044,7 @@
 "CSO_Item_Desc_Spetsnaz"		"在游戏中选择CT阵营时使用该角色。"
 "CSO_Item_Desc_707"		"在游戏中选择CT阵营时使用该角色。少校(30级)以上级别可以购买。"
 "CSO_Item_Desc_sozo"		"在游戏中选择CT阵营时使用该角色。"
-"CSO_Item_Desc_magui"		"在游戏中选择CT阵营时使用该角色。
-获得经验20%加成和金币10%加成"
+"CSO_Item_Desc_magui"		"在游戏中选择CT阵营时使用该角色。\n获得经验20%加成和金币10%加成"
 "CSO_Item_Desc_sdefence"		"在游戏中选择CT阵营时使用该角色。"
 "CSO_Item_Desc_NoThirdperson"		"创建房间时可以设定为禁止旁观自由视角和旁观追踪视角。"
 "CSO_Item_Desc_ExpUp"		"经验值获取量增加50%，无法与双重加成效果叠加"
@@ -1101,12 +1076,9 @@
 "CSO_Item_Desc_NoChaseDeathCam"		"创建房间时允许设定禁止死亡视角。"
 "CSO_Item_Desc_GameModeClassic"		"允许创建禁止使用新武器和新人物的经典模式"
 "CSO_Item_Desc_WeaponLimitKnife"		"创建房间时拥有设置进行刀战模式的权限。"
-"CSO_Item_Desc_ClannoticeExpansion"		"使用该道具后将可以显示或撰写更多的军团公告。
-只有军团长才可以使用。"
-"CSO_Item_Desc_ClanmateIncrease"		"使用后增加军团人数上限，使用一次可增加5名，最多可增加至500名。
-只有军团长才可以使用。"
-"CSO_Item_Desc_ClanmarkChange"		"创建或更改军团标志。
-只有军团长才可以使用。"
+"CSO_Item_Desc_ClannoticeExpansion"		"使用该道具后将可以显示或撰写更多的军团公告。\n只有军团长才可以使用。"
+"CSO_Item_Desc_ClanmateIncrease"		"使用后增加军团人数上限，使用一次可增加5名，最多可增加至500名。\n只有军团长才可以使用。"
+"CSO_Item_Desc_ClanmarkChange"		"创建或更改军团标志。\n只有军团长才可以使用。"
 "CSO_Item_Desc_ClannameUnderbar"		"在担任队长的情况下可以在自己军团名称下显示下划线。"
 "CSO_Item_Desc_ClannameBackground"		"在担任队长的情况下可以在自己军团名称下显示背景色。"
 "CSO_Item_Desc_ClannameChange"		"更改军团名称，只有军团长才能使用"
@@ -1116,8 +1088,7 @@
 "CSO_Item_Desc_ClannameStrike"		"在担任队长的情况下可以在一定期限内在自己军团的名称上显示删除线。"
 "CSO_Item_Desc_ClanmateForeword"		"在担任队长的情况下，可以在自己军团成员的昵称前设置前缀。 在一定期限内，其他玩家无法创建以该前缀开头的角色名称，也无法更改成以该前缀开头的角色名称。"
 "CSO_Item_Desc_ResetClanscore"		"军团战胜利/失败战绩清零。 只有军团长才能使用。"
-"CSO_Item_Desc_ClanUnion"		"使用该道具可以向其他军团长申请将对方军团成员纳入己方军团。
-只有军团长才可以使用。"
+"CSO_Item_Desc_ClanUnion"		"使用该道具可以向其他军团长申请将对方军团成员纳入己方军团。\n只有军团长才可以使用。"
 "CSO_Item_Desc_ResetKillDeath"		"角色的杀敌/死亡战绩清零。"
 "CSO_Item_Desc_VoteKick"		"游戏进行中，可以对特定的玩家发起强制踢出的投票，一旦被成功踢出房间，该玩家将无法再次进入。\n\n※每天限定使用5次\n※游戏中，可在按下[CapsLock]键后发起投票"
 "CSO_Item_Desc_DefeatInvalidation"		"中途退出游戏时无视败绩，失败战绩不增加。(被强制踢出时无法使用)"
@@ -1224,9 +1195,7 @@
 "CSO_oilrig_ENG"		"AS_Oilrig"
 "CSO_sienna_kr"		"疯狂小镇(Sienna)"
 "CSO_Hostage_Kicked"		"由于房主设定为击杀人质强制退出，您已被强制踢出房间。"
-"CSO_IGClanBattleInvite"		"接受%s军团的比赛邀请吗?
-F3:是
-F4:否"
+"CSO_IGClanBattleInvite"		"接受%s军团的比赛邀请吗?\nF3:是\nF4:否"
 "CSO_Warning_GM_BAN_CHAT"		"您被管理员设置为禁止聊天状态"
 "CSO_Warning_GM_CUT"		"管理员使用权限中断了您的连接"
 "CSO_Kicked"		"已经被强制踢出"
@@ -1254,10 +1223,8 @@ F4:否"
 "CSO_Order"		"次"
 "CSO_TerWin_VIPOut"		"VIP离开房间，T阵营获胜"
 "CSO_VIPCantBuy"		"VIP不能购买任何武器"
-"CSO_BotGameMsg"		"在团队决战模式（虚拟对手）中，只能选择房主指定的阵营。
-房主未选择的阵营全部以虚拟对手来代替。"
-"CSO_GoodRoomMsg"		"请给当前房间的流畅度作评价。
-为了更流畅地进行游戏，统计结果将共享给各位。"
+"CSO_BotGameMsg"		"在团队决战模式（虚拟对手）中，只能选择房主指定的阵营。\n房主未选择的阵营全部以虚拟对手来代替。"
+"CSO_GoodRoomMsg"		"请给当前房间的流畅度作评价。\n为了更流畅地进行游戏，统计结果将共享给各位。"
 "CSO_GoodRoomRate"		"流畅度"
 "CSO_Clan_BattleHistory"		"军团比赛战绩"
 "CSO_Year"		"年"
@@ -1268,9 +1235,7 @@ F4:否"
 "CSO_Clan_AutoOutQuestion"		"您已经加入了%s军团，确认退出军团申请加入%s军团吗？过去军团加入/退出记录将向军团长公开。"
 "CSO_Clan_CantChangeMasterRate"		"无法更改队长的等级"
 "CSO_Clan_CantChangeRateOfficer"		"管理员之间无法更改等级"
-"CSO_Clan_CantIncLevel"		"当前军团等级能够招募的军团成员人数已达最大限制。
-如果希望继续招募军团成员，必须提升军团等级。
-军团等级可以通过军团比赛和军团成员全体登录来提升。"
+"CSO_Clan_CantIncLevel"		"当前军团等级能够招募的军团成员人数已达最大限制。\n如果希望继续招募军团成员，必须提升军团等级。\n军团等级可以通过军团比赛和军团成员全体登录来提升。"
 "CSO_Clan_BattlePropWaiting"		"申请中"
 "CSO_Clan_CantEdit"		"无法修改"
 "CSO_Clan_CantCreateMaster"		"军团长无法再生成新军团。解散当前军团之后才能再生成军团。"
@@ -1312,10 +1277,7 @@ F4:否"
 "CSO_MasterOnlyCan"		"只有军团长才能执行"
 "CSO_MasterOfficerCan"		"只有军团长和管理员才能执行"
 "CSO_Clan_AddExtra"		"进入预备候补者列表"
-"CSO_Clan_AddExtraB"		"军团比赛的最大参加人数已满。
-现在申请参加的话，将按先后顺序以预备候补者的身份进入列表，只有当之前申请参加的军团成员无法出战的时候才能够进入比赛。
-另外，如果先于您申请的军团成员进入军团比赛房间的话，即使您已经进入了房间，还是有可能会被踢出房间。
-确认申请参加吗？"
+"CSO_Clan_AddExtraB"		"军团比赛的最大参加人数已满。\n现在申请参加的话，将按先后顺序以预备候补者的身份进入列表，只有当之前申请参加的军团成员无法出战的时候才能够进入比赛。\n另外，如果先于您申请的军团成员进入军团比赛房间的话，即使您已经进入了房间，还是有可能会被踢出房间。\n确认申请参加吗？"
 "CSO_Clan_BattleSuddenEndBonus1"		"对方军团全体退出，军团比赛无法正常结束。"
 "CSO_Clan_BattleSuddenEndBonus2"		"虽然判定为获胜，但是无法获得经验值和军团比赛胜利奖励。"
 "CSO_Victory2"		"胜利 ！！！"
@@ -1406,12 +1368,10 @@ F4:否"
 "CSO_PlayerList_Label"		"玩家列表"
 "CSO_NewCharater_Text2"		"如果使用不健康的ID名称将有可能在事后处以封号、活动获奖除名等惩罚。"
 "BombsiteC"		"爆破点C"
-"CSO_ServerMessage_INVALID_CLIENT_VERSION"		"由于客户端版本不一致无法登录。
-请更新客户端后再次尝试连接。"
+"CSO_ServerMessage_INVALID_CLIENT_VERSION"		"由于客户端版本不一致无法登录。\n请更新客户端后再次尝试连接。"
 "CSO_Warning_SERVER_SELECT_FAIL_CLAN_LIMIT"		"只有加入军团的玩家才能进入军团测试服务器"
 "CSO_Warning_LIMIT_NEWBIE_LEVEL"		"您已经到达9级，无法继续在新手服务器中进行游戏。请进入普通服务器。"
-"CSO_Warning_ROOM_OPEN_FAILED_TINY_MEMORY"		"由于您的电脑内存不足，无法创建房间
-请进入其他房间进行游戏"
+"CSO_Warning_ROOM_OPEN_FAILED_TINY_MEMORY"		"由于您的电脑内存不足，无法创建房间\n请进入其他房间进行游戏"
 "CSO_Warning_ROOM_OPEN_FAILED_HARDWARE_LIMIT"		"由于您的电脑配置较低，请调整最大玩家数后重新创建"
 "CSO_Warning_ROOM_OPEN_FAILED_HARDWARE_LIMIT_1"		"由于您的电脑配置较低，请调整最大玩家数至{}人以下后重新创建"
 "CSO_Warning_ROOM_OPEN_FAILED_HARDWARE_LIMIT_2"		"由于您的电脑配置较低，请调整最大玩家数至{}人以下后重新创建"
@@ -1419,64 +1379,39 @@ F4:否"
 "CSO_Warning_ROOM_OPEN_FAILED_NO_LEVEL_LIMIT_ITEM"		"由于没有设置等级限制道具，您无法设定等级限制"
 "CSO_Warning_ROOM_OPEN_WARN_HARDWARE_LIMIT_1"		"您必须减少最大玩家数才能保证游戏在您的电脑上流畅运行"
 "CSO_Warning_ROOM_OPEN_WARN_HARDWARE_LIMIT_2"		"您必须调整最大玩家数至{}人以下才能保证游戏在您的电脑上流畅运行"
-"CSO_Warning_ROOM_OPEN_FAILED_CLAN_NOT_MEMBER"		"无法生成军团比赛房间
-只有加入军团的玩家才能进行军团比赛"
-"CSO_Warning_ROOM_OPEN_FAILED_CLAN_LOW_GRADE"		"无法生成军团比赛房间
-只有在军团中的会员级别为正式会员以上的玩家才能创建军团比赛房间"
-"CSO_Warning_ROOM_OPEN_FAILED_CLAN_FEE_DELAYED"		"无法生成军团比赛房间
-您未缴纳本周的军团定期会费"
-"CSO_Warning_ROOM_OPEN_FAILED_CLAN_POINT_INSUFFICIENT"		"无法生成军团比赛房间
-军团金币小于0"
+"CSO_Warning_ROOM_OPEN_FAILED_CLAN_NOT_MEMBER"		"无法生成军团比赛房间\n只有加入军团的玩家才能进行军团比赛"
+"CSO_Warning_ROOM_OPEN_FAILED_CLAN_LOW_GRADE"		"无法生成军团比赛房间\n只有在军团中的会员级别为正式会员以上的玩家才能创建军团比赛房间"
+"CSO_Warning_ROOM_OPEN_FAILED_CLAN_FEE_DELAYED"		"无法生成军团比赛房间\n您未缴纳本周的军团定期会费"
+"CSO_Warning_ROOM_OPEN_FAILED_CLAN_POINT_INSUFFICIENT"		"无法生成军团比赛房间\n军团金币小于0"
 "CSO_Warning_ROOM_JOIN_FAILED_KICKED"		"由于您被强制踢出，因此在该场比赛结束之前将无法再次进入"
-"CSO_Warning_ROOM_JOIN_FAILED_CLAN_NOT_MEMBER"		"无法进入
-如希望进行军团比赛请先加入军团"
-"CSO_Warning_ROOM_JOIN_FAILED_CLAN_FEE_DELAYED"		"无法进入
-未缴纳本周的军团定期会费"
-"CSO_Warning_ROOM_JOIN_FAILED_CLAN_POINT_INSUFFICIENT"		"无法进入
-您所属军团的军团金币数量小于0，无法进行军团比赛
-请向军团长询问"
-"CSO_Warning_ROOM_JOIN_FAILED_CLAN_FULL"		"无法进入
-房间中无空位"
-"CSO_Warning_ROOM_JOIN_FAILED_CLAN_OTHER"		"无法进入
-已经有两个军团在该房间中等待
-如希望进行军团比赛，请寻找只有军团等候的房间进入"
+"CSO_Warning_ROOM_JOIN_FAILED_CLAN_NOT_MEMBER"		"无法进入\n如希望进行军团比赛请先加入军团"
+"CSO_Warning_ROOM_JOIN_FAILED_CLAN_FEE_DELAYED"		"无法进入\n未缴纳本周的军团定期会费"
+"CSO_Warning_ROOM_JOIN_FAILED_CLAN_POINT_INSUFFICIENT"		"无法进入\n您所属军团的军团金币数量小于0，无法进行军团比赛\n请向军团长询问"
+"CSO_Warning_ROOM_JOIN_FAILED_CLAN_FULL"		"无法进入\n房间中无空位"
+"CSO_Warning_ROOM_JOIN_FAILED_CLAN_OTHER"		"无法进入\n已经有两个军团在该房间中等待\n如希望进行军团比赛，请寻找只有军团等候的房间进入"
 "CSO_Warning_ROOM_START_GUEST_FAILED"		"请等待房主开始游戏"
 "CSO_Info_ROOM_LEAVE_PENALTY"		"中途退出游戏被扣除100金币"
 "CSO_Warning_ROOM_LEAVE_PENALTY"		"中途退出扣除100金币"
 "CSO_Info_ROOM_WARN_LAG"		"电脑配置将影响体验游戏的流畅度。"
-"CSO_Warning_ROOM_SETTING_FAILED_HARDWARE_LIMIT_1"		"由于您的电脑配置较低，无法更改最大玩家数
-当前配置情况下请调整最大玩家数至{}人以下后即可创建"
+"CSO_Warning_ROOM_SETTING_FAILED_HARDWARE_LIMIT_1"		"由于您的电脑配置较低，无法更改最大玩家数\n当前配置情况下请调整最大玩家数至{}人以下后即可创建"
 "CSO_Info_ROOM_WEAPON_RESTRICT_NONE_BY_HOST_CHANGE"		"新房主未持有武器限制道具，因此武器限制解除。"
 "CSO_Info_ROOM_RESET_WIDE_MARK_BY_HOST_CHANGE"		"新房主未持有攻击范围扩大道具，攻击范围扩大功能已被解除。"
 "CSO_Info_ROOM_RESET_MAX_LEVEL_BY_HOST_CHANGE"		"新房主未持有等级限制道具，等级限制已解除。"
 "CSO_Info_ROOM_RESET_C4SOUND_BY_HOST_CHANGE"		"新房主未持有C4读秒音权限道具，C4炸弹读秒音功能解除。"
-"CSO_Warning_ROOM_SETTING_FAILED_CLAN_NOT_MEMBER"		"无法生成军团比赛房间
-如希望进行军团比赛请先加入军团"
-"CSO_Warning_ROOM_SETTING_FAILED_CLAN_LOW_GRADE"		"无法生成军团比赛房间
-只有在军团中的会员级别为正式会员以上的玩家才能创建军团比赛房间"
-"CSO_Warning_ROOM_SETTING_FAILED_CLAN_FEE_DELAYED"		"无法生成军团比赛房间
-您未缴纳本周的军团定期会费"
-"CSO_Warning_ROOM_SETTING_FAILED_CLAN_POINT_INSUFFICIENT"		"无法创建军团比赛房间
-军团金币小于0"
-"CSO_Warning_ROOM_SETTING_FAILED_NOT_JOINED_USER"		"无法转换为军团比赛房间
-如希望创建军团比赛房间，房间中的所有玩家必须只属于1个或2个军团。
-当前房间内存在未加入军团的玩家"
-"CSO_Warning_ROOM_SETTING_FAILED_TOO_MANY_CLAN"		"无法转换为军团比赛房间
-如希望创建军团比赛房间，房间中的所有玩家必须只属于1个或2个军团。
-当前房间内的玩家所属于3个以上的军团。"
-"CSO_Warning_ROOM_SETTING_FAILED_CLAN_ERROR"		"无法转换为军团比赛房间
-目前房间人员设定有错误"
-"CSO_Warning_ROOM_KICKED_BY_CLAN_BATTLE_NO_CLAN"		"从军团比赛房间退出
-只有加入军团的玩家才能进入"
-"CSO_Warning_ROOM_KICKED_BY_CLAN_BATTLE_OTHER_CLAN"		"从军团比赛房间退出
-您不属于该军团"
-"CSO_Warning_ROOM_KICKED_BY_CLAN_BATTLE_FEE_DELAYED"		"从军团比赛房间退出
-您未支付本周的定期会费"
+"CSO_Warning_ROOM_SETTING_FAILED_CLAN_NOT_MEMBER"		"无法生成军团比赛房间\n如希望进行军团比赛请先加入军团"
+"CSO_Warning_ROOM_SETTING_FAILED_CLAN_LOW_GRADE"		"无法生成军团比赛房间\n只有在军团中的会员级别为正式会员以上的玩家才能创建军团比赛房间"
+"CSO_Warning_ROOM_SETTING_FAILED_CLAN_FEE_DELAYED"		"无法生成军团比赛房间\n您未缴纳本周的军团定期会费"
+"CSO_Warning_ROOM_SETTING_FAILED_CLAN_POINT_INSUFFICIENT"		"无法创建军团比赛房间\n军团金币小于0"
+"CSO_Warning_ROOM_SETTING_FAILED_NOT_JOINED_USER"		"无法转换为军团比赛房间\n如希望创建军团比赛房间，房间中的所有玩家必须只属于1个或2个军团。\n当前房间内存在未加入军团的玩家"
+"CSO_Warning_ROOM_SETTING_FAILED_TOO_MANY_CLAN"		"无法转换为军团比赛房间\n如希望创建军团比赛房间，房间中的所有玩家必须只属于1个或2个军团。\n当前房间内的玩家所属于3个以上的军团。"
+"CSO_Warning_ROOM_SETTING_FAILED_CLAN_ERROR"		"无法转换为军团比赛房间\n目前房间人员设定有错误"
+"CSO_Warning_ROOM_KICKED_BY_CLAN_BATTLE_NO_CLAN"		"从军团比赛房间退出\n只有加入军团的玩家才能进入"
+"CSO_Warning_ROOM_KICKED_BY_CLAN_BATTLE_OTHER_CLAN"		"从军团比赛房间退出\n您不属于该军团"
+"CSO_Warning_ROOM_KICKED_BY_CLAN_BATTLE_FEE_DELAYED"		"从军团比赛房间退出\n您未支付本周的定期会费"
 "CSO_Warning_ROOM_CLAN_NEW_HOST_CLAN_LEADER"		"已成为房主"
 "CSO_Info_ROOM_CLAN_NEW_HOST_CLAN_LEADER"		"已成为房主"
 "CSO_Info_ROOM_CLAN_NEW_HOST_CLAN_LEADER_ITEM"		"已成为房主。房主持有道具时能够强制踢出同军团的成员。"
-"CSO_Warning_ROOM_CLAN_NEW_GUEST_CLAN_LEADER"		"已成为副房主。副房主可以在房主设定的地图中选择阵营。
-另外，在3局2胜~9局5胜的军团比赛中，副房主可以设置比赛的地图和模式，比赛进行时轮换交替副房主和房主设定的地图和模式"
+"CSO_Warning_ROOM_CLAN_NEW_GUEST_CLAN_LEADER"		"已成为副房主。副房主可以在房主设定的地图中选择阵营。\n另外，在3局2胜~9局5胜的军团比赛中，副房主可以设置比赛的地图和模式，比赛进行时轮换交替副房主和房主设定的地图和模式"
 "CSO_Info_ROOM_CLAN_NEW_GUEST_CLAN_LEADER"		"已成为副房主"
 "CSO_Info_ROOM_CLAN_NEW_GUEST_CLAN_LEADER_ITEM"		"您已经成为副房主。副房主持有道具时能够强制踢出同军团的成员。"
 "CSO_Info_ROOM_CLAN_HOST_CLAN_LEADER_CHANGED"		"房主已变更为{}"
@@ -1488,13 +1423,9 @@ F4:否"
 "CSO_Info_ETC_POLICY_3"		"为了营造健康向上的互联网文化，加入世纪天成会员时请务必输入真实的身份证号码。"
 "CSO_Info_ETC_CHINA_ONLINETIME_1"		"您累计在线时间已满1小时。"
 "CSO_Info_ETC_CHINA_ONLINETIME_2"		"您累计在线时间已满2小时。"
-"CSO_Info_ETC_CHINA_ONLINETIME_3"		"您累计在线时间已满3小时，请您下线休息，做适当身体活动。
-您已经进入疲劳游戏时间，您的游戏收益将降为正常值的50％，
-为了您的健康，请尽快下线休息，做适当身体活动，合理安排学习生活。"
-"CSO_Info_ETC_CHINA_ONLINETIME_3_OVER"		"您已经进入疲劳游戏时间，您的游戏收益将降为正常值的50％，
-为了您的健康，请尽快下线休息，做适当身体活动，合理安排学习生活。"
-"CSO_Info_ETC_CHINA_ONLINETIME_5_OVER"		"您已进入不健康游戏时间，为了您的健康，请您立即下线休息。
-如不下线，您的身体将受到损害，您的收益已降为零，直到您的累计下线时间满5小时后，才能恢复正常。"
+"CSO_Info_ETC_CHINA_ONLINETIME_3"		"您累计在线时间已满3小时，请您下线休息，做适当身体活动。\n您已经进入疲劳游戏时间，您的游戏收益将降为正常值的50％，\n为了您的健康，请尽快下线休息，做适当身体活动，合理安排学习生活。"
+"CSO_Info_ETC_CHINA_ONLINETIME_3_OVER"		"您已经进入疲劳游戏时间，您的游戏收益将降为正常值的50％，\n为了您的健康，请尽快下线休息，做适当身体活动，合理安排学习生活。"
+"CSO_Info_ETC_CHINA_ONLINETIME_5_OVER"		"您已进入不健康游戏时间，为了您的健康，请您立即下线休息。\n如不下线，您的身体将受到损害，您的收益已降为零，直到您的累计下线时间满5小时后，才能恢复正常。"
 "CSO_Shop_BUY_OK"		"购买成功"
 "CSO_Shop_BUY_FAIL_NO_POINT"		"金币不足。进行游戏可以获得金币。"
 "CSO_Shop_BUY_FAIL_NO_CLAN"		"军团道具只有军团成员才能购买"
@@ -1684,9 +1615,7 @@ F4:否"
 "CSO_Item_Active_And_ExpireTime_Format"		"[使用中]使用期限 %d年%d月%d日"
 "CSO_User_Ranking_History_Text_Format"		"%s的排名历史"
 "CSO_SearchForQuickStart_Failed"		"没有符合快速进入设定的房间"
-"CSO_IGClanMemberSummon"		"%s召唤%s进入军团比赛。接受召唤吗 
-F3:是
-F4:否"
+"CSO_IGClanMemberSummon"		"%s召唤%s进入军团比赛。接受召唤吗 \nF3:是\nF4:否"
 "CSO_Waiting_For_Buying_Item"		"正在处理道具购买中"
 "CSO_Already_In_Using_Format"		"%s道具正在使用中"
 "CSO_Select_Clan"		"请从列表中选择军团"
@@ -1834,12 +1763,12 @@ F4:否"
 //-----------------------------------------------------    
 //Default_Room_Title    
 //-----------------------------------------------------    
-"CSO_Room_DefaultTitle00"   "[CN] 反恐精英，王者归来！"
-"CSO_Room_DefaultTitle01"   "[CN] 反恐精英 王者归来"
-"CSO_Room_DefaultTitle02"   "[CN] 友情不息 战斗不止"
-"CSO_Room_DefaultTitle03"   "[CN] 反恐精英，王者归来！"
-"CSO_Room_DefaultTitle04"   "[CN] 反恐精英 王者归来" 
-"CSO_Room_DefaultTitle05"   "[CN] 友情不息 战斗不止"
+"CSO_Room_DefaultTitle00"   "反恐精英，王者归来！"
+"CSO_Room_DefaultTitle01"   "反恐精英 王者归来"
+"CSO_Room_DefaultTitle02"   "友情不息 战斗不止"
+"CSO_Room_DefaultTitle03"   "反恐精英，王者归来！"
+"CSO_Room_DefaultTitle04"   "反恐精英 王者归来" 
+"CSO_Room_DefaultTitle05"   "友情不息 战斗不止"
 
 //-----------------------------------------------------   
 "CSO_FriendInvite_Title"		"邀请朋友"
@@ -17500,18 +17429,18 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 "CSO_Room_DefaultTitle04"   "[CN] 武器强化 作战升级"
 "CSO_Room_DefaultTitle05"   "[CN] 集数字 欢乐一线牵"
 
-"CSO_Shop_Scroll_Text1"		"你正在游玩CSO SGP 2014。   开发人员：Jusic、Hardee、NekoMeow。"
-"CSO_Shop_Scroll_Text2"		"你正在游玩CSO SGP 2014。   加入Discord一起畅聊：discord.gg/EvUAY6D。"
-"CSO_Shop_Scroll_Text3"		"你正在游玩CSO SGP 2014。   游戏管理员：xRiseless、Jusic、SmilexG等共6人！"
-"CSO_Shop_Scroll_Text4"		"你正在游玩CSO SGP 2014。   意见反馈请加入Discord：discord.gg/EvUAY6D。"
-"CSO_Shop_Scroll_Text5"		"你正在游玩CSO SGP 2014。   官方群组：vk.com/csnz_server。"
-"CSO_Shop_Scroll_Text6"		"你正在游玩CSO SGP 2014。   开发人员：Jusic、Hardee、NekoMeow。"
-"CSO_Shop_Scroll_Text7"		"你正在游玩CSO SGP 2014。   加入Discord一起畅聊：discord.gg/EvUAY6D。"
-"CSO_Shop_Scroll_Text8"		"你正在游玩CSO SGP 2014。   游戏管理员：NekoMeow、ItsoDark、Lycanth等共6人！"
-"CSO_Shop_Scroll_Text9"		"你正在游玩CSO SGP 2014。   意见反馈请加入Discord：discord.gg/EvUAY6D。"
-"CSO_Shop_Scroll_Text10"	"你正在游玩CSO SGP 2014。   官方群组：vk.com/csnz_server。"
+"CSO_Shop_Scroll_Text1"		"你正在游玩CSO 2014。   开发人员：Jusic、Hardee、NekoMeow。"
+"CSO_Shop_Scroll_Text2"		"你正在游玩CSO 2014。   加入Discord一起畅聊：discord.gg/EvUAY6D。"
+"CSO_Shop_Scroll_Text3"		"你正在游玩CSO 2014。   游戏管理员：xRiseless、Jusic、SmilexG等共6人！"
+"CSO_Shop_Scroll_Text4"		"你正在游玩CSO 2014。   意见反馈请加入Discord：discord.gg/EvUAY6D。"
+"CSO_Shop_Scroll_Text5"		"你正在游玩CSO 2014。   官方群组：vk.com/csnz_server。"
+"CSO_Shop_Scroll_Text6"		"你正在游玩CSO 2014。   开发人员：Jusic、Hardee、NekoMeow。"
+"CSO_Shop_Scroll_Text7"		"你正在游玩CSO 2014。   加入Discord一起畅聊：discord.gg/EvUAY6D。"
+"CSO_Shop_Scroll_Text8"		"你正在游玩CSO 2014。   游戏管理员：NekoMeow、ItsoDark、Lycanth等共6人！"
+"CSO_Shop_Scroll_Text9"		"你正在游玩CSO 2014。   意见反馈请加入Discord：discord.gg/EvUAY6D。"
+"CSO_Shop_Scroll_Text10"	"你正在游玩CSO 2014。   官方群组：vk.com/csnz_server。"
 
-"CSO_BingoPopupComment"  "[欢乐一线牵说明]\n\n开启密码箱将获得1个欢乐数字\n当收集的数字连成一条线时，\n即可获得对应的奖励。\n\n此外，使用[重置]功能还可以改变欢乐奖励哦！\n※获得的数字会在0~99这个区间内\n※有几率重复获得相同的数字。"
+"CSO_BingoPopupComment"  "[欢乐一线牵说明]\n\n开启密码箱将获得1个欢乐数字\n当收集的数字连成一条线时，即可获得对应的奖励。\n此外，使用[重置]功能还可以改变欢乐奖励哦！\n\n※获得的数字会在0~99这个区间内\n※有几率重复获得相同的数字。\n※获取所有奖励后面板会自动重置"
 
 "CSO_BingoResetBtnTip"                  "对欢乐数字板和奖励的道具内容重置，\n已开启的欢乐数字也将被全部永久清除\n\n※不止奖励道具的位置会产生变化，类型也有可能发生变更！\n※已开启的欢乐数字将被全部清除，请慎重使用！"
 "CSO_BingoResetBtnConfirm"            			"确定要对欢乐一线牵表盘进行重置吗？\n\n※不止奖励道具的位置会产生变化，种类也将同时变更！\n※已开启的欢乐数字将被全部清除，请慎重选择！\n※重置不消耗金币"
@@ -17534,16 +17463,26 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 "CSO_You_Need_Point_Title"		"金币不足"
 "CSO_You_Need_Point_Message"		"金币不足。\n游玩游戏并结算可以获得金币。"
 
-"CSO_Item_Name_IRAPoint"			"风暴小组+40,000金币奖励"
 "CSO_Item_Name_JRAPoint"			"落日军团+50,000金币奖励"
-"CSO_Item_Name_maguiPoint"			"炎龙战术小队+40,000金币奖励"
-
+"CSO_Item_Desc_JRAPoint"		"购买后立即获得50,000金币。在游戏中选择T阵营时使用该角色。"
 "CSO_Item_Name_safPoint"		"丛林猛虎+50,000金币奖励"
 "CSO_Item_Desc_safPoint"		"兑换后立即获得50,000金币。在游戏中选择CT阵营时可以使用该角色。"
 "CSO_Item_Name_spadePoint"		"斯佩德+50,000金币奖励"
 "CSO_Item_Desc_spadePoint"		"兑换后立即获得50,000金币。在游戏中选择T阵营时可以使用该角色。"
 "CSO_Item_Name_hunterPoint"		"亨特+50,000金币奖励"
 "CSO_Item_Desc_hunterPoint"		"兑换后立即获得50,000金币。在游戏中选择CT阵营时可以使用该角色。"
+"CSO_Item_Desc_IRA"		"在游戏中选择T阵营时使用该角色。"
+"CSO_Item_Name_IRAPoint"			"风暴小组+40,000金币奖励"
+"CSO_Item_Desc_IRAPoint"		"购买后立即获得40,000金币。在游戏中选择T阵营时使用该角色。"
+"CSO_Item_Desc_magui"		"在游戏中选择CT阵营时使用该角色。"
+"CSO_Item_Name_maguiPoint"			"炎龙战术小队+40,000金币奖励"
+"CSO_Item_Desc_maguiPoint"		"购买后立即获得40,000金币。在游戏中选择CT阵营时使用该角色。"
+"CSO_Item_Name_ETAPoint"		"蒙面行者+40,000金币奖励"
+"CSO_Item_Desc_ETAPoint"		"购买后立即获得40,000金币。在游戏中选择T阵营时使用该角色。"
+"CSO_Item_Name_sozoPoint"		"雷霆小组+80,000金币奖励"
+"CSO_Item_Desc_sozoPoint"		"购买后立即获得80,000金币。在游戏中选择CT阵营时使用该角色。"
+"CSO_Item_Name_sdefencePoint"	"警示厅卫队+90,000金币奖励"
+"CSO_Item_Desc_sdefencePoint"	"购买后立即获得90,000金币。在游戏中选择CT阵营时使用该角色。"
 
 "CSO_Item_Name_DecoderBox30p"		"破译芯片(30个)+密码箱(30个)"
 "CSO_Item_Desc_DecoderBox30p"		"购买后可同时获取破译芯片(30个)与密码箱(30个)"
@@ -17582,7 +17521,7 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 "CSO_Item_Desc_CartSet01"			"跑跑卡丁车的人气角色皮蛋和宝宝推荐的套装，包含以下物品：\n<皮蛋特制版突击步枪(无限制)>\n<宝宝特制版突击步枪(无限制)>\n<皮蛋爆雷(无限制)>"
 
 "CSO_Item_Name_yurialice2" "中秋兔耳套装"
-"CSO_Item_Desc_yurialice2" "套装内包含：爱丽丝的兔耳朵(永久)+安娜校服(永久)+爱丽丝女仆装(永久)"
+"CSO_Item_Desc_yurialice2" "套装内包含：安娜校服(永久)+爱丽丝女仆装(永久)+爱丽丝的兔耳朵(永久)"
 
 "CSO_Item_Name_choipirate2"	"相约情人套装"
 "CSO_Item_Desc_choipirate2"	"套装内包含：米迦勒抹胸(永久)+崔智云礼服(永久)"
@@ -17595,6 +17534,26 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 
 "CSO_Item_Name_ZombieFnoWeapon"		"迷雾鬼影+极速飞奔"
 "CSO_Item_Desc_ZombieFnoWeapon"		"人类：人类专属技能，为了摆脱危机而竭尽全力飞奔向前，但是体力透支后只能缓步行走恢复精力。\n僵尸：Rex博士的得力助手，亲身参与了许多重要的项目。在一次研究所爆炸事件中，不慎感染了Z病毒产生了变异，吸收了爆炸产生的大量烟尘，并获得了随意释放烟雾的能力。\n  人类技能: 极速飞奔(游戏中按<5>键释放) \n  生化技能: 雾隐(游戏中按<G>键施放) \n\n※ 该道具仅限生化模式(感染)/生化模式(异变)/生化模式(英雄)/盟战模式中使用"
+
+"CSO_Item_Desc_ttChaos"   "火花图案的纹身。在仓库中选择使用，游戏中你选择的角色手臂上会有火花纹身。"
+"CSO_Item_Desc_ttTiger"   "猛虎图案的纹身。在仓库中选择使用，游戏中你选择的角色手臂上会有猛虎纹身。"
+"CSO_Item_Desc_ttDragon"  "青龙图案的纹身。在仓库中选择使用，游戏中你选择的角色手臂上会有青龙纹身。"
+
+"CSO_Item_Desc_yuri2" "90年代初期在亚洲出生，正处花样的懵懂之年，并拥有迷人的可爱童颜。从小在秘密基地被培养并最终成为组织的爆破美少女专家。在REX研究所爆炸事件中，其身份暴露，不得已而开始了逃亡生涯。在潜逃的过程中安娜喜欢身着校服，并带上眼镜掩藏自己的容颜。"
+"Cstrike_yuri2_Label" "90年代初期在亚洲出生，正处花样之年，并拥有迷人的可爱童颜。\n从小在秘密基地被培养并最终成为组织的爆破美少女专家。\n在REX研究所爆炸事件中，其身份暴露，不得已而开始了逃亡生涯。\n在潜逃的过程中安娜喜欢身着校服，并带上眼镜掩藏自己的容颜。"
+
+"CSO_Item_Desc_alice2" "某政治家家族的养女。爱丽丝遵从了自己的命运，加入了柯罗诺斯公司的防卫体系部队，并被分配到配备了NHP设备的支援兵种部队。由于训练中展露出了惊人谍报天赋，现被派遣到竞争公司高层干部家族的府邸中，作为一名女仆进行着情报收集工作。"
+"Cstrike_alice2_Label" "某政治家家族的养女。\n爱丽丝遵从了自己的命运，加入了柯罗诺斯公司的防卫体系部队，\n并被分配到配备了NHP设备的支援兵种部队。\n由于训练中展露出了惊人谍报天赋，现被派遣到竞争公司高层干部\n家族的府邸中，作为一名女仆进行着情报收集工作。"
+
+"CSO_Item_Desc_choijiyoon2" "特种部队出身的情报局美女特工，为了进行谍报任务而伪装成上流社会的交际花，身着礼服出入各种奢华宴会。"
+"Cstrike_choijiyoon2_Label" "特种部队出身的情报局美女特工，为了进行谍报任务而伪装成上流\n社会的交际花，身着礼服出入各种奢华宴会。"
+
+"CSO_Item_Desc_pirategirl2" "某海路巨商的独生女，却总是盲目憧憬着海盗生涯，喜欢穿着与其身份并不相称的廉价服饰。"
+"Cstrike_pirategirl2_Label" "某海路巨商的独生女，却总是盲目憧憬着海盗生涯，喜欢穿着与其\n身份并不相称的廉价服饰。"
+
+"CSO_Item_Desc_idolgirl" "除了一些已公布的个人信息外，你很难再查到玲玲的其它资料了。而就是这个人气蹿升的偶像明星，却有着难以置信的特工身份。她拥有出众的情报收集能力，通常只以代号进行活动，即使在组织内部也仅有极少数人知道她的真实身份。\n\n※大灾变模式中该角色的属性上限将提升5个等级"
+"CStrike_idolgirl_Name"    "玲玲"
+"Cstrike_idolgirl_Label" "除了一些已公布的个人信息外，你很难再查到玲玲的其它资料了。\n而就是这个人气蹿升的偶像明星，却有着难以置信的特工身份。\n她拥有出众的情报收集能力，通常只以代号进行活动，\n即使在组织内部也仅有极少数人知道她的真实身份。\n\n※大灾变模式中该角色的属性上限将提升5个等级"
 
 "CSO_Item_Name_FabEnduMaxPer"  "耐久材料(无限制)"
 
@@ -17611,7 +17570,7 @@ Cstrike_CHNGirl01_Name"		"梦瑶"
 "CSO_Item_Name_LuckyBag2013"	"福袋"
 "CSO_Item_Desc_LuckyBag2013"	"开启福袋可获得1个或更多破译芯片。(如果你运气够好的话...)\n\n点击[使用]按钮开启福袋。"
 "CSO_Warning_LUCKYBAG2013_TITLE"	"福袋"
-"CSO_Warning_LUCKYBAG2013_MSG"	"您已获得以下道具:"
+"CSO_Warning_LUCKYBAG2013_MSG"	"选择一项道具奖励:"
 
 "CSO_Spray_bandSpray"	"创可贴"
 "CSO_Item_Name_bandSpray"	"创可贴喷漆"
