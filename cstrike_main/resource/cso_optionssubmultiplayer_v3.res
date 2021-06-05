@@ -84,6 +84,26 @@
 		"Command"		"NetworkConfig"
 		"Default"		"0"
 	}
+	"FacebookLinkBtn"
+	{
+		"ControlName"		"Button"
+		"fieldName"		"FacebookLinkBtn"
+		"xpos"		"40"
+		"ypos"		"293"
+		"wide"		"120"
+		"tall"		"30"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"tabPosition"		"9"
+		"labelText"		"#CSO_Facebook_Btn"
+		"textAlignment"		"center"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"wrap"		"0"
+		"Default"		"0"
+	}
 	"Primary Color Slider"
 	{
 		"ControlName"		"CCvarSlider"
