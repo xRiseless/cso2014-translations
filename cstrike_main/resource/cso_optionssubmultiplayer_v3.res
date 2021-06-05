@@ -32,7 +32,7 @@
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"tabPosition"		"9"
 		"labelText"		"#CSO_AgeNotice_Btn"
 		"textAlignment"		"center"

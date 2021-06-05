@@ -16275,9 +16275,9 @@ Aside from those highlighted waiting for confirmation translations, others are o
  "CSO_idolgirl" " Lingling " 
 
  "CSO_Item_Name_idolgirl" " Lingling " 
- "CSO_Item_Desc_idolgirl" " There's not much Intel about this secret profile but it is known that she is a mystical idol star, but in reality she is a secret agent that has a remark ability to gather information. Only a very few organization members know about this fact. \n\n*  Choosing this character when playing the game will result to Experience 30%, Point 30%. ( Experience 50%, Point 50% in Internet cafes only) \n\n*  This character has the best profile in Zombie Scenario." 
+ "CSO_Item_Desc_idolgirl" " There's not much Intel about this secret profile but it is known that she is a mystical idol star, but in reality she is a secret agent that has a remark ability to gather information. Only a very few organization members know about this fact. \n\n*  This character has the best profile in Zombie Scenario." 
  "Cstrike_idolgirl_Name " " Lingling " 
- "Cstrike_idolgirl_Label" " There's not much Intel about this secret profile but it is known that she is a mystical idol star, but in reality she is a secret agent that has a remark ability to gather information. Only a very few organization members know about this fact. \n\n*  Choosing this character when playing the game will result to Experience 30%, Point 30%. ( Experience 50%, Point 50% in Internet cafes only) \n\n*  This character has the best profile in Zombie Scenario."
+ "Cstrike_idolgirl_Label" " There's not much Intel about this secret profile but it is known that she is a mystical idol star, but in reality she is a secret agent that has a remark ability to gather information. Only a very few organization members know about this fact. \n\n*  This character has the best profile in Zombie Scenario."
 
  // ------------------------------------------------ ------------------------------ 
  // New Weapon Loot 
