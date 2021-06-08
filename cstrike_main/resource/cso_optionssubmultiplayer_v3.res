@@ -528,7 +528,7 @@
 		"fieldName"		"Label5"
 		"xpos"		"336"
 		"ypos"		"242"
-		"wide"		"120"
+		"wide"		"160"
 		"tall"		"100"
 		"autoResize"		"0"
 		"pinCorner"		"0"
