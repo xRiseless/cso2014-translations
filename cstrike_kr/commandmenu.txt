@@ -220,10 +220,10 @@
      "6" "#Cstrike_Need_Backup"		"say_team '지원 요청'"
 }
 
-"3" "Client Settings"
+"3" "Game Settings"
 {
 	"1" "Stop Current Playing BGM" "mp3 stop"
-	"2" "Game Functions"
+	"2" "Functions"
 	{
 		"1" "Fast Weapon Switch"
 		{
@@ -296,4 +296,4 @@
 	}
 }
 
-"5" "Close Menu" " "
+"4" "Close Menu" " "

@@ -1,4 +1,4 @@
-﻿// Command Menu definition
+// Command Menu definition
 // 
 // Basic Format:
 //		"<Bound Key>" "<Button Text>" "<Command sent to server>"
@@ -220,7 +220,7 @@
      "6" "#Cstrike_Need_Backup"		"say_team '需要掩护！'"
 }
 
-"3" "个人设置"
+"3" "游戏设置"
 {
 	"1" "停止播放背景音乐" "mp3 stop"
 	"2" "功能开关"
@@ -296,4 +296,4 @@
 	}
 }
 
-"5" "关闭菜单" " "
+"4" "关闭菜单" " "
