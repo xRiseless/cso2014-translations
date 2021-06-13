@@ -1,4 +1,4 @@
-﻿// Command Menu definition
+// Command Menu definition
 // 
 // Basic Format:
 //		"<Bound Key>" "<Button Text>" "<Command sent to server>"
@@ -220,143 +220,79 @@
      "6" "#Cstrike_Need_Backup"		"say_team '需要後援'"
 }
 
-"3" "個人設置"
+"3" "遊戲設定"
 {
 	"1" "停止播放背景音樂" "mp3 stop"
-	"2" "重要的功能開關"
+	"2" "開/關遊戲功能"
 	{
-		"1" "快速切換槍"
+		"1" "快速切換武器"
 		{
 			"1" "開啟" "hud_fastswitch 1"
 			"2" "關閉" "hud_fastswitch 0"
 		}
-		"2" "强制同一角色"
+		"2" "不顯示多樣化角色"
 		{
-			"1" "開啟" "hud_fastswitch 1"
+			"1" "開啟" "cl_minmodels 1"
 			"2" "關閉" "cl_minmodels 0"
 		}
-		"3" "顯示雷達,武器HUD"
+		"3" "顯示遊戲界面(HUD)"
 		{
 			"1" "開啟" "hud_draw 1;cl_radar_on 1"
 			"2" "關閉" "hud_draw 0;cl_radar_on 0"
 		}
-		"4" "天氣 //如果連接國外host建議關閉"
-		{
-			"1" "開啟" "cl_weather 1"
-			"2" "關閉" "cl_weather 0 "
-		}
 	}
-	"3" "FPS"
+	"3" "幀數(FPS)"
 	{
-		"1" "顯示在左上角"
+		"1" "顯示在左上方"
 		{
 			"1" "開啟" "cl_showfps 1"
 			"2" "關閉" "cl_showfps 0"
 		}
-		"2" "FPS數值設定"
+		"2" "最大幀數設定"
 		{
-			"1" "144(開發人員模式)" "developer 1;fps_max 146"
-			"2" "100" "fps_max 101"
-			"3" "72" "fps_max 72"
-			"4" "60" "fps_max 60"
+			"1" "100" "fps_max 100"
+			"2" "72" "fps_max 72"
+			"3" "60" "fps_max 60"
 		}
-		"3" "垂直同步"
+		"3" "垂直同步開/關"
 		{
 			"1" "開啟" "gl_vsync 1"
 			"2" "關閉" "gl_vsync 0"
 		}
 	}
-	"4" "遊戲內的信息"
+	"4" "實體信息"
 	{
-		"1" "其他玩家名稱"
+		"1" "其他玩家"
 		{
-			"1" "顯示" "cl_headname 1"
-			"2" "不顯示" "cl_headname 0"
+			"1" "顯示暱稱" "cl_headname 1"
+			"2" "關閉" "cl_headname 0"
 		}
-		"2" "爆破指標"
+		"2" "其他物品"
 		{
-			"1" "顯示" "cl_objname 1"
-			"2" "不顯示" "cl_objname 0"
+			"1" "顯示圖標" "cl_objname 1"
+			"2" "關閉" "cl_objname 0"
 		}
 	}
-	"5" "血液顏色"
+	"5" "流血顏色"
 	{
-		"1" "紅" "violence_hblood 1;violence_ablood 1;violence_redblood 1"
-		"2" "黄" "violence_hblood 1;violence_ablood 1;violence_redblood 0"
+		"1" "紅色" "violence_hblood 1;violence_ablood 1;violence_redblood 1"
+		"2" "黄色" "violence_hblood 1;violence_ablood 1;violence_redblood 0"
 		"3" "沒血" "violence_hblood 0;violence_ablood 0"
 	}
 	"6" "網絡信息狀態"
 	{
-		"1" "網絡信息狀態"
+		"1" "顯示在下方"
 		{
 			"1" "開啟" "net_graph 3"
 			"2" "關閉" "net_graph 0"
 		}
-		"2" "位置"
+		"2" "顯示位置"
 		{
-			"1" "左下角" "net_graphpos 0;net_graphwidth 150"
+			"1" "左下方" "net_graphpos 0;net_graphwidth 150"
 			"2" "正下方" "net_graphpos 2;net_graphwidth 150"
-			"3" "右下角" "net_graphpos 1;net_graphwidth 150"
+			"3" "右下方" "net_graphpos 1;net_graphwidth 150"
 		}
 	}
 }
 
-"4" "房主設置"
-{
-	"1" "如果你不是房主:"
-	{
-		"1" "使用以下選項的話遊戲會閃退!" " "
-	}
-	"2" "電腦設定"
-	{
-		"1" "難度" 
-		{
-			"1" "入門"
-			{
-				"1" "#CSO_Bot_Difficulty_0" "bot_difficulty 0"
-				"2" "#CSO_Bot_Difficulty_1" "bot_difficulty 1"
-			}
-			"2" "普通/困難"
-			{
-				"1" "#CSO_Bot_Difficulty_2" "bot_difficulty 2"
-				"2" "#CSO_Bot_Difficulty_3" "bot_difficulty 3"
-				"3" "#CSO_Bot_Difficulty_4" "bot_difficulty 4"
-				"4" "#CSO_Bot_Difficulty_5" "bot_difficulty 5"
-			}
-			"3" "職業"
-			{
-				"1" "#CSO_Bot_Difficulty_6" "bot_difficulty 6"
-				"2" "#CSO_Bot_Difficulty_7" "bot_difficulty 7"
-			}
-		}
-		"2" "增加BOT"
-		{
-			"1" "恐怖分子/殭屍"
-			{
-				"1" "1" "cso_bot_add 1"
-				"2" "5" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
-				"3" "10" "cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1;cso_bot_add 1"
-			}
-			"2" "反恐小姐/人類"
-			{
-				"1" "1" "cso_bot_add 2"
-				"2" "5" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
-				"3" "10" "cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2;cso_bot_add 2"
-			}
-			"3" "加入雙方平行數"
-			{
-				"1" "雙方平行數" "mp_autoteambalance 0;bot_add 1;bot_add 1;bot_add 1;bot_add 1;bot_add 1;bot_add 1;bot_add 1;bot_add 2;bot_add 2;bot_add 2;bot_add 2;bot_add 2;bot_add 2;bot_add 2;bot_add 2;bot_add 2"
-			}
-		}
-	               "3" "BOT語音吃瓜"
-		{
-			"1" "開啟語音" "bot_chatter normal"
-			"2" "語音(較少)" "bot_chatter mininal"
-			"3" "使用無線電" "bot_chatter radio"
-			"4" "關閉所有語音" "bot_chatter off"
-		}
-	}
-}
-
-
-"5" "關閉" " "
+"4" "關閉菜單" " "

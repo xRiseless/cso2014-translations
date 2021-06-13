@@ -250,9 +250,9 @@
 		}
 		"2" "Max FPS"
 		{
-			"2" "100" "fps_max 100"
-			"3" "72" "fps_max 72"
-			"4" "60" "fps_max 60"
+			"1" "100" "fps_max 100"
+			"2" "72" "fps_max 72"
+			"3" "60" "fps_max 60"
 		}
 		"3" "Vertical Sync"
 		{
@@ -265,8 +265,7 @@
 		"1" "Players"
 		{
 			"1" "Show Name" "cl_headname 1"
-			"2" "Show Icon" "cl_headname 2"
-			"3" "Off" "cl_headname 0"
+			"2" "Off" "cl_headname 0"
 		}
 		"2" "Other Items"
 		{
