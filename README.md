@@ -10,7 +10,7 @@ Our Discord group: https://discord.gg/EvUAY6D
 
 - chn (Chinese Simplified) by dounai2333
 
-- cht (Chinese Traditional) by JasonTse
+- tw (Chinese Traditional) by JasonTse
 
 - kr (Korean)
 
