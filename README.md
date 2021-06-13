@@ -10,6 +10,8 @@ Our Discord group: https://discord.gg/EvUAY6D
 
 - chn (Chinese Simplified)
 
+- cht (Chinese Traditional)
+
 - kr (Korean)
 
 There will be more languages to be added, if you want request a language please [start an issue](https://github.com/xRiseless/cso2014-translations/issues/new) to talk about it.
