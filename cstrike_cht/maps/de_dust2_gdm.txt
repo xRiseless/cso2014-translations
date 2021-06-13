@@ -1,0 +1,8 @@
+﻿沙漠遺跡2(Dust2) - 槍王之王模式
+遊戲圖製作: DaveJ (http://www.johnsto.co.uk/)
+原文製作: MacMan (MacManInfi@aol.com)
+
+目標
+- 率先使用高爆手榴彈殺死敵人的隊員將獲得勝利
+- 在地圖上殺死所有敵人來提升隊伍的分數
+- 遊戲時間內達到指定的勝利KILL數將獲得勝利

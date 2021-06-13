@@ -1,0 +1,8 @@
+﻿脅持747(747) - 死鬥
+遊戲圖製作: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+原文製作: "The Postman" 
+(heavengame@yahoo.com)
+
+- 射殺周圍的任何玩家.
+- 在指定的時間內射殺最多的玩家或者達成指定的射殺數即可獲得勝利.

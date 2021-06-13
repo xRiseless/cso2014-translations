@@ -1,0 +1,7 @@
+﻿浴血隧道(Tunnel) - 死鬥
+企劃/製作 : Machine (Machine@Nexon.co.kr)
+原文/修正 : Muba (abumjang@Nexon.co.kr) / Hacc (hacc@Nexon.co.kr) / ANIFACTORY(leejm@Nexon.co.kr)
+
+- 射殺周圍的任何玩家.
+- 在指定的時間內射殺最多的玩家或者達成指定的射殺數即可獲得勝利.
+

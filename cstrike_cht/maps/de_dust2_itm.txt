@@ -1,0 +1,6 @@
+﻿沙漠遺跡2(Dust2) – 團隊死鬥道具戰
+地圖製作: DaveJ (http://www.johnsto.co.uk/)
+Texture製作: MacMan (MacManInfi@aol.com)
+
+目標 : 擊殺敵人隊伍達到目標點數!!
+提示 : 使用道具的話,可以向敵人發出強力的廣大攻擊以及使用特殊技能.

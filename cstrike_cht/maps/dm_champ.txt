@@ -1,0 +1,6 @@
+﻿競技擂台(Champion) - 殲滅戰
+企劃 / 製造 : Nexon
+texture/modeling/retouch  : Nexon
+
+- 擊殺所有敵方隊伍的玩家.
+- 累積獲勝回合達勝利條件即可獲得勝利.

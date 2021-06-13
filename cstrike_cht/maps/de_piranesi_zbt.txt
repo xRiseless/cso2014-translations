@@ -1,0 +1,7 @@
+﻿引爆博物館(Piranesi) – 大亂鬥
+Fingers - iikkak@valvesoftware.com
+
+Thanks to Ido Magal for texture sources
+
+- 擊殺敵方隊伍的人類或殭屍,以及拾取寶物箱皆可以提升隊伍的擊殺數.
+- 在指定的時間內達成指定擊殺數或較多擊殺數的隊伍即可獲得勝利.

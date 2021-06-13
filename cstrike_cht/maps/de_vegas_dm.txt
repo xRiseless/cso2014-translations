@@ -1,0 +1,7 @@
+﻿賭城風雲(Vegas) – 死鬥
+製作 : +Cadaver+
+texture: George_Pooshoes, JOeSmOe
+修正 : Nexon
+
+- 擊殺周圍的任何玩家.
+- 在指定的時間內射殺最多的玩家或者達成指定的擊殺數即可獲得勝利.

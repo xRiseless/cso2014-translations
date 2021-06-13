@@ -1,0 +1,6 @@
+﻿競技擂台(Champion) - 死鬥
+企劃 / 製造 : Nexon
+texture/modeling/retouch  : Nexon
+
+- 擊殺周圍的任何玩家.
+- 在指定的時間內擊殺最多的玩家或者達成指定的擊殺數即可獲得勝利.
