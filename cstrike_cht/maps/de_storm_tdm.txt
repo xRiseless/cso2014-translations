@@ -1,0 +1,7 @@
+﻿風暴要塞(Storm) – 隊伍死鬥
+遊戲圖製作: FLiPMoDE|Daank
+(daankvirus420k@icqmail.com)
+原文製作:  Fingers - jOeSmOe - MattC
+
+- 射殺敵方隊伍玩家以提升隊伍的射殺數.
+- 在指定的時間內射殺最多的敵方玩家或者隊伍達成指定的射殺數即可獲得勝利. 

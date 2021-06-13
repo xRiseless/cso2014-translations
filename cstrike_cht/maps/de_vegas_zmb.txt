@@ -1,0 +1,9 @@
+﻿賭城風雲(Vegas) – 殭屍模式
+製作 : +Cadaver+
+texture : George_Pooshoes, JOeSmOe
+修正 : Nexon
+
+
+人類:在遊戲時間內擊殺所有殭屍
+殭屍:攻擊所有的人類.被攻擊的人將會被感染成殭屍
+殭屍具有相當高的生命力與相當快的移動速度

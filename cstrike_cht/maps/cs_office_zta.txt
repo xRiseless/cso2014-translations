@@ -1,0 +1,7 @@
+﻿辦公室攻防(Office) –大亂鬥殲滅
+遊戲圖製作: Hobbit (Hobbit@nodream.net)
+原文製作: Sphinx and George_Pooshoes.
+
+- 擊殺所有的敵人以獲得回合勝利
+- 以累積回合勝利達勝利條件為目標
+- 死亡後在下一個回合才會重生

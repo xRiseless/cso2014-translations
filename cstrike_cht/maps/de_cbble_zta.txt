@@ -1,0 +1,7 @@
+﻿決勝古堡(Cbble) – 大亂鬥殲滅
+遊戲圖製作: DaveJ (http://www.johnsto.co.uk/)
+原文製作: MacMan (MacManInfi@aol.com)
+
+- 擊殺所有的敵人以獲得回合勝利
+- 以累積回合勝利達勝利條件為目標
+- 死亡後在下一個回合才會重生

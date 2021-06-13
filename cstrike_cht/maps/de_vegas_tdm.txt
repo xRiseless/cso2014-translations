@@ -1,0 +1,8 @@
+﻿賭城風雲(Vegas) – 團隊死鬥
+製作 : +Cadaver+
+texture : George_Pooshoes, JOeSmOe
+修正 : Nexon
+
+
+- 擊殺敵方隊伍玩家以提升隊伍的擊殺數.
+- 在指定的時間內擊殺最多的敵方玩家或者隊伍達成指定的擊殺數即可獲得勝利. 

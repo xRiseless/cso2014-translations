@@ -1,0 +1,12 @@
+﻿義大利巷戰(Italy) - 槍王之王模式
+遊戲圖製作:
+glenC AKA [HOTSHEEP]Bastard (glenc@hotsheep.com)
+原文/繪畫製作:
+DigiChaos (digichaos@hotsheep.com)
+
+目標
+- 率先使用高爆手榴彈殺死敵人的隊員將獲得勝利
+- 在地圖上殺死所有敵人來提升隊伍的分數
+- 遊戲時間內達到指定的勝利KILL數將獲得勝利
+
+

@@ -1,0 +1,9 @@
+﻿喋血探勘船(Oilrig) - 死鬥
+遊戲圖製作: MacMan (macmaninfi@aol.com)
+原文製作: MacMan
+Westmoreland Wessex 直升機製作: Agent Orange 
+[agentorange@freemail.nl]
+
+- 射殺周圍的任何玩家.
+- 在指定的時間內射殺最多的玩家或者達成指定的射殺數即可獲得勝利.
+

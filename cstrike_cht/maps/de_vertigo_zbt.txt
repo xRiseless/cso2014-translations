@@ -1,0 +1,6 @@
+﻿致命大廈(Vertigo) - 大亂鬥
+遊戲圖製作: Chris Auty (Barney) (fragged101@yahoo.com)
+原文製作: Telnets and J0esm0e
+
+- 擊殺敵方隊伍的人類或殭屍,以及拾取寶物箱皆可以提升隊伍的擊殺數.
+- 在指定的時間內達成指定擊殺數或較多擊殺數的隊伍即可獲得勝利.

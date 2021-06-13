@@ -1,0 +1,7 @@
+﻿賭城風雲(Vegas) – 大亂鬥殲滅戰
+製作 : +Cadaver+
+texture : George_Pooshoes, JOeSmOe
+修正 : Nexon
+
+- 擊殺地圖上的所有敵人以獲得勝利
+

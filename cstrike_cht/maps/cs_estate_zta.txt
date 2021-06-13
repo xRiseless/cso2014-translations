@@ -1,0 +1,7 @@
+﻿鎮壓莊園(Estate) – 大亂鬥殲滅
+遊戲圖製作: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- 擊殺所有的敵人以獲得回合勝利
+- 以累積回合勝利達勝利條件為目標
+- 死亡後在下一個回合才會重生

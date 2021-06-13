@@ -1,0 +1,6 @@
+﻿城鎮水路(Torn) – 隊伍死鬥
+遊戲圖製作: Crinity & Madcross
+www.planethalflife.com/crinity/
+
+- 射殺敵方隊伍玩家以提升隊伍的射殺數.
+- 在指定的時間內射殺最多的敵方玩家或者隊伍達成指定的射殺數即可獲得勝利. 
