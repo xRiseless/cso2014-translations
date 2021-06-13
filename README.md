@@ -8,9 +8,9 @@ Our Discord group: https://discord.gg/EvUAY6D
 
 - sgp (English)
 
-- chn (Chinese Simplified) by dounai2333
+- chn (Simplified Chinese) by dounai2333
 
-- tw (Chinese Traditional) by JasonTse
+- tw (Traditional Chinese) by Jason Tse
 
 - kr (Korean)
 
