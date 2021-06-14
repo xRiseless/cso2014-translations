@@ -220,79 +220,79 @@
      "6" "#Cstrike_Need_Backup"		"say_team '지원 요청'"
 }
 
-"3" "Game Settings"
+"3" "게임 설정"
 {
-	"1" "Stop Current Playing BGM" "mp3 stop"
-	"2" "Functions"
+	"1" "mp3 끄기" "mp3 stop"
+	"2" "게임 기능 활성화"
 	{
-		"1" "Fast Weapon Switch"
+		"1" "빠른 무기 전환하기"
 		{
-			"1" "On" "hud_fastswitch 1"
-			"2" "Off" "hud_fastswitch 0"
+			"1" "켜기" "hud_fastswitch 1"
+			"2" "끄기" "hud_fastswitch 0"
 		}
-		"2" "Mininal Playermodel"
+		"2" "클래스 통합시키기"
 		{
-			"1" "On" "cl_minmodels 1"
-			"2" "Off" "cl_minmodels 0"
+			"1" "켜기" "cl_minmodels 1"
+			"2" "끄기" "cl_minmodels 0"
 		}
-		"3" "Draw HUD On Screen"
+		"3" "게임 인터페이스 보기(HUD)"
 		{
-			"1" "On" "hud_draw 1;cl_radar_on 1"
-			"2" "Off" "hud_draw 0;cl_radar_on 0"
+			"1" "켜기" "hud_draw 1;cl_radar_on 1"
+			"2" "끄기" "hud_draw 0;cl_radar_on 0"
 		}
 	}
-	"3" "Frame (FPS)"
+	"3" "프레임 설정(FPS)"
 	{
-		"1" "Show On Upper Left"
+		"1" "왼쪽 상단에 고정하기"
 		{
-			"1" "On" "cl_showfps 1"
-			"2" "Off" "cl_showfps 0"
+			"1" "켜기" "cl_showfps 1"
+			"2" "끄기" "cl_showfps 0"
 		}
-		"2" "Max FPS"
+		"2" "최대 프레임 설정"
 		{
 			"1" "100" "fps_max 100"
 			"2" "72" "fps_max 72"
 			"3" "60" "fps_max 60"
 		}
-		"3" "Vertical Sync"
+		"3" "수직동기화"
 		{
-			"1" "On" "gl_vsync 1"
-			"2" "Off" "gl_vsync 0"
+			"1" "켜기" "gl_vsync 1"
+			"2" "끄기" "gl_vsync 0"
 		}
 	}
-	"4" "Entity's Information"
+	"4" "고급 설정"
 	{
-		"1" "Players"
+		"1" "플레이어 닉네임 표시"
 		{
-			"1" "Show Name" "cl_headname 1"
-			"2" "Off" "cl_headname 0"
+			"1" "닉네임 보기" "cl_headname 1"
+			"2" "닉네임 끄기" "cl_headname 0"
 		}
-		"2" "Other Items"
+		"2" "그외 설정"
 		{
-			"1" "Show Icon" "cl_objname 1"
-			"2" "Off" "cl_objname 0"
+			"1" "아이콘 켜기" "cl_objname 1"
+			"2" "아이콘 끄기" "cl_objname 0"
 		}
 	}
-	"5" "Bleeding Type"
+	"5" "피 색깔 설정"
 	{
-		"1" "Red" "violence_hblood 1;violence_ablood 1;violence_redblood 1"
-		"2" "Yellow" "violence_hblood 1;violence_ablood 1;violence_redblood 0"
-		"3" "No Blood" "violence_hblood 0;violence_ablood 0"
+		"1" "빨간색" "violence_hblood 1;violence_ablood 1;violence_redblood 1"
+		"2" "카레" "violence_hblood 1;violence_ablood 1;violence_redblood 0"
+		"3" "피 튀기는거 없애기" "violence_hblood 0;violence_ablood 0"
 	}
-	"6" "Network Info"
+	"6" "네트워크 정보"
 	{
-		"1" "Show On Bottom"
+		"1" "넷그래프 활성화"
 		{
-			"1" "On" "net_graph 3"
-			"2" "Off" "net_graph 0"
+			"1" "켜기" "net_graph 3"
+			"2" "끄기" "net_graph 0"
 		}
-		"2" "Show Position"
+		"2" "넷그래프 위치보이기"
 		{
-			"1" "Bottom Left" "net_graphpos 0;net_graphwidth 150"
-			"2" "Bottom Middle" "net_graphpos 2;net_graphwidth 150"
-			"3" "Bottom Right" "net_graphpos 1;net_graphwidth 150"
+			"1" "왼쪽 하단" "net_graphpos 0;net_graphwidth 150"
+			"2" "가운데 아래" "net_graphpos 2;net_graphwidth 150"
+			"3" "오른쪽 하단" "net_graphpos 1;net_graphwidth 150"
 		}
 	}
 }
 
-"4" "Close Menu" " "
+"4" "메뉴 닫기" " "
