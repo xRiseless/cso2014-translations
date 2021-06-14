@@ -39,7 +39,7 @@
 // You can change these safely if you want.
 "2" "#Cstrike_TEAM_MESSAGE"
 {
-              // Map Specific
+	// Map Specific
 
 	MAP cs_siege "1" "#Cstrike_Map_Siege"
 	{
