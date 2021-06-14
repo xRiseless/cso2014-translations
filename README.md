@@ -12,6 +12,6 @@ Our Discord group: https://discord.gg/EvUAY6D
 
 - tw (Traditional Chinese) by Jason Tse
 
-- kr (Korean)
+- kr (Korean) by Tracker6974
 
 There will be more languages to be added, if you want request a language please [start an issue](https://github.com/xRiseless/cso2014-translations/issues/new) to talk about it.
