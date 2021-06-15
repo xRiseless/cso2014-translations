@@ -354,47 +354,46 @@ BuyMachineGun
 
 RadioA
 {
-\yRadio Commands\w
+\y라디오 명령어\w
 
-1. "Cover."
-2. "Lead the way."
-3. "Defend your position."
-4. "Regroup team!"
-5. "Follow me."
-6. "I'm under attack, need help."
-
-0. Cancel
+1. "엄호하라."
+2. "선두를 맡아라."
+3. "현재 위치를 사수하라."
+4. "팀을 재정비하라."
+5. "나를 따라와라."
+6. "공격받고 있다, 도움이 필요하다."
+0. 취소
 }
 
 RadioB
 {
-\yGroup Radio Commands\w
+\y그룹 라디오 명령어\w
 
-1. "Charge."
-2. "Retreat."
-3. "Stick together."
-4. "Hold the position."
-5. "Charge to the front."
-6. "Report the situation."
+1. "전진하라."
+2. "후퇴하라."
+3. "흩어지지 마라."
+4. "위치를 잡아라."
+5. "정면을 돌파하라."
+6. "상황을 보고하라."
 
-0. Cancel
+0. 취소
 }
 
 RadioC
 {
-\yRadio answers/reports\w
+\y라디오 응답/보고\w
 
-1. "Roger that."
-2. "Enemy sighted."
-3. "Need backup."
-4. "Area secured."
-5. "I'm in position."
-6. "Everything normal."	
-7. "Get out of there, it's gonna explode!"
-8. "Negative."
-9. "Killed an enemy."
+1. "알았다."
+2. "적을 발견했다."
+3. "지원이 필요하다."
+4. "구역 확보 완료"
+5. "위치에 도착했다."
+6. "이상 없다."	
+7. "어서 나가, 곧 폭발한다!"
+8. "불가능하다."
+9. "적을 사살했다."
 
-0. Cancel
+0. 취소
 }
 
 // weapon names
@@ -2297,60 +2296,63 @@ Cstrike_Already_Own_Weapon
 
 CSO_EmotionA
 {
-\r Emotion Expression \w
+\r이모션표현\w
 
-1. "Greeting."
-2. "Happy."
-3. "Provoke"
-4. "Angry"
-0. Cancel
+1. "인사."
+2. "기쁨."
+3. "도발"
+4. "화남"
+0. 취소
 }
 
 CSO_EmotionB
 {
-\r Emotion Expression\w
+\r이모션표현\w
 
-1. "Greeting."
-2. "Happy."
-3. "Provoke"
-4. "Angry"
-5. "Bodybuilding"
-6. "Dance"
-0. Cancel
+1. "인사."
+2. "기쁨."
+3. "도발"
+4. "화남"
+5. "보디빌딩"
+6. "댄스"
+0. 취소
 }
 
 CSO_EmotionC
 {
-\r Emotion Expression \w
+\r이모션표현\w
 
-1. "Greeting."
-2. "Happy."
-3. "Provoke"
-4. "Angry"
-5. "Kiss on hand"
-6. "Dance"
-0. Cancel
+1. "인사."
+2. "기쁨."
+3. "도발"
+4. "화남"
+5. "손키스"
+6. "댄스"
+0. 취소
 }
 
 CSO_EmotionD
 {
-\rEmotion Expression\w
-1 "Greetings"
-2 "Joy"
-3 "Provoke"
-4 "Anger"
-5 "Provoke 2"
-6 "Shadow Boxing"
-0 "Cancel"
+\r이모션표현\w
+
+1. "인사."
+2. "기쁨."
+3. "도발"
+4. "화남"
+5. "도발2"
+6. "섀도복싱"
+0. 취소
 }
+
 CSO_EmotionE
 {
-\rEmotion Expression\w
-1 "Greetings"
-2 "Joy"
-3 "Provoke"
-4 "Anger"
-5 "Provoke 2"
-6 "Surrender"
-0 "Cancel"
+\r이모션표현\w
+
+1. "인사."
+2. "기쁨."
+3. "도발"
+4. "화남"
+5. "도발2"
+6. "항복"
+0. 취소
 }
