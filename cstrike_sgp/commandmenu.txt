@@ -254,11 +254,6 @@
 			"2" "72" "fps_max 72"
 			"3" "60" "fps_max 60"
 		}
-		"3" "Vertical Sync"
-		{
-			"1" "On" "gl_vsync 1"
-			"2" "Off" "gl_vsync 0"
-		}
 	}
 	"4" "Entity's Information"
 	{
