@@ -2303,6 +2303,7 @@ CSO_EmotionA
 2. "Happy."
 3. "Provoke"
 4. "Angry"
+
 0. Cancel
 }
 
@@ -2316,6 +2317,7 @@ CSO_EmotionB
 4. "Angry"
 5. "Bodybuilding"
 6. "Dance"
+
 0. Cancel
 }
 
@@ -2329,6 +2331,7 @@ CSO_EmotionC
 4. "Angry"
 5. "Kiss on hand"
 6. "Dance"
+
 0. Cancel
 }
 
@@ -2341,6 +2344,7 @@ CSO_EmotionD
 4 "Anger"
 5 "Provoke 2"
 6 "Shadow Boxing"
+
 0 "Cancel"
 }
 CSO_EmotionE
@@ -2352,5 +2356,6 @@ CSO_EmotionE
 4 "Anger"
 5 "Provoke 2"
 6 "Surrender"
+
 0 "Cancel"
 }
