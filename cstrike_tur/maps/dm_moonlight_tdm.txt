@@ -1,0 +1,6 @@
+﻿Ay Işığı - Takımla Ölüm Savaşı
+Planlama/Üretim: Nexon
+Harita Yapımı/Revizyon: Nexon
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.

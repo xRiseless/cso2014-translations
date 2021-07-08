@@ -1,0 +1,6 @@
+﻿Dust 2 - Takımla Ölüm Savaşı
+Haritayı Yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuyu Yapan: MacMan (MacManInfi@aol.com)
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.

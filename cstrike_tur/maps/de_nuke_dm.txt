@@ -1,0 +1,5 @@
+﻿Nuke - Ölüm Savaşı
+Haritayı Yapan: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

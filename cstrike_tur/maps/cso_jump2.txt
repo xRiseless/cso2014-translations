@@ -1,0 +1,7 @@
+﻿Zıplama 2 - Zorlu Görev
+Planlama/Üretim: Nexon
+Doku/Modelleme/Revizyon: Nexon
+
+- Belirlenen süre içinde en hızlı olan oyuncu kazanır.
+- Ölür veya düşersen en yeni denetim noktasına gideceksin.
+- Bu haritada oyuncu çarpışması yok.

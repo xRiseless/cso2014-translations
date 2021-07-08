@@ -1,0 +1,8 @@
+﻿Survivor - Zombi İttifak Yok Etme
+Haritayı Yapan: Michael Visser (3D_Mike)
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.
+- Öğe kutusu alınırsa öldürme sayısı artar.

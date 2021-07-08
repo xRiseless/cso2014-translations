@@ -1,0 +1,6 @@
+﻿Havana - Ölüm Savaşı
+Ido Magal *ido@valvesoftware.com*
+Macman    *chrisa@valvesoftware.com*
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

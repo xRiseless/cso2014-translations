@@ -1,0 +1,7 @@
+﻿Italy - Zombi İttifak Yok Etme
+Haritayı Yapan: glenC [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Dokuyu/Grafikleri Yapan: DigiChaos (digichaos@hotsheep.com)
+
+- Haritadaki tüm düşmanları öldür.
+- Belirli sayıda raundu tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar tekrar doğmayacaksın.

@@ -1,0 +1,7 @@
+﻿Office - Zombi İttifakının Ortadan Kaldırılması
+Haritayı Yapan: Hobbit (Hobbit@nodream.net)	Haritayı Yapan: Hobbit (Hobbit@nodream.net)
+Dokuyu Yapan: Sphinx ve George_Pooshoes.
+
+- Haritadaki tüm düşmanları öldür.
+- Belirli sayıda raundu tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar tekrar doğmayacaksın.

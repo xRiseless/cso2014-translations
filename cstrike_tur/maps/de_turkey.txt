@@ -1,0 +1,6 @@
+﻿Türkiye - Bomba Kurma/Çözme
+Tasarımcı: Nexon
+  
+Kontra-Terörist: Teröristlerin bombayı patlatmasını engelleyin. Kurulan bombaları takım üyeleri çözmelidir.
+  
+Terörist: C4 taşıyan oyuncu belirli alanda bombayı başarı ile patlatmalıdır.

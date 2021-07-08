@@ -1,0 +1,6 @@
+﻿Arka Sokak - Zombi İttifakı
+Haritayı Yapan: TYR (tyr@barking-dog.com)
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.
+- Öğe kutusu alınırsa öldürme sayısı artar.

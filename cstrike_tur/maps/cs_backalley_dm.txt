@@ -1,0 +1,5 @@
+﻿Arka Sokak - Ölüm Savaşı
+Haritayı Yapan: TYR (tyr@barking-dog.com)
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

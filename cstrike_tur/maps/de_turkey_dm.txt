@@ -1,0 +1,5 @@
+﻿Türkiye  - Ölüm Savaşı
+Tasarımcı: Nexon
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

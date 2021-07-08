@@ -1,0 +1,7 @@
+﻿Liman - Yok Etme
+Planlama/Üretim: Nexon
+Doku/Modelleme/Revizyon: Nexon
+
+Kargo konteynerleriyle dolu bir limanda silahlı bir çatışma meydana geliyor.
+- Haritadaki tüm düşman takım üyelerini öldür.
+- Bir takım yok edildiğinde diğeri kazanır.

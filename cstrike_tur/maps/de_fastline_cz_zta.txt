@@ -1,0 +1,6 @@
+﻿Hızlı Hat - Zombi İttifakı Yok Etme
+Luke 'weasl' Whiteside - Ritual Entertainment
+
+- Haritadaki tüm düşmanları öldür.
+- Belirli sayıda raundu tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar tekrar doğmayacaksın.

@@ -1,0 +1,7 @@
+﻿Office - Zombi İttifakı
+
+Haritayı Yapan: Hobbit (Hobbit@nodream.net)	Haritayı Yapan: Hobbit (Hobbit@nodream.net)
+Dokuyu Yapan: Sphinx ve George_Pooshoes.
+
+- Haritadaki tüm düşman takımı üyelerini öldürerek takım puanını arttır.
+- Belli sayıda ölüm sayısına ulaşarak kazan.

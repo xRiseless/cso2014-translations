@@ -1,0 +1,15 @@
+﻿Birlik - Zombi İttifakı
+Planlama/Üretim: Nexon
+Doku/Revizyon: Nexon
+
+Rex Laboratuvarındaki başarılı bir deney sayesinde Rex Virüsü için antikorlar ve virüsün etkisini geri çeviren bir cihaz yapıldı ve böylece zombiler kontrol edilebiliyor.
+
+Devlet, yeni tamamlanan bu teknolojiyi kullanarak Avrupa'daki teröristlere saldırdı ve kaybolan Dr. Rex'i buldu.
+
+Başarısız bir deney nedeniyle zombiye dönüşmüştü ama bir mutant türüne dönüştüğü için insanlar gibi düşünüp konuşabiliyordu.
+
+Onu yalnız bırakan devletten intikamını almak için büyük zombi ordusuyla birlikte teröristlere katılmış.
+
+
+- Tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.

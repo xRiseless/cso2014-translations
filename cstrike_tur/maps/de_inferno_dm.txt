@@ -1,0 +1,6 @@
+﻿Inferno - Ölüm Savaşı
+Haritayı Yapan: Chris Auty (Barney) (narby@counter-strike.net)
+Dokuyu Yapan: Valve software
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

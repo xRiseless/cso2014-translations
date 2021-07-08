@@ -1,0 +1,8 @@
+﻿Dust 2 Yok Etme - Zombi İttifakı
+Haritayı Yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuyu Yapan: MacMan (MacManInfi@aol.com)
+Harita Revizyonu: Nexon
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.
+- Öğe kutusu alınırsa öldürme sayısı artar.

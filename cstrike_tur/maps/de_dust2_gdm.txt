@@ -1,0 +1,8 @@
+﻿Dust 2 - Silahlı Ölüm Savaşı
+Haritayı Yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuyu Yapan: MacMan (MacManInfi@aol.com)
+
+Hedef
+- El bombasıyla bir düşmanı en son öldüren takım kazanır.
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Kazanmak için zaman sınırlaması dahilinde belirtilen öldürme sayısına ulaş.

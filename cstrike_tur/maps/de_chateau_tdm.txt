@@ -1,0 +1,6 @@
+﻿Şato - Takımla Ölüm Savaşı
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.

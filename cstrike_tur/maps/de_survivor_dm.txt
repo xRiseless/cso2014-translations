@@ -1,0 +1,7 @@
+﻿Survivor - Ölüm Savaşı
+Haritayı Yapan: Michael Visser (3D_Mike)
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

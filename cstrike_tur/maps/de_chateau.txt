@@ -1,0 +1,8 @@
+﻿Şato - Bomba Yerleştirme/Etkisiz Hale Getirme
+
+Macman    *chrisa@valvesoftware.com*
+Ido Magal *ido@valvesoftware.com*
+
+Teröristler: Lord William, Kaldırım Taşındaki olayın ardından yaz şatosunu tadil etmeye karar verdi. Ön veya arka bahçeye bir C4 yerleştirerek tadilatı tamamlamasına engel olun.
+
+Terörle Mücadele Timi: Teröristlerin bomba yerleştirmesini önleyin ve Lord William'ın mülkünü koruyun.

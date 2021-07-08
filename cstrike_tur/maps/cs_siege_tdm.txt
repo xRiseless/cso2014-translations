@@ -1,0 +1,5 @@
+﻿Siege - Takımla Ölüm Savaşı
+Haritayı Yapan: N0TH1NG  (n0th1ng@mailcity.com)
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.

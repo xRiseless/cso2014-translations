@@ -1,0 +1,11 @@
+﻿Piranesi - Bomba Yerleştirme/Etkisiz Hale Getirme
+
+Fingers - iikkak@valvesoftware.com
+
+Doku kaynakları için Ido Magal'a teşekkürler
+
+Arkaplan: Piranesi Villası, halka açılacak bir müzeye dönüştürülmekte olan muhteşem bir saray. Çeşitli antik eşyalar ve sanat çalışmaları, bu binaya taşınıyor.
+
+Teröristler: Müzenin halka açılamaması için en önemli iki sergisini (ön bahçedeki güneş saati veya arka bahçedeki güneş sistemi modeli) yok edin.
+
+Terörle Mücadele Timi: Bu tarihi bölgeyi teröristlerden koruyun.

@@ -1,0 +1,9 @@
+﻿Tünel - Takımla Ölüm Savaşı
+Planlama/Üretim: Nexon
+Doku/Revizyon: Nexon
+
+Teröristler, trenin taşıdığı silahları ve nakdi çalmak için trenin geçtiği tüneli patlatmayı planlıyor.
+Terörle Mücadele Timi: Teröristlere saldırarak hedeflerine ulaşmalarını engelleyin.
+Teröristler: Terörist görevinin plana göre tamamlanabilmesi için terörle mücadele timine saldırın.
+
+Not: Bu haritada her takımın iki destek yeri vardır.

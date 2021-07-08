@@ -1,0 +1,11 @@
+﻿Liman - Yok Etme: Canavar Modu
+ 
+Yapımcı: Nexon
+ 
+Grafik/Modeller/Uyarlamalar: Nexon
+ 
+ 
+ 
+- Oyuncu harita üzerindeki tüm düşmanları öldürmeli ve takım puanları kazanmalı.
+ 
+- Eğer hedef öldürme sayısına ulaşırsanız, kazanırsnız.

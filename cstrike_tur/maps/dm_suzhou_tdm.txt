@@ -1,0 +1,10 @@
+﻿Suzhou - Takımla Ölüm Savaşı
+Planlama/Üretim: Nexon
+Doku/Modelleme/Revizyon: Nexon
+
+Çin hükümeti, teröristlerin şehrin dışındaki Suzhou kasabasında uyuşturucu kaçakçılığı yaptığını gösteren bir istihbarat aldı.
+Teröristleri durdurmak için terörle mücadele timi, bu kasabaya saldırarak teröristlerin orada onlara pusu kurduğunu keşfetti.
+Gözcü teröristler, terörle mücadele timinin hareketlerini belirledi ve toplu bir saldırı yapmaya hazırlanıyorlar.
+
+Hedef: Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+Belirli sayıda düşmanı öldürerek oyunu kazan.

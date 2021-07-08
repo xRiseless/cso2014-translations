@@ -1,0 +1,19 @@
+﻿Şehir Savaşı - Pusu
+ 
+Yaratıcı: Nexon
+ 
+Tasarımcı: Nexon
+ 
+Senaryo
+ 
+Bir Terörist lideri bazı özel deneylerde kullanılmak üzere özel bir araştırma enstitüsünde tutulmuştur.
+ 
+CT Kuvvetleri bu lideri bir diğer bölgeye nakletmeyle görevlidir.
+ 
+TR Kuvvetleri bu bilgiyi almıştır ve yollara barikat kurarak pusu kurup liderlerini kurtarmaya çalışacaklardır.
+ 
+Hedef
+ 
+Kontra-Teröristler: Yolu kapayan tüm barikatları yıkın ve nakliye aracını hedefe ulaştırın.
+ 
+Teröristler: Nakliye aracına monte edlimiş olan tüm kelepçeleri sökerek liderinizi kurtarın.

@@ -1,0 +1,7 @@
+﻿Storm - Zombi İttifakı
+Haritayı Yapan: FLiPMoDE|Daank
+Dokuyu Yapan:  Fingers - jOeSmOe - MattC
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.
+- Öğe kutusu alınırsa öldürme sayısı artar.

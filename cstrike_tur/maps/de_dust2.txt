@@ -1,0 +1,10 @@
+﻿Dust 2 - Bomba Yerleştirme/Etkisiz Hale Getirme
+Haritayı Yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuyu Yapan: MacMan (MacManInfi@aol.com)
+
+Terörle Mücadele Timi: Teröristlerin kimyasal silah sandıklarını patlatmasını önleyin. Takım üyeleri, bomba bölgelerine yerleştirilen tüm bombaları etkisiz hale getirmeli.
+
+Teröristler: C4 sahibi bir terörist, kimyasal silah sandıklarının bulunduğu iki bomba bölgesinden birini patlatmalı.
+
+
+Not: Bu haritada iki tane bomba bölgesi var.

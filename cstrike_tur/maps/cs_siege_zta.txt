@@ -1,0 +1,6 @@
+﻿Siege - Zombi İttifakı Yok Etme
+Haritayı Yapan: N0TH1NG  (n0th1ng@mailcity.com)
+
+- Haritadaki tüm düşmanları öldür.
+- Belirli sayıda raundu tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar tekrar doğmayacaksın.

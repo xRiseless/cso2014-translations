@@ -1,0 +1,8 @@
+﻿Greesia Müzesi - Yok Etme
+Planlama/Üretim: Nexon
+Doku/Modelleme/Revizyon: Nexon
+
+Terörle mücadele timi, Greesia Müzesi yakınlarında bir çarpışma sırasında müzeye girerek teröristlerin keskin nişancı timiyle karşı karşıya geldi. 
+Destek birlikleriyle bağlantının kesilmesinin ardından her iki taraf da birbiriyle yüzleşirken sadece kendi silahlarına güvenebilecek.
+
+Hedef: Tüm düşman keskin nişancıları yok et.

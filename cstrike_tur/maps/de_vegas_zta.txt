@@ -1,0 +1,8 @@
+﻿Vegas - Zombi İttifakı Yok Etme
+Üretim: +Cadaver+
+Doku: George_Pooshoes, JOeSmOe
+Revizyon: Nexon
+
+- Haritadaki tüm düşmanları öldür.
+- Belirli sayıda raundu tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar tekrar doğmayacaksın.

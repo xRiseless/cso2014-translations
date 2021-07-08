@@ -1,0 +1,8 @@
+﻿Harabeler - Yok Etme
+Planlama/Üretim: Nexon
+Doku/Modelleme/Revizyon: Nexon
+
+Ormanda bulunan gizli bir terörist üssünü basması için gönderilen keskin nişancı timi, harabelerin yanında saklanan bir keskin nişancı terörist timinin saldırısına uğradı.
+Destek birlikleriyle iletişimini kaybeden her iki tim de sadece keskin nişancı silahlarını kullanarak birbiriyle yüzleşecek.
+
+Hedef: Tüm düşman keskin nişancıları yok et.

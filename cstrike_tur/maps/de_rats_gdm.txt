@@ -1,0 +1,8 @@
+﻿Fareler - Silahlı Ölüm Savaşı
+Planlama/Üretim: Nexon
+Doku/Revizyon: Nexon
+
+Hedef
+- El bombasıyla bir düşmanı en son öldüren takım kazanır.
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Kazanmak için zaman sınırlaması dahilinde belirtilen öldürme sayısına ulaş.

@@ -1,0 +1,5 @@
+﻿Nuke - Takımla Ölüm Savaşı
+Haritayı Yapan: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.
