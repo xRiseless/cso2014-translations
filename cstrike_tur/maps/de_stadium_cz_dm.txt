@@ -1,0 +1,4 @@
+﻿Stadyum - Ölüm Savaşı
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

@@ -1,0 +1,5 @@
+﻿Santorini - Takımla Ölüm Savaşı
+Harita Yapımcısı: Nexon
+ Doku Yapımcısı: Nexon
+- Tüm düşmanları öldürün ve takım puanı kazanın.
+- Belirli sayıda öldürmeye ulaştığınızda kazanacaksınız.

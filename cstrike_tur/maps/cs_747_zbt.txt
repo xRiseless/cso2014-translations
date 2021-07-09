@@ -1,0 +1,9 @@
+﻿747 - Zombi İttifakı
+Haritayı Yapan: Stephen "Judas" Superville 
+(witchdawn@hotmail.com)
+Dokuyu Yapan: "The Postman" 
+(heavengame@yahoo.com)
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.
+- Öğe kutusu alınırsa öldürme sayısı artar.

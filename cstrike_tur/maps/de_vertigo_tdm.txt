@@ -1,0 +1,6 @@
+﻿Vertigo - Takımla Ölüm Savaşı
+Haritayı Yapan: Chris Auty (Barney) (fragged101@yahoo.com)
+Dokuyu Yapan: Telnets ve J0esm0e
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.

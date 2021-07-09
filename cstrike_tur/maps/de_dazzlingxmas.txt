@@ -1,0 +1,7 @@
+﻿Baş Döndürücü - Bomba Yerleştirme/Etkisiz Hale Getirme
+Planlama/Üretim: Nexon
+Doku/Modelleme/Revizyon: Nexon
+
+Hong Kong'un şehir merkezinde olası terörist bombalama planları keşfedildi. Hükümet, terörist eylemlerini önlemek için bir terörle mücadele timi gönderdi.
+Teröristler: Araçların bir arada olduğu bir yere bir C4 yerleştirmek için elinizden geleni yapın. Büyük bir patlamayla devletin ve terörle mücadele timinin dikkatini dağıtmalısınız.
+Terörle Mücadele Timi: Sivil tesislerin yoğun olduğu bir yerde bir terörist eyleminin gerçekleşmesini önlemelisiniz. Masum halkın hayatı tehlikeye atılmamalı.

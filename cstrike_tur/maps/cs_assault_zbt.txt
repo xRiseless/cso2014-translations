@@ -1,0 +1,6 @@
+﻿Assault - Zombi İttifakı
+Haritayı Yapan: CryptR (lmuur@dlc.fi)
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.
+- Öğe kutusu alınırsa öldürme sayısı artar.

@@ -1,0 +1,12 @@
+﻿Fabrika 2 - Silahlı Ölüm Savaşı
+Planlama/Üretim: Nexon
+Doku/Modelleme/Revizyon: Nexon
+
+Devlet, teröristlerin şehir dışındaki büyük bir depoyu ana merkezleri olarak kullandığını işaret eden bir bilgi aldı.
+Teröristleri durdurmak için terörle mücadele timi, bu depoya saldırarak teröristlerin bina içinde onlara pusu kurduğunu keşfetti.
+Gözcü teröristler, terörle mücadele timinin hareketlerini belirledi ve toplu bir saldırı yapmaya hazırlanıyorlar.
+
+Hedef
+- El bombasıyla bir düşmanı en son öldüren takım kazanır.
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Kazanmak için zaman sınırlaması dahilinde belirtilen öldürme sayısına ulaş.

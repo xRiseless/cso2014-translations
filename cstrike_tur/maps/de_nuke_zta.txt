@@ -1,0 +1,6 @@
+﻿Nuke - Zombi İttifakı Yok Etme
+Haritayı Yapan: Jo Bieg (MEEEEDIC@gmx.net)
+
+- Haritadaki tüm düşmanları öldür.
+- Belirli sayıda raundu tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar tekrar doğmayacaksın.

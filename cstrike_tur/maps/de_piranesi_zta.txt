@@ -1,0 +1,7 @@
+﻿Piranesi - Zombi İttifakı Yok Etme
+Fingers - iikkak@valvesoftware.com
+Doku kaynakları için Ido Magal'a teşekkürler
+
+- Haritadaki tüm düşmanları öldür.
+- Belirli sayıda raundu tamamlayarak oyunu kazan.
+- Sıradaki raunt başlayana kadar tekrar doğmayacaksın.

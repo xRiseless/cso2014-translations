@@ -1,0 +1,7 @@
+﻿Melekler Şehri - Takımla Ölüm Savaşı
+Esas Yazar: Bilinmiyor
+Haritayı Yapan: Nexon
+Dokuyu Yapan: Nexon
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.

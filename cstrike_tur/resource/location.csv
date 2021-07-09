@@ -1,0 +1,1029 @@
+﻿Region INDEX,Region,City INDEX,City,District INDEX,District
+1,Akdeniz,1,Adana,1,Aladağ
+1,Akdeniz,1,Adana,2,Ceyhan
+1,Akdeniz,1,Adana,3,Feke
+1,Akdeniz,1,Adana,4,İmamaoğlu
+1,Akdeniz,1,Adana,5,Karaisalı
+1,Akdeniz,1,Adana,6,Karataş
+1,Akdeniz,1,Adana,7,Kozan
+1,Akdeniz,1,Adana,8,Merkez
+1,Akdeniz,1,Adana,9,Pozantı
+1,Akdeniz,1,Adana,10,Saimbeyli
+1,Akdeniz,1,Adana,11,Seyhan
+1,Akdeniz,1,Adana,12,Tufanbeyli
+1,Akdeniz,1,Adana,13,Yumurtalık
+1,Akdeniz,1,Adana,14,Yüreğir
+1,Akdeniz,2,Antalya,15,Akseki
+1,Akdeniz,2,Antalya,16,Alanya
+1,Akdeniz,2,Antalya,17,Elmalı
+1,Akdeniz,2,Antalya,18,Finike
+1,Akdeniz,2,Antalya,19,Gazipaşa
+1,Akdeniz,2,Antalya,20,Gündoğmuş
+1,Akdeniz,2,Antalya,21,İbradı
+1,Akdeniz,2,Antalya,22,Kale
+1,Akdeniz,2,Antalya,23,Kaş
+1,Akdeniz,2,Antalya,24,Kemer
+1,Akdeniz,2,Antalya,25,Korkuteli
+1,Akdeniz,2,Antalya,26,Kumluca
+1,Akdeniz,2,Antalya,27,Manavgat
+1,Akdeniz,2,Antalya,28,Merkez
+1,Akdeniz,2,Antalya,29,Serik
+1,Akdeniz,3,Burdur,30,Ağlasun
+1,Akdeniz,3,Burdur,31,Altınyayla
+1,Akdeniz,3,Burdur,32,Bucak
+1,Akdeniz,3,Burdur,33,Çavdır
+1,Akdeniz,3,Burdur,34,Çeltikçi
+1,Akdeniz,3,Burdur,35,Gölhisar
+1,Akdeniz,3,Burdur,36,Karamanlı
+1,Akdeniz,3,Burdur,37,Kemer
+1,Akdeniz,3,Burdur,38,Merkez
+1,Akdeniz,3,Burdur,39,Tefenni
+1,Akdeniz,3,Burdur,40,Yeşilova
+1,Akdeniz,4,Hatay,41,Altinözü
+1,Akdeniz,4,Hatay,42,Belen
+1,Akdeniz,4,Hatay,43,Dörtyol
+1,Akdeniz,4,Hatay,44,Erzin
+1,Akdeniz,4,Hatay,45,Hassa
+1,Akdeniz,4,Hatay,46,Iskenderun
+1,Akdeniz,4,Hatay,47,Kirikhan
+1,Akdeniz,4,Hatay,48,Kumlu
+1,Akdeniz,4,Hatay,49,Merkez
+1,Akdeniz,4,Hatay,50,Reyhanli
+1,Akdeniz,4,Hatay,51,Samandagi
+1,Akdeniz,4,Hatay,52,Yayladagi
+1,Akdeniz,5,İskenderun,53,İskenderun
+1,Akdeniz,6,Isparta,54,Aksu
+1,Akdeniz,6,Isparta,55,Atabey
+1,Akdeniz,6,Isparta,56,Eğirdir
+1,Akdeniz,6,Isparta,57,Gelendost
+1,Akdeniz,6,Isparta,58,Gönen
+1,Akdeniz,6,Isparta,59,Keçiborlu
+1,Akdeniz,6,Isparta,60,Merkez
+1,Akdeniz,6,Isparta,61,Şarkikarağaç
+1,Akdeniz,6,Isparta,62,Senirkent
+1,Akdeniz,6,Isparta,63,Sütçüler
+1,Akdeniz,6,Isparta,64,Uluborlu
+1,Akdeniz,6,Isparta,65,Yalvaç
+1,Akdeniz,6,Isparta,66,Yenişarbademli
+1,Akdeniz,7,K.Maraş,67,Afşin
+1,Akdeniz,7,K.Maraş,68,Andırın
+1,Akdeniz,7,K.Maraş,69,Çağlıyancerit
+1,Akdeniz,7,K.Maraş,70,Elbistan
+1,Akdeniz,7,K.Maraş,71,Göksun
+1,Akdeniz,7,K.Maraş,72,Merkez
+1,Akdeniz,7,K.Maraş,73,Pazarcık
+1,Akdeniz,7,K.Maraş,74,Türkoğlu
+1,Akdeniz,8,Mersin,75,Anamur
+1,Akdeniz,8,Mersin,76,Aydıncık
+1,Akdeniz,8,Mersin,77,Bozyazı
+1,Akdeniz,8,Mersin,78,Çamlıyayla
+1,Akdeniz,8,Mersin,79,Erdemli
+1,Akdeniz,8,Mersin,80,Gülnar
+1,Akdeniz,8,Mersin,81,Merkez
+1,Akdeniz,8,Mersin,82,Mut
+1,Akdeniz,8,Mersin,83,Silifke
+1,Akdeniz,8,Mersin,84,Tarsus
+1,Akdeniz,9,Osmaniye,85,Bahçe
+1,Akdeniz,9,Osmaniye,86,Düziçi
+1,Akdeniz,9,Osmaniye,87,Hasanbeyli
+1,Akdeniz,9,Osmaniye,88,Kadirli
+1,Akdeniz,9,Osmaniye,89,Merkez
+1,Akdeniz,9,Osmaniye,90,Sumbas
+1,Akdeniz,9,Osmaniye,91,Toprakkale
+2,Doğu Anadolu,10,Ağrı,92,Diyadin
+2,Doğu Anadolu,10,Ağrı,93,Doğubeyazıt
+2,Doğu Anadolu,10,Ağrı,94,Eleşkirt
+2,Doğu Anadolu,10,Ağrı,95,Hamur
+2,Doğu Anadolu,10,Ağrı,96,Merkez
+2,Doğu Anadolu,10,Ağrı,97,Patnos
+2,Doğu Anadolu,10,Ağrı,98,Taşlıçay
+2,Doğu Anadolu,10,Ağrı,99,Tutak
+2,Doğu Anadolu,11,Ardahan,100,Çıldır
+2,Doğu Anadolu,11,Ardahan,101,Damal
+2,Doğu Anadolu,11,Ardahan,102,Göle
+2,Doğu Anadolu,11,Ardahan,103,Hanak
+2,Doğu Anadolu,11,Ardahan,104,Merkez
+2,Doğu Anadolu,11,Ardahan,105,Posof
+2,Doğu Anadolu,12,Bingöl,106,Adaklı
+2,Doğu Anadolu,12,Bingöl,107,Genç
+2,Doğu Anadolu,12,Bingöl,108,Karlıova
+2,Doğu Anadolu,12,Bingöl,109,Kiği
+2,Doğu Anadolu,12,Bingöl,110,Merkez
+2,Doğu Anadolu,12,Bingöl,111,Solhan
+2,Doğu Anadolu,12,Bingöl,112,Yayladere
+2,Doğu Anadolu,12,Bingöl,113,Yedisu
+2,Doğu Anadolu,13,Bitlis,114,Adilcevaz
+2,Doğu Anadolu,13,Bitlis,115,Ahlat
+2,Doğu Anadolu,13,Bitlis,116,Güroymak
+2,Doğu Anadolu,13,Bitlis,117,Hizan
+2,Doğu Anadolu,13,Bitlis,118,Merkez
+2,Doğu Anadolu,13,Bitlis,119,Mutki
+2,Doğu Anadolu,13,Bitlis,120,Tatvan
+2,Doğu Anadolu,14,Elazığ,121,Ağın
+2,Doğu Anadolu,14,Elazığ,122,Alacakaya
+2,Doğu Anadolu,14,Elazığ,123,Arıcak
+2,Doğu Anadolu,14,Elazığ,124,Baskil
+2,Doğu Anadolu,14,Elazığ,125,Karakoçan
+2,Doğu Anadolu,14,Elazığ,126,Keban
+2,Doğu Anadolu,14,Elazığ,127,Kovancılar
+2,Doğu Anadolu,14,Elazığ,128,Maden
+2,Doğu Anadolu,14,Elazığ,129,Merkez
+2,Doğu Anadolu,14,Elazığ,130,Palu
+2,Doğu Anadolu,14,Elazığ,131,Sivrice
+2,Doğu Anadolu,15,Erzincan,132,Çayırlı
+2,Doğu Anadolu,15,Erzincan,133,İliç
+2,Doğu Anadolu,15,Erzincan,134,Kemah
+2,Doğu Anadolu,15,Erzincan,135,Kemaliye
+2,Doğu Anadolu,15,Erzincan,136,Merkez
+2,Doğu Anadolu,15,Erzincan,137,Otlukbeli
+2,Doğu Anadolu,15,Erzincan,138,Refahiye
+2,Doğu Anadolu,15,Erzincan,139,Tercan
+2,Doğu Anadolu,15,Erzincan,140,Üzümlü
+2,Doğu Anadolu,16,Erzurum,141,Aşkale
+2,Doğu Anadolu,16,Erzurum,142,Çat
+2,Doğu Anadolu,16,Erzurum,143,Hınıs
+2,Doğu Anadolu,16,Erzurum,144,Horasan
+2,Doğu Anadolu,16,Erzurum,145,Ilıca
+2,Doğu Anadolu,16,Erzurum,146,İspir
+2,Doğu Anadolu,16,Erzurum,147,Karaçoban
+2,Doğu Anadolu,16,Erzurum,148,Karayazılıı
+2,Doğu Anadolu,16,Erzurum,149,Köprüköy
+2,Doğu Anadolu,16,Erzurum,150,Merkez
+2,Doğu Anadolu,16,Erzurum,151,Narman
+2,Doğu Anadolu,16,Erzurum,152,Oltu
+2,Doğu Anadolu,16,Erzurum,153,Olur
+2,Doğu Anadolu,16,Erzurum,154,Pasinler
+2,Doğu Anadolu,16,Erzurum,155,Pazaryolu
+2,Doğu Anadolu,16,Erzurum,156,Şenkaya
+2,Doğu Anadolu,16,Erzurum,157,Tekman
+2,Doğu Anadolu,16,Erzurum,158,Tortum
+2,Doğu Anadolu,16,Erzurum,159,Uzundere
+2,Doğu Anadolu,17,Hakkari,160,Beytüşşebap
+2,Doğu Anadolu,17,Hakkari,161,Çukurca
+2,Doğu Anadolu,17,Hakkari,162,Merkez
+2,Doğu Anadolu,17,Hakkari,163,Şemdinli
+2,Doğu Anadolu,17,Hakkari,164,Uludere
+2,Doğu Anadolu,17,Hakkari,165,Yüksekova
+2,Doğu Anadolu,18,Iğdır,166,Aralık
+2,Doğu Anadolu,18,Iğdır,167,Karakoyunlu
+2,Doğu Anadolu,18,Iğdır,168,Merkez
+2,Doğu Anadolu,18,Iğdır,169,Tuzluca
+2,Doğu Anadolu,19,Kars,170,Akyaka
+2,Doğu Anadolu,19,Kars,171,Arpaçay
+2,Doğu Anadolu,19,Kars,172,Digor
+2,Doğu Anadolu,19,Kars,173,Kağızman
+2,Doğu Anadolu,19,Kars,174,Merkez
+2,Doğu Anadolu,19,Kars,175,Sarıkamış
+2,Doğu Anadolu,19,Kars,176,Selim
+2,Doğu Anadolu,19,Kars,177,Susuz
+2,Doğu Anadolu,20,Malatya,178,Akçadağ
+2,Doğu Anadolu,20,Malatya,179,Arapkir
+2,Doğu Anadolu,20,Malatya,180,Arguvan
+2,Doğu Anadolu,20,Malatya,181,Battalgazi
+2,Doğu Anadolu,20,Malatya,182,Darende
+2,Doğu Anadolu,20,Malatya,183,Doğanşehir
+2,Doğu Anadolu,20,Malatya,184,Doğanyol
+2,Doğu Anadolu,20,Malatya,185,Hekimhan
+2,Doğu Anadolu,20,Malatya,186,Kale
+2,Doğu Anadolu,20,Malatya,187,Kuluncak
+2,Doğu Anadolu,20,Malatya,188,Merkez
+2,Doğu Anadolu,20,Malatya,189,Pötürge
+2,Doğu Anadolu,20,Malatya,190,Yazıhan
+2,Doğu Anadolu,20,Malatya,191,Yeşilyurt
+2,Doğu Anadolu,21,Muş,192,Bulanık
+2,Doğu Anadolu,21,Muş,193,Hasköy
+2,Doğu Anadolu,21,Muş,194,Kotkut
+2,Doğu Anadolu,21,Muş,195,Malazgirt
+2,Doğu Anadolu,21,Muş,196,Merkez
+2,Doğu Anadolu,21,Muş,197,Varto
+2,Doğu Anadolu,22,Tunceli,198,Çemişkezek
+2,Doğu Anadolu,22,Tunceli,199,Hozat
+2,Doğu Anadolu,22,Tunceli,200,Mazgirt
+2,Doğu Anadolu,22,Tunceli,201,Merkez
+2,Doğu Anadolu,22,Tunceli,202,Nazımiye
+2,Doğu Anadolu,22,Tunceli,203,Ovacık
+2,Doğu Anadolu,22,Tunceli,204,Pertek
+2,Doğu Anadolu,22,Tunceli,205,Pülümür
+2,Doğu Anadolu,23,Van,206,Bahçesaray
+2,Doğu Anadolu,23,Van,207,Başkale
+2,Doğu Anadolu,23,Van,208,Çaldıran
+2,Doğu Anadolu,23,Van,209,Çatak
+2,Doğu Anadolu,23,Van,210,Edremit
+2,Doğu Anadolu,23,Van,211,Erciş
+2,Doğu Anadolu,23,Van,212,Gevaş
+2,Doğu Anadolu,23,Van,213,Merkez
+3,Ege,24,Afyon,214,Başmakçı
+3,Ege,24,Afyon,215,Bayat
+3,Ege,24,Afyon,216,Bolvadin
+3,Ege,24,Afyon,217,Çay
+3,Ege,24,Afyon,218,Çobanlar
+3,Ege,24,Afyon,219,Dazkırı
+3,Ege,24,Afyon,220,Dinar
+3,Ege,24,Afyon,221,Emirdağ
+3,Ege,24,Afyon,222,Evciler
+3,Ege,24,Afyon,223,Hocalar
+3,Ege,24,Afyon,224,İhsaniye
+3,Ege,24,Afyon,225,İscehisar
+3,Ege,24,Afyon,226,Kızılören
+3,Ege,24,Afyon,227,Merkez
+3,Ege,24,Afyon,228,Sandıklı
+3,Ege,24,Afyon,229,Sincanlı
+3,Ege,24,Afyon,230,Şuhut
+3,Ege,24,Afyon,231,Sultandağı
+3,Ege,25,Aydın,232,Bozdoğan
+3,Ege,25,Aydın,233,Buharkent
+3,Ege,25,Aydın,234,Çine
+3,Ege,25,Aydın,235,Didim
+3,Ege,25,Aydın,236,Germencik
+3,Ege,25,Aydın,237,İncirliova
+3,Ege,25,Aydın,238,Karacasu
+3,Ege,25,Aydın,239,Karpuzlu
+3,Ege,25,Aydın,240,Koçarlı
+3,Ege,25,Aydın,241,Köşk
+3,Ege,25,Aydın,242,Kuşadası
+3,Ege,25,Aydın,243,Kuyucak
+3,Ege,25,Aydın,244,Merkez
+3,Ege,25,Aydın,245,Nazilli
+3,Ege,25,Aydın,246,Söke
+3,Ege,25,Aydın,247,Sultanhisar
+3,Ege,25,Aydın,248,Yenipazar
+3,Ege,26,Denizli,249,Acıpayam
+3,Ege,26,Denizli,250,Akköy
+3,Ege,26,Denizli,251,Babadağ
+3,Ege,26,Denizli,252,Baklan
+3,Ege,26,Denizli,253,Bekilli
+3,Ege,26,Denizli,254,Beyağaç
+3,Ege,26,Denizli,255,Bozkurt
+3,Ege,26,Denizli,256,Buldan
+3,Ege,26,Denizli,257,Çal
+3,Ege,26,Denizli,258,Çameli
+3,Ege,26,Denizli,259,Çardak
+3,Ege,26,Denizli,260,Çivril
+3,Ege,26,Denizli,261,Güney
+3,Ege,26,Denizli,262,Honaz
+3,Ege,26,Denizli,263,Kale
+3,Ege,26,Denizli,264,Merkez
+3,Ege,26,Denizli,265,Sarayköy
+3,Ege,26,Denizli,266,Serinhisar
+3,Ege,26,Denizli,267,Tavas
+3,Ege,27,İzmir,268,Aliağa
+3,Ege,27,İzmir,269,Balçova
+3,Ege,27,İzmir,270,Bayındır
+3,Ege,27,İzmir,271,Bayraklı
+3,Ege,27,İzmir,272,Bergama
+3,Ege,27,İzmir,273,Beydağ
+3,Ege,27,İzmir,274,Bornova
+3,Ege,27,İzmir,275,Buca
+3,Ege,27,İzmir,276,Çeşme
+3,Ege,27,İzmir,277,Çiğli
+3,Ege,27,İzmir,278,Dikili
+3,Ege,27,İzmir,279,Foça
+3,Ege,27,İzmir,280,Gaziemir
+3,Ege,27,İzmir,281,Güzelbahçe
+3,Ege,27,İzmir,282,Karabağlar
+3,Ege,27,İzmir,283,Karaburun
+3,Ege,27,İzmir,284,Karşıyaka
+3,Ege,27,İzmir,285,Kemalpaşa
+3,Ege,27,İzmir,286,Kınık
+3,Ege,27,İzmir,287,Kiraz
+3,Ege,27,İzmir,288,Konak
+3,Ege,27,İzmir,289,Menderes
+3,Ege,27,İzmir,290,Menemen
+3,Ege,27,İzmir,291,Narlıdere
+3,Ege,27,İzmir,292,Ödemiş
+3,Ege,27,İzmir,293,Seferihisar
+3,Ege,27,İzmir,294,Selçuk
+3,Ege,27,İzmir,295,Tire
+3,Ege,27,İzmir,296,Torbalı
+3,Ege,27,İzmir,297,Urla
+3,Ege,28,Kütahya,298,Altıntaş
+3,Ege,28,Kütahya,299,Aslanapa
+3,Ege,28,Kütahya,300,Çavdarhisar
+3,Ege,28,Kütahya,301,Domaniç
+3,Ege,28,Kütahya,302,Dumlupınar
+3,Ege,28,Kütahya,303,Emet
+3,Ege,28,Kütahya,304,Gediz
+3,Ege,28,Kütahya,305,Hisarcık
+3,Ege,28,Kütahya,306,Merkez
+3,Ege,28,Kütahya,307,Pazarlar
+3,Ege,28,Kütahya,308,Şaphane
+3,Ege,28,Kütahya,309,Simav
+3,Ege,28,Kütahya,310,Tavşanlı
+3,Ege,29,Manisa,311,Ahmetli
+3,Ege,29,Manisa,312,Akhisar
+3,Ege,29,Manisa,313,Alaşehir
+3,Ege,29,Manisa,314,Demirci
+3,Ege,29,Manisa,315,Gölmarmara
+3,Ege,29,Manisa,316,Gördes
+3,Ege,29,Manisa,317,Kırkağaç
+3,Ege,29,Manisa,318,Köprübaşı
+3,Ege,29,Manisa,319,Kula
+3,Ege,29,Manisa,320,Merkez
+3,Ege,29,Manisa,321,Salihli
+3,Ege,29,Manisa,322,Sarıgöl
+3,Ege,29,Manisa,323,Saruhanlı
+3,Ege,29,Manisa,324,Selendi
+3,Ege,29,Manisa,325,Soma
+3,Ege,29,Manisa,326,Turgutlu
+3,Ege,30,Muğla,327,Bodrum
+3,Ege,30,Muğla,328,Dalaman
+3,Ege,30,Muğla,329,Datça
+3,Ege,30,Muğla,330,Fethiye
+3,Ege,30,Muğla,331,Kavaklıdere
+3,Ege,30,Muğla,332,Köyceğiz
+3,Ege,30,Muğla,333,Marmaris
+3,Ege,30,Muğla,334,Merkez
+3,Ege,30,Muğla,335,Milas
+3,Ege,30,Muğla,336,Ortaca
+3,Ege,30,Muğla,337,Ula
+3,Ege,30,Muğla,338,Yatağan
+3,Ege,31,Uşak,339,Banaz
+3,Ege,31,Uşak,340,Eşme
+3,Ege,31,Uşak,341,Karahallı
+3,Ege,31,Uşak,342,Merkez
+3,Ege,31,Uşak,343,Sivaslı
+3,Ege,31,Uşak,344,Ulubey
+4,Güneydoğu Anadolu,32,Adıyaman,345,Besni
+4,Güneydoğu Anadolu,32,Adıyaman,346,Çelikhan
+4,Güneydoğu Anadolu,32,Adıyaman,347,Gerger
+4,Güneydoğu Anadolu,32,Adıyaman,348,Gölbaşı
+4,Güneydoğu Anadolu,32,Adıyaman,349,Kâhta
+4,Güneydoğu Anadolu,32,Adıyaman,350,Merkez
+4,Güneydoğu Anadolu,32,Adıyaman,351,Samsat
+4,Güneydoğu Anadolu,32,Adıyaman,352,Sincik
+4,Güneydoğu Anadolu,32,Adıyaman,353,Tut
+4,Güneydoğu Anadolu,33,Batman,354,Beşiri
+4,Güneydoğu Anadolu,33,Batman,355,Gercüş
+4,Güneydoğu Anadolu,33,Batman,356,Hasankeyf
+4,Güneydoğu Anadolu,33,Batman,357,Kozluk
+4,Güneydoğu Anadolu,33,Batman,358,Merkez
+4,Güneydoğu Anadolu,33,Batman,359,Sason
+4,Güneydoğu Anadolu,34,Diyarbakır,360,Bismil
+4,Güneydoğu Anadolu,34,Diyarbakır,361,Çermik
+4,Güneydoğu Anadolu,34,Diyarbakır,362,Çınar
+4,Güneydoğu Anadolu,34,Diyarbakır,363,Çüngüş
+4,Güneydoğu Anadolu,34,Diyarbakır,364,Dicle
+4,Güneydoğu Anadolu,34,Diyarbakır,365,Eğil
+4,Güneydoğu Anadolu,34,Diyarbakır,366,Ergani
+4,Güneydoğu Anadolu,34,Diyarbakır,367,Hani
+4,Güneydoğu Anadolu,34,Diyarbakır,368,Hazro
+4,Güneydoğu Anadolu,34,Diyarbakır,369,Kocaköy
+4,Güneydoğu Anadolu,34,Diyarbakır,370,Kulp
+4,Güneydoğu Anadolu,34,Diyarbakır,371,Lice
+4,Güneydoğu Anadolu,34,Diyarbakır,372,Merkez
+4,Güneydoğu Anadolu,34,Diyarbakır,373,Silvan
+4,Güneydoğu Anadolu,35,Gaziantep,374,Araban
+4,Güneydoğu Anadolu,35,Gaziantep,375,İslahiye
+4,Güneydoğu Anadolu,35,Gaziantep,376,Kargamış
+4,Güneydoğu Anadolu,35,Gaziantep,377,Merkez
+4,Güneydoğu Anadolu,35,Gaziantep,378,Nizip
+4,Güneydoğu Anadolu,35,Gaziantep,379,Nurdağı
+4,Güneydoğu Anadolu,35,Gaziantep,380,Oğuzeli
+4,Güneydoğu Anadolu,35,Gaziantep,381,Şahinbey
+4,Güneydoğu Anadolu,35,Gaziantep,382,Şehit Kamil
+4,Güneydoğu Anadolu,35,Gaziantep,383,Yavuzeli
+4,Güneydoğu Anadolu,36,Kilis,384,Elbeyli
+4,Güneydoğu Anadolu,36,Kilis,385,Merkez
+4,Güneydoğu Anadolu,36,Kilis,386,Musabeyli
+4,Güneydoğu Anadolu,36,Kilis,387,Polateli
+4,Güneydoğu Anadolu,37,Mardin,388,Dargeçit
+4,Güneydoğu Anadolu,37,Mardin,389,Derik
+4,Güneydoğu Anadolu,37,Mardin,390,Kızıltepe
+4,Güneydoğu Anadolu,37,Mardin,391,Mazıdağı
+4,Güneydoğu Anadolu,37,Mardin,392,Merkez
+4,Güneydoğu Anadolu,37,Mardin,393,Midyat
+4,Güneydoğu Anadolu,37,Mardin,394,Nusaybin
+4,Güneydoğu Anadolu,37,Mardin,395,Ömerli
+4,Güneydoğu Anadolu,37,Mardin,396,Savur
+4,Güneydoğu Anadolu,37,Mardin,397,Yeşilli
+4,Güneydoğu Anadolu,38,Şanlıurfa,398,Akçakale
+4,Güneydoğu Anadolu,38,Şanlıurfa,399,Birecik
+4,Güneydoğu Anadolu,38,Şanlıurfa,400,Bozova
+4,Güneydoğu Anadolu,38,Şanlıurfa,401,Ceylanpınar
+4,Güneydoğu Anadolu,38,Şanlıurfa,402,Halfeti
+4,Güneydoğu Anadolu,38,Şanlıurfa,403,Harran
+4,Güneydoğu Anadolu,38,Şanlıurfa,404,Hilvan
+4,Güneydoğu Anadolu,38,Şanlıurfa,405,Merkez
+4,Güneydoğu Anadolu,38,Şanlıurfa,406,Siverek
+4,Güneydoğu Anadolu,38,Şanlıurfa,407,Suruç
+4,Güneydoğu Anadolu,38,Şanlıurfa,408,Viranşehir
+4,Güneydoğu Anadolu,39,Siirt,409,Aydınlar
+4,Güneydoğu Anadolu,39,Siirt,410,Baykan
+4,Güneydoğu Anadolu,39,Siirt,411,Eruh
+4,Güneydoğu Anadolu,39,Siirt,412,Kurtalan
+4,Güneydoğu Anadolu,39,Siirt,413,Merkez
+4,Güneydoğu Anadolu,39,Siirt,414,Pervari
+4,Güneydoğu Anadolu,39,Siirt,415,Şirvan
+4,Güneydoğu Anadolu,40,Şırnak,416,Beytüşşebap
+4,Güneydoğu Anadolu,40,Şırnak,417,Cizre
+4,Güneydoğu Anadolu,40,Şırnak,418,Güçlükonak
+4,Güneydoğu Anadolu,40,Şırnak,419,İdil
+4,Güneydoğu Anadolu,40,Şırnak,420,Merkez
+4,Güneydoğu Anadolu,40,Şırnak,421,Silopi
+4,Güneydoğu Anadolu,40,Şırnak,422,Uludere
+5,İç Anadolu,41,Aksaray,423,Eskil
+5,İç Anadolu,41,Aksaray,424,Gülağaç
+5,İç Anadolu,41,Aksaray,425,Güzelyurt
+5,İç Anadolu,41,Aksaray,426,Merkez
+5,İç Anadolu,41,Aksaray,427,Ortaköy
+5,İç Anadolu,41,Aksaray,428,Sarıyahşi
+5,İç Anadolu,42,Ankara,429,Akyurt
+5,İç Anadolu,42,Ankara,430,Altındağ
+5,İç Anadolu,42,Ankara,431,Ayaş
+5,İç Anadolu,42,Ankara,432,Bala
+5,İç Anadolu,42,Ankara,433,Beypazarı
+5,İç Anadolu,42,Ankara,434,Çamlıdere
+5,İç Anadolu,42,Ankara,435,Çankaya
+5,İç Anadolu,42,Ankara,436,Çubuk
+5,İç Anadolu,42,Ankara,437,Elmadağ
+5,İç Anadolu,42,Ankara,438,Etimesgut
+5,İç Anadolu,42,Ankara,439,Evren
+5,İç Anadolu,42,Ankara,440,Gölbaşı
+5,İç Anadolu,42,Ankara,441,Güdül
+5,İç Anadolu,42,Ankara,442,Haymana
+5,İç Anadolu,42,Ankara,443,Kalecik
+5,İç Anadolu,42,Ankara,444,Kazan
+5,İç Anadolu,42,Ankara,445,Keçiören
+5,İç Anadolu,42,Ankara,446,Kızılcahamam
+5,İç Anadolu,42,Ankara,447,Mamak
+5,İç Anadolu,42,Ankara,448,Nallıhan
+5,İç Anadolu,42,Ankara,449,Polatlı
+5,İç Anadolu,42,Ankara,450,Şereflikoçhisar
+5,İç Anadolu,42,Ankara,451,Sincan
+5,İç Anadolu,42,Ankara,452,Yenimahalle
+5,İç Anadolu,43,Çankırı,453,Atkaracalar
+5,İç Anadolu,43,Çankırı,454,Bayramören
+5,İç Anadolu,43,Çankırı,455,Çerkeş
+5,İç Anadolu,43,Çankırı,456,Eldivan
+5,İç Anadolu,43,Çankırı,457,Ilgaz
+5,İç Anadolu,43,Çankırı,458,Kızılırmak
+5,İç Anadolu,43,Çankırı,459,Korgun
+5,İç Anadolu,43,Çankırı,460,Kurşunlu
+5,İç Anadolu,43,Çankırı,461,Merkez
+5,İç Anadolu,43,Çankırı,462,Orta
+5,İç Anadolu,43,Çankırı,463,Şabanözü
+5,İç Anadolu,43,Çankırı,464,Yapraklı
+5,İç Anadolu,44,Eskişehir,465,Alpu
+5,İç Anadolu,44,Eskişehir,466,Beylikova
+5,İç Anadolu,44,Eskişehir,467,Çifteler
+5,İç Anadolu,44,Eskişehir,468,Günyüzü
+5,İç Anadolu,44,Eskişehir,469,Han
+5,İç Anadolu,44,Eskişehir,470,İnönü
+5,İç Anadolu,44,Eskişehir,471,Mahmudiye
+5,İç Anadolu,44,Eskişehir,472,Merkez
+5,İç Anadolu,44,Eskişehir,473,Mihalgazi
+5,İç Anadolu,44,Eskişehir,474,Mihalıççık
+5,İç Anadolu,44,Eskişehir,475,Sarıcakaya
+5,İç Anadolu,44,Eskişehir,476,Seyitgazi
+5,İç Anadolu,44,Eskişehir,477,Sivrihisar
+5,İç Anadolu,45,Karaman,478,Ayrancı
+5,İç Anadolu,45,Karaman,479,Ermenek
+5,İç Anadolu,45,Karaman,480,Kâzımkarabekir
+5,İç Anadolu,45,Karaman,481,Merkez
+5,İç Anadolu,46,Kayseri,482,Akkışla
+5,İç Anadolu,46,Kayseri,483,Bünyan
+5,İç Anadolu,46,Kayseri,484,Develi
+5,İç Anadolu,46,Kayseri,485,Felahiye
+5,İç Anadolu,46,Kayseri,486,Hacılar
+5,İç Anadolu,46,Kayseri,487,İncesu
+5,İç Anadolu,46,Kayseri,488,Kocasinan
+5,İç Anadolu,46,Kayseri,489,Melikgazi
+5,İç Anadolu,46,Kayseri,490,Merkez
+5,İç Anadolu,46,Kayseri,491,Özvatan
+5,İç Anadolu,46,Kayseri,492,Pınarbaşı
+5,İç Anadolu,46,Kayseri,493,Sarıoğlan
+5,İç Anadolu,46,Kayseri,494,Sarız
+5,İç Anadolu,46,Kayseri,495,Talas
+5,İç Anadolu,46,Kayseri,496,Tomarza
+5,İç Anadolu,46,Kayseri,497,Yahyalı
+5,İç Anadolu,46,Kayseri,498,Yeşilhisar
+5,İç Anadolu,47,Kırıkkale,499,Delice
+5,İç Anadolu,47,Kırıkkale,500,Keskin
+5,İç Anadolu,47,Kırıkkale,501,Merkez
+5,İç Anadolu,47,Kırıkkale,502,Sulakyurt
+5,İç Anadolu,48,Kırşehir,503,Akçakent
+5,İç Anadolu,48,Kırşehir,504,Akpınar
+5,İç Anadolu,48,Kırşehir,505,Boztepe
+5,İç Anadolu,48,Kırşehir,506,Çiçekdağı
+5,İç Anadolu,48,Kırşehir,507,Kaman
+5,İç Anadolu,48,Kırşehir,508,Merkez
+5,İç Anadolu,48,Kırşehir,509,Mucur
+5,İç Anadolu,49,Konya,510,Ahırlı
+5,İç Anadolu,49,Konya,511,Akören
+5,İç Anadolu,49,Konya,512,Akşehir
+5,İç Anadolu,49,Konya,513,Altınekin
+5,İç Anadolu,49,Konya,514,Beyşehir
+5,İç Anadolu,49,Konya,515,Bozkır
+5,İç Anadolu,49,Konya,516,Çeltik
+5,İç Anadolu,49,Konya,517,Cihanbeyli
+5,İç Anadolu,49,Konya,518,Çumra
+5,İç Anadolu,49,Konya,519,Derbent
+5,İç Anadolu,49,Konya,520,Derebucak
+5,İç Anadolu,49,Konya,521,Doğanhisar
+5,İç Anadolu,49,Konya,522,Emirgazi
+5,İç Anadolu,49,Konya,523,Ereğli
+5,İç Anadolu,49,Konya,524,Güneysınır
+5,İç Anadolu,49,Konya,525,Hadim
+5,İç Anadolu,49,Konya,526,Halkapınar
+5,İç Anadolu,49,Konya,527,Hüyük
+5,İç Anadolu,49,Konya,528,Ilgın
+5,İç Anadolu,49,Konya,529,Kadınhanı
+5,İç Anadolu,49,Konya,530,Karapınar
+5,İç Anadolu,49,Konya,531,Karatay
+5,İç Anadolu,49,Konya,532,Kulu
+5,İç Anadolu,49,Konya,533,Meram
+5,İç Anadolu,49,Konya,534,Merkez
+5,İç Anadolu,49,Konya,535,Sarayönü
+5,İç Anadolu,49,Konya,536,Selçuklu
+5,İç Anadolu,49,Konya,537,Seydişehir
+5,İç Anadolu,49,Konya,538,Taşkent
+5,İç Anadolu,49,Konya,539,Tuzlukçu
+5,İç Anadolu,49,Konya,540,Yazlıhöyük
+5,İç Anadolu,49,Konya,541,Yunak
+5,İç Anadolu,50,Nevşehir,542,Acıgöl
+5,İç Anadolu,50,Nevşehir,543,Avanos
+5,İç Anadolu,50,Nevşehir,544,Derinkuyu
+5,İç Anadolu,50,Nevşehir,545,Gülşehir
+5,İç Anadolu,50,Nevşehir,546,Hacıbektaş
+5,İç Anadolu,50,Nevşehir,547,Kozaklı
+5,İç Anadolu,50,Nevşehir,548,Merkez
+5,İç Anadolu,50,Nevşehir,549,Ürgüp
+5,İç Anadolu,51,Niğde,550,Altunhisar
+5,İç Anadolu,51,Niğde,551,Bor
+5,İç Anadolu,51,Niğde,552,Çamardı
+5,İç Anadolu,51,Niğde,553,Çiftlik
+5,İç Anadolu,51,Niğde,554,Merkez
+5,İç Anadolu,51,Niğde,555,Ulukışla
+5,İç Anadolu,52,Sivas,556,Akıncılar
+5,İç Anadolu,52,Sivas,557,Altınyayla
+5,İç Anadolu,52,Sivas,558,Divriği
+5,İç Anadolu,52,Sivas,559,Doğanşar
+5,İç Anadolu,52,Sivas,560,Gemerek
+5,İç Anadolu,52,Sivas,561,Gülova
+5,İç Anadolu,52,Sivas,562,Gürün
+5,İç Anadolu,52,Sivas,563,Hafık
+5,İç Anadolu,52,Sivas,564,İmranlı
+5,İç Anadolu,52,Sivas,565,Kangal
+5,İç Anadolu,52,Sivas,566,Koyulhisar
+5,İç Anadolu,52,Sivas,567,Merkez
+5,İç Anadolu,52,Sivas,568,Şarkışla
+5,İç Anadolu,52,Sivas,569,Suşehri
+5,İç Anadolu,52,Sivas,570,Ulaş
+5,İç Anadolu,52,Sivas,571,Yıldızeli
+5,İç Anadolu,52,Sivas,572,Zara
+5,İç Anadolu,53,Yozgat,573,Akdağmadeni
+5,İç Anadolu,53,Yozgat,574,Aydıncık
+5,İç Anadolu,53,Yozgat,575,Boğazlıyan
+5,İç Anadolu,53,Yozgat,576,Çandır
+5,İç Anadolu,53,Yozgat,577,Çayıralan
+5,İç Anadolu,53,Yozgat,578,Çekerek
+5,İç Anadolu,53,Yozgat,579,Kadışehri
+5,İç Anadolu,53,Yozgat,580,Merkez
+5,İç Anadolu,53,Yozgat,581,Saraykent
+5,İç Anadolu,53,Yozgat,582,Sarıkaya
+5,İç Anadolu,53,Yozgat,583,Şefaatli
+5,İç Anadolu,53,Yozgat,584,Sorgun
+5,İç Anadolu,53,Yozgat,585,Yenifakılı
+5,İç Anadolu,53,Yozgat,586,Yerköy
+6,K.K.T.C.,54,K.K.T.C.,587,Gazi Magosa
+6,K.K.T.C.,54,K.K.T.C.,588,Girne
+6,K.K.T.C.,54,K.K.T.C.,589,Güzelyurt
+6,K.K.T.C.,54,K.K.T.C.,590,İskele
+6,K.K.T.C.,54,K.K.T.C.,591,Lefkoşa
+7,Karadeniz,55,Amasya,592,Göynücek
+7,Karadeniz,55,Amasya,593,Gümüşhacıköy
+7,Karadeniz,55,Amasya,594,Hamamözü
+7,Karadeniz,55,Amasya,595,Merkez
+7,Karadeniz,55,Amasya,596,Merzifon
+7,Karadeniz,55,Amasya,597,Suluova
+7,Karadeniz,55,Amasya,598,Taşova
+7,Karadeniz,56,Artvin,599,Ardanuç
+7,Karadeniz,56,Artvin,600,Arhavi
+7,Karadeniz,56,Artvin,601,Borçka
+7,Karadeniz,56,Artvin,602,Hopa
+7,Karadeniz,56,Artvin,603,Merkez
+7,Karadeniz,56,Artvin,604,Murgul
+7,Karadeniz,56,Artvin,605,Şavşat
+7,Karadeniz,56,Artvin,606,Yusufeli
+7,Karadeniz,57,Bartın,607,Amasra
+7,Karadeniz,57,Bartın,608,Kurucaşile
+7,Karadeniz,57,Bartın,609,Merkez
+7,Karadeniz,57,Bartın,610,Ulus
+7,Karadeniz,58,Bayburt,611,Aydıntepe
+7,Karadeniz,58,Bayburt,612,Demirözü
+7,Karadeniz,58,Bayburt,613,Merkez
+7,Karadeniz,59,Bolu,614,Dörtdivan
+7,Karadeniz,59,Bolu,615,Gerede
+7,Karadeniz,59,Bolu,616,Göynük
+7,Karadeniz,59,Bolu,617,Kıbrısçık
+7,Karadeniz,59,Bolu,618,Mengen
+7,Karadeniz,59,Bolu,619,Merkez
+7,Karadeniz,59,Bolu,620,Mudurnu
+7,Karadeniz,59,Bolu,621,Seben
+7,Karadeniz,59,Bolu,622,Yeniçağa
+7,Karadeniz,60,Çorum,623,Alaca
+7,Karadeniz,60,Çorum,624,Bayat
+7,Karadeniz,60,Çorum,625,Boğazkale
+7,Karadeniz,60,Çorum,626,Dodurga
+7,Karadeniz,60,Çorum,627,İskilip
+7,Karadeniz,60,Çorum,628,Kargı
+7,Karadeniz,60,Çorum,629,Laçin
+7,Karadeniz,60,Çorum,630,Mecitözü
+7,Karadeniz,60,Çorum,631,Merkez
+7,Karadeniz,60,Çorum,632,Oğuzlar
+7,Karadeniz,60,Çorum,633,Ortaköy
+7,Karadeniz,60,Çorum,634,Osmancık
+7,Karadeniz,60,Çorum,635,Sungurlu
+7,Karadeniz,60,Çorum,636,Uğurludağ
+7,Karadeniz,61,Düzce,637,Akçakoca
+7,Karadeniz,61,Düzce,638,Çilimli
+7,Karadeniz,61,Düzce,639,Cumayeri
+7,Karadeniz,61,Düzce,640,Gölkaya
+7,Karadeniz,61,Düzce,641,Gümüşova
+7,Karadeniz,61,Düzce,642,Kaynaşlı
+7,Karadeniz,61,Düzce,643,Merkez
+7,Karadeniz,61,Düzce,644,Yığılca
+7,Karadeniz,62,Giresun,645,Alucra
+7,Karadeniz,62,Giresun,646,Bulancak
+7,Karadeniz,62,Giresun,647,Çamoluk
+7,Karadeniz,62,Giresun,648,Çanaçık
+7,Karadeniz,62,Giresun,649,Dereli
+7,Karadeniz,62,Giresun,650,Doğankent
+7,Karadeniz,62,Giresun,651,Espiye
+7,Karadeniz,62,Giresun,652,Eynesil
+7,Karadeniz,62,Giresun,653,Görele
+7,Karadeniz,62,Giresun,654,Güce
+7,Karadeniz,62,Giresun,655,Keşap
+7,Karadeniz,62,Giresun,656,Merkez
+7,Karadeniz,62,Giresun,657,Piraziz
+7,Karadeniz,62,Giresun,658,Şebinkarahisar
+7,Karadeniz,62,Giresun,659,Tirebolu
+7,Karadeniz,62,Giresun,660,Yağlıdere
+7,Karadeniz,63,Gümüşhane,661,Kelkit
+7,Karadeniz,63,Gümüşhane,662,Köse
+7,Karadeniz,63,Gümüşhane,663,Kürtün
+7,Karadeniz,63,Gümüşhane,664,Merkez
+7,Karadeniz,63,Gümüşhane,665,Şiran
+7,Karadeniz,63,Gümüşhane,666,Torul
+7,Karadeniz,64,Karabük,667,Eflani
+7,Karadeniz,64,Karabük,668,Eskipazar
+7,Karadeniz,64,Karabük,669,Ovacık
+7,Karadeniz,64,Karabük,670,Safranbolu
+7,Karadeniz,64,Karabük,671,Yenice
+7,Karadeniz,65,Kastamonu,672,Abana
+7,Karadeniz,65,Kastamonu,673,Ağlı
+7,Karadeniz,65,Kastamonu,674,Araç
+7,Karadeniz,65,Kastamonu,675,Azdavay
+7,Karadeniz,65,Kastamonu,676,Bozkurt
+7,Karadeniz,65,Kastamonu,677,Çatalzeytin
+7,Karadeniz,65,Kastamonu,678,Cide
+7,Karadeniz,65,Kastamonu,679,Daday
+7,Karadeniz,65,Kastamonu,680,Devrekani
+7,Karadeniz,65,Kastamonu,681,Doğanyurt
+7,Karadeniz,65,Kastamonu,682,Hanönü
+7,Karadeniz,65,Kastamonu,683,İhsangazi
+7,Karadeniz,65,Kastamonu,684,İnebolu
+7,Karadeniz,65,Kastamonu,685,Küre
+7,Karadeniz,65,Kastamonu,686,Merkez
+7,Karadeniz,65,Kastamonu,687,Pınarbaşı
+7,Karadeniz,65,Kastamonu,688,Şenpazar
+7,Karadeniz,65,Kastamonu,689,Seydiler
+7,Karadeniz,65,Kastamonu,690,Taşköprü
+7,Karadeniz,65,Kastamonu,691,Tosya
+7,Karadeniz,66,Ordu,692,Akkuş
+7,Karadeniz,66,Ordu,693,Aybastı
+7,Karadeniz,66,Ordu,694,Çamaş
+7,Karadeniz,66,Ordu,695,Çatalpınar
+7,Karadeniz,66,Ordu,696,Çaybaşı
+7,Karadeniz,66,Ordu,697,Fatsa
+7,Karadeniz,66,Ordu,698,Gölköy
+7,Karadeniz,66,Ordu,699,Gülyalı
+7,Karadeniz,66,Ordu,700,Gürgentepe
+7,Karadeniz,66,Ordu,701,İkizce
+7,Karadeniz,66,Ordu,702,Kabadüz
+7,Karadeniz,66,Ordu,703,Kabataş
+7,Karadeniz,66,Ordu,704,Korgan
+7,Karadeniz,66,Ordu,705,Kumru
+7,Karadeniz,66,Ordu,706,Merkez
+7,Karadeniz,66,Ordu,707,Mesudiye
+7,Karadeniz,66,Ordu,708,Perşembe
+7,Karadeniz,66,Ordu,709,Ulubey
+7,Karadeniz,66,Ordu,710,Ünye
+7,Karadeniz,67,Rize,711,Ardeşen
+7,Karadeniz,67,Rize,712,Çamlıhemşin
+7,Karadeniz,67,Rize,713,Çayeli
+7,Karadeniz,67,Rize,714,Derepazarı
+7,Karadeniz,67,Rize,715,Fındıklı
+7,Karadeniz,67,Rize,716,Güneysu
+7,Karadeniz,67,Rize,717,Hemşin
+7,Karadeniz,67,Rize,718,İkizdere
+7,Karadeniz,67,Rize,719,İyidere
+7,Karadeniz,67,Rize,720,Kalkandere
+7,Karadeniz,67,Rize,721,Merkez
+7,Karadeniz,67,Rize,722,Pazar
+7,Karadeniz,68,Samsun,723,689.May
+7,Karadeniz,68,Samsun,724,Alaçam
+7,Karadeniz,68,Samsun,725,Asarcık
+7,Karadeniz,68,Samsun,726,Ayvacık
+7,Karadeniz,68,Samsun,727,Bafra
+7,Karadeniz,68,Samsun,728,Çarşamba
+7,Karadeniz,68,Samsun,729,Havza
+7,Karadeniz,68,Samsun,730,Kavak
+7,Karadeniz,68,Samsun,731,Lâdik
+7,Karadeniz,68,Samsun,732,Merkez
+7,Karadeniz,68,Samsun,733,Salıpazarı
+7,Karadeniz,68,Samsun,734,Tekkeköy
+7,Karadeniz,68,Samsun,735,Terme
+7,Karadeniz,68,Samsun,736,Vezirköprü
+7,Karadeniz,68,Samsun,737,Yakakent
+7,Karadeniz,69,Sinop,738,Ayancık
+7,Karadeniz,69,Sinop,739,Boyabat
+7,Karadeniz,69,Sinop,740,Dikmen
+7,Karadeniz,69,Sinop,741,Durağan
+7,Karadeniz,69,Sinop,742,Erfelek
+7,Karadeniz,69,Sinop,743,Gerze
+7,Karadeniz,69,Sinop,744,Merkez
+7,Karadeniz,69,Sinop,745,Saraydüzü
+7,Karadeniz,69,Sinop,746,Türkeli
+7,Karadeniz,70,Tokat,747,Almus
+7,Karadeniz,70,Tokat,748,Artova
+7,Karadeniz,70,Tokat,749,Başçiftlik
+7,Karadeniz,70,Tokat,750,Erbaa
+7,Karadeniz,70,Tokat,751,Merkez
+7,Karadeniz,70,Tokat,752,Niksar
+7,Karadeniz,70,Tokat,753,Pazar
+7,Karadeniz,70,Tokat,754,Reşadiye
+7,Karadeniz,70,Tokat,755,Sulusaray
+7,Karadeniz,70,Tokat,756,Turhal
+7,Karadeniz,70,Tokat,757,Yeşilyurt
+7,Karadeniz,70,Tokat,758,Zile
+7,Karadeniz,71,Trabzon,759,Akçabaabat
+7,Karadeniz,71,Trabzon,760,Araklı
+7,Karadeniz,71,Trabzon,761,Arsin
+7,Karadeniz,71,Trabzon,762,Beşikdüzü
+7,Karadeniz,71,Trabzon,763,Çarşıbaşı
+7,Karadeniz,71,Trabzon,764,Çaykara
+7,Karadeniz,71,Trabzon,765,Dernekpazarı
+7,Karadeniz,71,Trabzon,766,Düzköy
+7,Karadeniz,71,Trabzon,767,Hayrat
+7,Karadeniz,71,Trabzon,768,Köprübaşı
+7,Karadeniz,71,Trabzon,769,Maçka
+7,Karadeniz,71,Trabzon,770,Merkez
+7,Karadeniz,71,Trabzon,771,Of
+7,Karadeniz,71,Trabzon,772,Şalpazarı
+7,Karadeniz,71,Trabzon,773,Sürmene
+7,Karadeniz,71,Trabzon,774,Tonya
+7,Karadeniz,71,Trabzon,775,Vakfıkebir
+7,Karadeniz,71,Trabzon,776,Yomra
+7,Karadeniz,72,Zonguldak,777,Alaplı
+7,Karadeniz,72,Zonguldak,778,Amasra
+7,Karadeniz,72,Zonguldak,779,Çaycuma
+7,Karadeniz,72,Zonguldak,780,Devrek
+7,Karadeniz,72,Zonguldak,781,Eflani
+7,Karadeniz,72,Zonguldak,782,Ereğli
+7,Karadeniz,72,Zonguldak,783,Gökçebey
+7,Karadeniz,72,Zonguldak,784,Kurucaşile
+7,Karadeniz,72,Zonguldak,785,Merkez
+7,Karadeniz,72,Zonguldak,786,Ulus
+7,Karadeniz,72,Zonguldak,787,Yenice
+8,Marmara,73,Balıkesir,788,Ayvalık
+8,Marmara,73,Balıkesir,789,Balya
+8,Marmara,73,Balıkesir,790,Bandırma
+8,Marmara,73,Balıkesir,791,Bigadiç
+8,Marmara,73,Balıkesir,792,Burhaniye
+8,Marmara,73,Balıkesir,793,Dursunbey
+8,Marmara,73,Balıkesir,794,Edremit
+8,Marmara,73,Balıkesir,795,Erdek
+8,Marmara,73,Balıkesir,796,Gömeç
+8,Marmara,73,Balıkesir,797,Gönen
+8,Marmara,73,Balıkesir,798,Havran
+8,Marmara,73,Balıkesir,799,İvrindi
+8,Marmara,73,Balıkesir,800,Kepsut
+8,Marmara,73,Balıkesir,801,Manyas
+8,Marmara,73,Balıkesir,802,Marmara
+8,Marmara,73,Balıkesir,803,Merkez
+8,Marmara,73,Balıkesir,804,Savaştepe
+8,Marmara,73,Balıkesir,805,Sındırgı
+8,Marmara,73,Balıkesir,806,Susurluk
+8,Marmara,74,Bilecik,807,Bozüyük
+8,Marmara,74,Bilecik,808,Gölpazarı
+8,Marmara,74,Bilecik,809,İnhisar
+8,Marmara,74,Bilecik,810,Merkez
+8,Marmara,74,Bilecik,811,Osmaneli
+8,Marmara,74,Bilecik,812,Pazaryeri
+8,Marmara,74,Bilecik,813,Söğüt
+8,Marmara,74,Bilecik,814,Yenipazar
+8,Marmara,75,Bursa,815,Büyükorhan
+8,Marmara,75,Bursa,816,Gemlik
+8,Marmara,75,Bursa,817,Gürsu
+8,Marmara,75,Bursa,818,Harmancık
+8,Marmara,75,Bursa,819,İnegöl
+8,Marmara,75,Bursa,820,İznik
+8,Marmara,75,Bursa,821,Karacabey
+8,Marmara,75,Bursa,822,Keles
+8,Marmara,75,Bursa,823,Kestel
+8,Marmara,75,Bursa,824,Merkez
+8,Marmara,75,Bursa,825,Mudanya
+8,Marmara,75,Bursa,826,Mustafa Kemal Paşa
+8,Marmara,75,Bursa,827,Nilüfer
+8,Marmara,75,Bursa,828,Orhaneli
+8,Marmara,75,Bursa,829,Orhangazi
+8,Marmara,75,Bursa,830,Osmangazi
+8,Marmara,75,Bursa,831,Yenişehir
+8,Marmara,75,Bursa,832,Yıldırım
+8,Marmara,76,Çanakkale,833,Ayvacık
+8,Marmara,76,Çanakkale,834,Bayramiç
+8,Marmara,76,Çanakkale,835,Biga
+8,Marmara,76,Çanakkale,836,Bozcaada
+8,Marmara,76,Çanakkale,837,Çan
+8,Marmara,76,Çanakkale,838,Eceabat
+8,Marmara,76,Çanakkale,839,Ezine
+8,Marmara,76,Çanakkale,840,Gelibolu
+8,Marmara,76,Çanakkale,841,Gökçeada
+8,Marmara,76,Çanakkale,842,Lapseki
+8,Marmara,76,Çanakkale,843,Merkez
+8,Marmara,76,Çanakkale,844,Yenice
+8,Marmara,77,Edirne,845,Enez
+8,Marmara,77,Edirne,846,Havsa
+8,Marmara,77,Edirne,847,İpsala
+8,Marmara,77,Edirne,848,Keşan
+8,Marmara,77,Edirne,849,Lalapaşa
+8,Marmara,77,Edirne,850,Meriç
+8,Marmara,77,Edirne,851,Merkez
+8,Marmara,77,Edirne,852,Süloğlu
+8,Marmara,77,Edirne,853,Uzunköprü
+8,Marmara,78,İstanbul,854,Adalar
+8,Marmara,78,İstanbul,855,Ahırkapı
+8,Marmara,78,İstanbul,856,Akaretler
+8,Marmara,78,İstanbul,857,Akatlar
+8,Marmara,78,İstanbul,858,Aksaray
+8,Marmara,78,İstanbul,859,Altunizade
+8,Marmara,78,İstanbul,860,Anadolu Hisarı
+8,Marmara,78,İstanbul,861,Anadolu Kavağı
+8,Marmara,78,İstanbul,862,Arnavutköy
+8,Marmara,78,İstanbul,863,Ataköy
+8,Marmara,78,İstanbul,864,Ataşehir
+8,Marmara,78,İstanbul,865,Avcılar
+8,Marmara,78,İstanbul,866,Ayaspaşa
+8,Marmara,78,İstanbul,867,Bağcılar
+8,Marmara,78,İstanbul,868,Bahariye
+8,Marmara,78,İstanbul,869,Bahçelievler
+8,Marmara,78,İstanbul,870,Bahçeşehir
+8,Marmara,78,İstanbul,871,Bakırköy
+8,Marmara,78,İstanbul,872,Balmumcu
+8,Marmara,78,İstanbul,873,Başakşehir
+8,Marmara,78,İstanbul,874,Bayrampaşa
+8,Marmara,78,İstanbul,875,Bebek
+8,Marmara,78,İstanbul,876,Beşiktaş
+8,Marmara,78,İstanbul,877,Beyazıt
+8,Marmara,78,İstanbul,878,Beykoz
+8,Marmara,78,İstanbul,879,Beylerbeyi
+8,Marmara,78,İstanbul,880,Beylikdüzü
+8,Marmara,78,İstanbul,881,Beyoğlu
+8,Marmara,78,İstanbul,882,Bostancı
+8,Marmara,78,İstanbul,883,Büyükçekmece
+8,Marmara,78,İstanbul,884,Caddebostan
+8,Marmara,78,İstanbul,885,Cağaloğlu
+8,Marmara,78,İstanbul,886,Çatalca
+8,Marmara,78,İstanbul,887,Çekmeköy
+8,Marmara,78,İstanbul,888,Çemberlitaş
+8,Marmara,78,İstanbul,889,Çengelköy
+8,Marmara,78,İstanbul,890,Cihangir
+8,Marmara,78,İstanbul,891,Çukurcuma
+8,Marmara,78,İstanbul,892,Dolapdere
+8,Marmara,78,İstanbul,893,Dragos
+8,Marmara,78,İstanbul,894,Edirnekapı
+8,Marmara,78,İstanbul,895,Elmadağ
+8,Marmara,78,İstanbul,896,Eminönü
+8,Marmara,78,İstanbul,897,Erenköy
+8,Marmara,78,İstanbul,898,Esenler
+8,Marmara,78,İstanbul,899,Esentepe
+8,Marmara,78,İstanbul,900,Esenyurt
+8,Marmara,78,İstanbul,901,Etiler
+8,Marmara,78,İstanbul,902,Eyüp
+8,Marmara,78,İstanbul,903,Fatih
+8,Marmara,78,İstanbul,904,Fenerbahçe
+8,Marmara,78,İstanbul,905,Feneryolu
+8,Marmara,78,İstanbul,906,Fındıklı
+8,Marmara,78,İstanbul,907,Fındıkzade
+8,Marmara,78,İstanbul,908,Florya
+8,Marmara,78,İstanbul,909,Galatasaray
+8,Marmara,78,İstanbul,910,Gayrettepe
+8,Marmara,78,İstanbul,911,Gaziosmanpaşa
+8,Marmara,78,İstanbul,912,Gedikpaşa
+8,Marmara,78,İstanbul,913,Göztepe
+8,Marmara,78,İstanbul,914,Gümüşsuyu
+8,Marmara,78,İstanbul,915,Güneşli
+8,Marmara,78,İstanbul,916,Güngören
+8,Marmara,78,İstanbul,917,Harbiye
+8,Marmara,78,İstanbul,918,Haznedar
+8,Marmara,78,İstanbul,919,İdealtepe
+8,Marmara,78,İstanbul,920,İkitelli
+8,Marmara,78,İstanbul,921,İstinye
+8,Marmara,78,İstanbul,922,Kabataş
+8,Marmara,78,İstanbul,923,Kadıköy
+8,Marmara,78,İstanbul,924,Kağıthane
+8,Marmara,78,İstanbul,925,Kalamış
+8,Marmara,78,İstanbul,926,Kanlıca
+8,Marmara,78,İstanbul,927,Karaköy
+8,Marmara,78,İstanbul,928,Kartal
+8,Marmara,78,İstanbul,929,Kazasker
+8,Marmara,78,İstanbul,930,Kemerburgaz
+8,Marmara,78,İstanbul,931,Kınalıada
+8,Marmara,78,İstanbul,932,Kireçburnu
+8,Marmara,78,İstanbul,933,Kızıltoprak
+8,Marmara,78,İstanbul,934,Kozyatağı
+8,Marmara,78,İstanbul,935,Küçükçekmece
+8,Marmara,78,İstanbul,936,Kumkapı
+8,Marmara,78,İstanbul,937,Kuruçeşme
+8,Marmara,78,İstanbul,938,Kuzguncuk
+8,Marmara,78,İstanbul,939,Laleli
+8,Marmara,78,İstanbul,940,Levent
+8,Marmara,78,İstanbul,941,Maçka
+8,Marmara,78,İstanbul,942,Maltepe
+8,Marmara,78,İstanbul,943,Maslak
+8,Marmara,78,İstanbul,944,Mecidiyeköy
+8,Marmara,78,İstanbul,945,Merter
+8,Marmara,78,İstanbul,946,Nişantaşı
+8,Marmara,78,İstanbul,947,Ortaköy
+8,Marmara,78,İstanbul,948,Osmanbey
+8,Marmara,78,İstanbul,949,Pendik
+8,Marmara,78,İstanbul,950,Rumelihisarı
+8,Marmara,78,İstanbul,951,Samatya
+8,Marmara,78,İstanbul,952,Sancaktepe
+8,Marmara,78,İstanbul,953,Sarıyer
+8,Marmara,78,İstanbul,954,Şaşkınbakkal
+8,Marmara,78,İstanbul,955,Sefaköy
+8,Marmara,78,İstanbul,956,Şehzadebaşı
+8,Marmara,78,İstanbul,957,Selamiçeşme
+8,Marmara,78,İstanbul,958,Selimiye
+8,Marmara,78,İstanbul,959,Selimpaşa
+8,Marmara,78,İstanbul,960,Şile
+8,Marmara,78,İstanbul,961,Silivri
+8,Marmara,78,İstanbul,962,Sıraselviler
+8,Marmara,78,İstanbul,963,Sirkeci
+8,Marmara,78,İstanbul,964,Şişhane
+8,Marmara,78,İstanbul,965,Şişli
+8,Marmara,78,İstanbul,966,Suadiye
+8,Marmara,78,İstanbul,967,Sultanahmet
+8,Marmara,78,İstanbul,968,Sultanbeyli
+8,Marmara,78,İstanbul,969,Sultangazi
+8,Marmara,78,İstanbul,970,Taksim
+8,Marmara,78,İstanbul,971,Talimhane
+8,Marmara,78,İstanbul,972,Tarabya
+8,Marmara,78,İstanbul,973,Tarlabaşı
+8,Marmara,78,İstanbul,974,Tepebaşı
+8,Marmara,78,İstanbul,975,Tesvikiye
+8,Marmara,78,İstanbul,976,Topkapı
+8,Marmara,78,İstanbul,977,Tünel
+8,Marmara,78,İstanbul,978,Tuzla
+8,Marmara,78,İstanbul,979,Ulus
+8,Marmara,78,İstanbul,980,Ümraniye
+8,Marmara,78,İstanbul,981,Üsküdar
+8,Marmara,78,İstanbul,982,Yenikapı
+8,Marmara,78,İstanbul,983,Yeniköy
+8,Marmara,78,İstanbul,984,Yeşilköy
+8,Marmara,78,İstanbul,985,Yeşilyurt
+8,Marmara,78,İstanbul,986,Zeytinburnu
+8,Marmara,79,Kırklareli,987,Babaeski
+8,Marmara,79,Kırklareli,988,Demirköy
+8,Marmara,79,Kırklareli,989,Kofçaz
+8,Marmara,79,Kırklareli,990,Lüleburgaz
+8,Marmara,79,Kırklareli,991,Merkez
+8,Marmara,79,Kırklareli,992,Pehlivanköy
+8,Marmara,79,Kırklareli,993,Pınarhisar
+8,Marmara,79,Kırklareli,994,Vize
+8,Marmara,80,Kocaeli,995,Gebze
+8,Marmara,80,Kocaeli,996,Gölcük
+8,Marmara,80,Kocaeli,997,Kandıra
+8,Marmara,80,Kocaeli,998,Karamürsel
+8,Marmara,80,Kocaeli,999,Körfez
+8,Marmara,80,Kocaeli,1000,Merkez
+8,Marmara,81,Sakarya,1001,Akyazı
+8,Marmara,81,Sakarya,1002,Ferizli
+8,Marmara,81,Sakarya,1003,Geyve
+8,Marmara,81,Sakarya,1004,Hendek
+8,Marmara,81,Sakarya,1005,Karapürçek
+8,Marmara,81,Sakarya,1006,Karasu
+8,Marmara,81,Sakarya,1007,Kaynarca
+8,Marmara,81,Sakarya,1008,Kocaali
+8,Marmara,81,Sakarya,1009,Merkez
+8,Marmara,81,Sakarya,1010,Pamukova
+8,Marmara,81,Sakarya,1011,Sapanca
+8,Marmara,81,Sakarya,1012,Söğütlü
+8,Marmara,81,Sakarya,1013,Taraklı
+8,Marmara,82,Tekirdağ,1014,Çerkezköy
+8,Marmara,82,Tekirdağ,1015,Çorlu
+8,Marmara,82,Tekirdağ,1016,Hayrabolu
+8,Marmara,82,Tekirdağ,1017,M.Ereğli
+8,Marmara,82,Tekirdağ,1018,Malkara
+8,Marmara,82,Tekirdağ,1019,Merkez
+8,Marmara,82,Tekirdağ,1020,Muratlı
+8,Marmara,82,Tekirdağ,1021,Saray
+8,Marmara,82,Tekirdağ,1022,Şarköy
+8,Marmara,83,Yalova,1023,Altınova
+8,Marmara,83,Yalova,1024,Armutlu
+8,Marmara,83,Yalova,1025,Çiftlikköy
+8,Marmara,83,Yalova,1026,Çınarcık
+8,Marmara,83,Yalova,1027,Merkez
+8,Marmara,83,Yalova,1028,Termal

@@ -1,0 +1,12 @@
+﻿Abis 3 - Zombi
+Planlama/Üretim: Nexon
+Doku/Revizyon: Nexon
+
+Rex Laboratuvarındaki olayın bir yıl ardından laboratuvarın yanındaki kapalı fabrikadan bilinmeyen bir makine sesi duyuldu.
+Gürültüyü incelemek için güvenlik ekibinin üyeleri, fabrikaya girdi ama telsiz iletişimi bir saattir kayıp.
+Yanıt olarak devlet ajanları, fabrikanın içine sızdı ve fabrikanın, cesetleri Zombilere dönüştürmek için kullanıldığını öğrendi.
+Zombi sayısının artışının ardındaki sır, fabrikanın ta kendisiymiş. 
+
+
+İnsanlar: Destek kuvvetler varana kadar Zombi saldırılarına dayanın. Zombiye dönüşmüş olabilecek arkadaşlarınıza dikkat edin. Tüm Zombileri öldürme yetkisine sahipsiniz.
+Zombiler: Zombiye dönüşenler, insanları öldürerek Zombiye dönüştürmek zorundadır. Zombilerin CP'si ve hızı, İnsanlarınkinden daha yüksektir.

@@ -1,0 +1,10 @@
+﻿Suzhou Yok Etme - Yok Etme
+Planlama/Üretim: Nexon
+Doku/Modelleme/Revizyon: Nexon
+
+Çin hükümeti, teröristlerin şehrin dışındaki Suzhou kasabasında uyuşturucu kaçakçılığı yaptığını gösteren bir istihbarat aldı.
+Teröristleri durdurmak için terörle mücadele timi, bu kasabaya saldırarak teröristlerin orada onlara pusu kurduğunu keşfetti.
+Gözcü teröristler, terörle mücadele timinin hareketlerini belirledi ve toplu bir saldırı yapmaya hazırlanıyorlar.
+
+- Haritadaki tüm düşman takım üyelerini öldür.
+- Bir takım yok edildiğinde diğeri kazanır.

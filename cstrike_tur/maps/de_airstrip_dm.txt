@@ -1,0 +1,7 @@
+﻿Havaalanı - Ölüm Savaşı
+Haritayı Yapan: Barney (narby) (narby@counter-strike.net)
+
+Iikka Keranen, John Morello ve Minh Le'ye teşekkürler
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

@@ -1,0 +1,6 @@
+﻿Baş Döndürücü - Ölüm Savaşı
+Planlama/Üretim: Nexon
+Doku/Modelleme/Revizyon: Nexon
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

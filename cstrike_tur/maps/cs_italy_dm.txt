@@ -1,0 +1,8 @@
+﻿Italy - Ölüm Savaşı
+Haritayı Yapan:
+glenC [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Dokuyu/Grafikleri Yapan:
+DigiChaos (digichaos@hotsheep.com)
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

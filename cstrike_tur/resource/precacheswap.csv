@@ -1,0 +1,8 @@
+ORIGINAL,SWAP
+sprites/event_bombexp.spr,sprites/eexplo.spr
+sprites/event_bombexp2.spr,sprites/fexplo.spr
+models/w_eventbomb.mdl,models/w_pumpkin.mdl
+models/v_eventbomb.mdl,models/v_pumpkin.mdl
+models/p_eventbomb.mdl,models/p_pumpkin.mdl
+sound/weapons/eventbomb_exp.wav,sound/weapons/Pump_Exp.wav
+sprites/wpn_eventbomb.spr,sprites/wpn_pumpkin.spr

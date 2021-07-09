@@ -1,0 +1,6 @@
+﻿Ay Işığı - Ölüm Savaşı
+Planlama/Üretim: Nexon
+Harita Yapımı/Revizyon: Nexon
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

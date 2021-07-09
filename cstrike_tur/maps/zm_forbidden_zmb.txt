@@ -1,0 +1,10 @@
+﻿Yasak - Zombi
+Planlama/Üretim: Nexon
+Doku/Revizyon: Nexon
+
+Yasadışı kimya laboratuvarı yakınlarında
+deneysel atık malzemeleri işleyen bir kimya tesisi vardı. Ancak uzun bir süredir çalışmıyordu.
+Şimdi çeşitli kimyasal atıklar sayesinde daha da güçlenen Zombiler için bir sığınak haline geldi.
+
+İnsanlar: Tüm Zombileri öldürün veya süre dolana kadar hayatta kalın.
+Zombiler: Zombiye dönüşenler, insanları öldürerek Zombiye dönüştürmek zorundadır. Zombilerin CP'si ve hızı, İnsanlarınkinden daha yüksektir.

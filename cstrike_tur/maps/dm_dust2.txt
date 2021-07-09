@@ -1,0 +1,7 @@
+﻿Dust 2 - Yok Etme
+Haritayı Yapan: DaveJ (http://www.johnsto.co.uk/)
+Dokuyu Yapan: MacMan (MacManInfi@aol.com)
+Harita Revizyonu: Nexon
+
+- Haritadaki tüm düşman takım üyelerini öldür.
+- Bir takım yok edildiğinde diğeri kazanır.

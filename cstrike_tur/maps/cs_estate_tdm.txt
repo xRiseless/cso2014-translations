@@ -1,0 +1,6 @@
+﻿Estate - Takımla Ölüm Savaşı
+Haritayı Yapan: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.

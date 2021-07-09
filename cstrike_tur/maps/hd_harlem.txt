@@ -1,0 +1,10 @@
+﻿Gizli Şehir - Gizli Mod
+Haritayı Yapan: Nexon
+Dokuyu Yapan: Nexon
+
+Issız köyde kimliği belirlenemeyen maskeli bir suikastçı belirdi.
+
+Hedef: Gizlenenleri öldürerek hedef puana ulaş!
+
+İpucu: Gizlenenler, vakit geçtikçe daha da görünür hale
+gelir ama bir düşman öldürdüğünde tekrar görünmez olur..

@@ -1,0 +1,14 @@
+﻿Survivor - Bomba Yerleştirme/Etkisiz Hale Getirme
+Haritayı Yapan: Michael Visser (3D_Mike)
+(3D_Mike@soneramail.nl) (3DMike@nmtrix.com)
+www.lanmaniax.com
+
+Teröristler: Kamyoneti veya kaza yapan uçağı bombalayın.
+
+Terörle Mücadele Timi: Teröristlerin hedeflerini bombalamasını önleyin.
+
+
+Arkaplan:
+Ciddi bir kar fırtınası sırasında gizli bir kargoyu taşıyan bir uçak, yere çarptı. Ekip, paraşüt kullanarak kaçmayı başardı ve kargoyu bir kamyonete yükledi. Ancak yoğun kar nedeniyle kargonun tamamını götüremediler.
+
+Uçağı takip etmekte olan teröristler, kamyonetteki ve uçaktaki kargonun buradan çıkmasına izin vermeyecek.

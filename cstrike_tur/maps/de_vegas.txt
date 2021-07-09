@@ -1,0 +1,10 @@
+﻿Vegas - Bomba Yerleştirme/Etkisiz Hale Getirme
+Üretim: +Cadaver+
+Doku: George_Pooshoes, JOeSmOe
+Revizyon: Nexon
+
+
+Terörle Mücadele Timi: Binaya sızın ve teröristleri yok ederken bombalama hedefini koruyun.
+
+Teröristler: Kasayı patlatmak için bir C4 bomba kullanın.
+　　　　　　 Bu mümkün değilse Sfenks'i patların ve dünyaya niyetimizi gösterin.

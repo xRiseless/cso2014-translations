@@ -1,0 +1,7 @@
+﻿Italy - Zombi İttifakı
+Haritayı Yapan: glenC [HOTSHEEP]Bastard (glenc@hotsheep.com)
+Dokuyu/Grafikleri Yapan: DigiChaos (digichaos@hotsheep.com)
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.
+- Öğe kutusu alınırsa öldürme sayısı artar.

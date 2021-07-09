@@ -1,0 +1,5 @@
+﻿Prodigy - Ölüm Savaşı
+Haritayı Yapan: Hobbit (hobbit@nodream.net)
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

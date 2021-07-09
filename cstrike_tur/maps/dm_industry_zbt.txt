@@ -1,0 +1,7 @@
+﻿Fabrika - Zombi İttifakı
+Planlama/Üretim: Nexon
+Doku/Modelleme/Revizyon: Nexon
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.
+- Öğe kutusu alınırsa öldürme sayısı artar.

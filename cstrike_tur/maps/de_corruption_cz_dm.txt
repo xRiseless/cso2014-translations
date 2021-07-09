@@ -1,0 +1,5 @@
+﻿Yozlaşma - Ölüm Savaşı
+Yapan: Chris 'kanaeda' Voss (chrisv@ritual.com)
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

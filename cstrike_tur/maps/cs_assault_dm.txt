@@ -1,0 +1,5 @@
+﻿Assault - Ölüm Savaşı
+Haritayı Yapan: CryptR (lmuur@dlc.fi)
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

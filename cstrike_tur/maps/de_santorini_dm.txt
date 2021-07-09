@@ -1,0 +1,5 @@
+﻿Santorini - Ölüm Savaşı
+Harita Yapımcısı: Nexon
+ Doku Yapımcısı: Nexon
+- Tüm oyuncuları öldürün.
+- Kazanmak için en yüksek öldürme sayısına ulaşın.

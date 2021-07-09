@@ -1,0 +1,7 @@
+﻿Vegas - Ölüm Savaşı
+Üretim: +Cadaver+
+Doku: George_Pooshoes, JOeSmOe
+Revizyon: Nexon
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

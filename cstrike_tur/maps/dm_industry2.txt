@@ -1,0 +1,7 @@
+﻿Fabrika 2 - Yok Etme
+Planlama/Üretim: Nexon
+Doku/Modelleme/Revizyon: Nexon
+
+Teröristler ve terörle mücadele timi, terk edilmiş bir fabrikada birbiriyle yüzleşiyor.
+- Haritadaki tüm düşman takım üyelerini öldür.
+- Bir takım yok edildiğinde diğeri kazanır.

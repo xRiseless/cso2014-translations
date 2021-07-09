@@ -1,0 +1,10 @@
+﻿Fabrika - Takımla Ölüm Savaşı
+Planlama/Üretim: Nexon
+Doku/Modelleme/Revizyon: Nexon
+
+Devlet, şehrin merkezindeki bir fabrikada terör tehdidi bulunduğunu bildiren bir istihbarat aldı.
+Terörle mücadele timi, böyle bir terörist saldırısını önlemek için fabrikaya saldırdı ama teröristlerin onları sokağın diğer tarafında bekliyor olduğunu gördüler.
+Gözcü teröristler, terörle mücadele timinin hareketlerini belirledi ve toplu bir saldırı yapmaya hazırlanıyorlar.
+
+Hedef: Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+Belirli sayıda düşmanı öldürerek oyunu kazan.

@@ -1,0 +1,6 @@
+﻿Estate - Ölüm Savaşı
+Haritayı Yapan: Zaphod Beeblebrox 
+zaphod@mapcore.com
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

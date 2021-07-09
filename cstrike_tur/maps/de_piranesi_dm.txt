@@ -1,0 +1,6 @@
+﻿Piranesi - Ölüm Savaşı
+Fingers - iikkak@valvesoftware.com
+Doku kaynakları için Ido Magal'a teşekkürler
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

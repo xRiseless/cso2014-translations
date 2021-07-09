@@ -1,0 +1,8 @@
+﻿Petrol Platformu - Takımla Ölüm Savaşı
+Haritayı Yapan: MacMan (macmaninfi@aol.com)
+Dokuyu Yapan: MacMan
+Westland Wessex Helikopterini Yapan: Agent Orange 
+[agentorange@freemail.nl]
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.

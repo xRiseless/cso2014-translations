@@ -1,0 +1,5 @@
+﻿Militia - Ölüm Savaşı
+Haritayı Yapan: Andrew Aumann (andrewja@home.com)
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

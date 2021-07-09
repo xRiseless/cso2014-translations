@@ -1,0 +1,6 @@
+﻿Prodigy - Zombi İttifakı
+Haritayı Yapan: Hobbit (hobbit@nodream.net)
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.
+- Öğe kutusu alınırsa öldürme sayısı artar.

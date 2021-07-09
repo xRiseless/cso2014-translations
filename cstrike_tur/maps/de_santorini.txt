@@ -1,0 +1,8 @@
+﻿Santorini - Bomba Kurma / Bomba Çözme
+ Harita Yapımcısı: Nexon
+ Doku Yapımcısı: Nexon
+ Kontra-Teröristler: Santorini bölgesinde Terörist faalityet tespit ettik.
+ Tüm takım üyeleri teröristleri öldürmeli ve belirtilen alanda bombayı imha etmeliler.
+ Teröristler: Kontra-Teröristlerin saldırılarına karşı koyun ve hedefi yok edin.
+ 
+Diğer: Bu haritada 2 bomba bölgesi bulunmaktadır.

@@ -1,0 +1,12 @@
+﻿Havaalanı - Bomba Yerleştirme/Etkisiz Hale Getirme
+Haritayı Yapan: Barney (narby) (narby@counter-strike.net)
+
+Iikka Keranen, John Morello ve Minh Le'ye teşekkürler
+
+Terörle Mücadele Timi: Teröristlerin havaalanı binasına bomba yerleştirmesini önleyin.
+
+Teröristler: Yakıt tankını ve kargo deposunu patlatmak için havaalanı binasına bir C4 yerleştirin.
+
+Not: Bu haritada iki tane bomba bölgesi var.
+
+

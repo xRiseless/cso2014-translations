@@ -1,0 +1,6 @@
+﻿Kaosun Gerçekliği - Takımla Ölüm Savaşı
+
+Haritayı Yapan: Ritual Entertainment
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.

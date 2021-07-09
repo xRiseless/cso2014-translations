@@ -1,0 +1,9 @@
+﻿Nuke - Bomba Yerleştirme/Etkisiz Hale Getirme
+Haritayı Yapan: Jo Bieg (MEEEEDIC@gmx.net)
+
+Terörle Mücadele Timi: Teröristlerin nükleer bombayı patlatmasını önleyin. Düşman, tepeden veya alttan saldırabilir. Takım üyeleri, bomba bölgelerine yerleştirilen tüm bombaları etkisiz hale getirmeli.
+
+Teröristler: C4'e sahip olan teröristler, nükleer bombayı patlatmalı.
+
+
+Not: Bu haritada iki tane bomba bölgesi var.

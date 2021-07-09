@@ -1,0 +1,6 @@
+﻿Rex - Takımla Ölüm Savaşı
+Planlama/Üretim: Nexon
+Doku/Revizyon: Nexon
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.

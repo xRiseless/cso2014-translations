@@ -1,0 +1,6 @@
+﻿Aztec - Ölüm Savaşı
+Haritayı Yapan: Chris Auty (Barney) (narby@counter-strike.net)
+Dokuyu Yapan: Macman 
+
+- Yakınındaki tüm oyuncuları öldür.
+- En çok kişiyi öldüren oyuncu kazanır.

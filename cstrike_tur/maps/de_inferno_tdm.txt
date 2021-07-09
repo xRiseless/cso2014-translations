@@ -1,0 +1,6 @@
+﻿Inferno - Takımla Ölüm Savaşı
+Haritayı Yapan: Chris Auty (Barney) (narby@counter-strike.net)
+Dokuyu Yapan: Valve software
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.

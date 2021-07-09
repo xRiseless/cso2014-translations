@@ -1,0 +1,6 @@
+﻿Piranesi - Takımla Ölüm Savaşı
+Fingers - iikkak@valvesoftware.com
+Doku kaynakları için Ido Magal'a teşekkürler
+
+- Haritadaki tüm düşman üyelerini öldürerek takım puanını artır.
+- Belirli sayıda düşmanı öldürerek oyunu kazan.

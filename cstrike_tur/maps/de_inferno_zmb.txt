@@ -1,0 +1,8 @@
+﻿Inferno - Zombi
+Haritayı Yapan: Chris Auty (Barney) (narby@counter-strike.net)
+Dokuyu Yapan: Valve software
+
+Teröristler ve terörle mücadele timi arasındaki savaş sırasında bilinmeyen varlıklar görüldü ve bu varlıklar, Rex Laboratuvarından kaçan zombilere benziyor. İnsanlar, hayatta kalmak için birlikte çalışmalı.
+
+İnsanlar: Kalan süre boyunca zombi saldırılarına dayanın veya tüm zombileri öldürün.
+Zombiler: Zombiye dönüşenler, insanları öldürerek Zombiye dönüştürmek zorundadır. Zombilerin CP'si ve hızı, İnsanlarınkinden daha yüksektir.

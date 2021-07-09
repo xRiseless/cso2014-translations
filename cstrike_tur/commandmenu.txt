@@ -1,0 +1,227 @@
+﻿// Command Menu definition
+// 
+// Basic Format:
+//		"<Bound Key>" "<Button Text>" "<Command sent to server>"
+//
+// 
+//
+//
+// Buttons can also open up submenus, as follows:
+// {
+// 	"Some More Options",
+//	{
+//		...
+//	}
+// }
+//
+//
+// Buttons preceded with "CUSTOM" are handled in special ways. They can only be moved
+// around or deleted.
+//
+//
+// Limitations:
+//		Maximum of 40 menus.
+//		Maximum of 100 buttons per menu.
+
+//--------------------------------------------------------
+// Everything below here is editable
+
+"1" "#Cstrike_HELP"
+
+{
+	CUSTOM		"1" "#Cstrike_Map_Desc"	"!MAPBRIEFING"
+	"2" "#Cstrike_Time_Left" 		"timeleft"
+	"3" "#Cstrike_Adjust_Crosshair" 	"adjust_crosshair"
+	"4" "#Cstrike_Use_Left_Hand" 		"cl_righthand 0"
+	"5" "#Cstrike_Use_Right_Hand" 		"cl_righthand 1"
+}
+
+
+"2" "#Cstrike_CHANGE_TEAM"	"chooseteam"
+
+// Here are the rest of the buttons and submenus
+// You can change these safely if you want.
+"3" "#Cstrike_TEAM_MESSAGE"
+{
+	// Map Specific
+
+	MAP cs_siege "1" "#Cstrike_Map_Siege"
+	{
+		"1" "#Cstrike_take_underground"	"say_team 'Bodrum katını emniyet altına alın!'"
+		"2" "#Cstrike_enemy_garage" 		"say_team 'Düşmanlar otoparkta!'"
+		"3" "#Cstrike_rush_hostage_room"   	"say_team 'Mahkum hücresine saldırın!'"
+		"4" "#Cstrike_snipers_watch_out" 	"say_team 'Keskin nişancılara dikkat edin!'"
+		"5" "#Cstrike_take_upper_route"  	"say_team 'Üst yola gidin.'"
+	}
+
+	MAP de_train "1" "#Cstrike_train"
+	{
+		"1" "#Cstrike_rush_trainyard" 		"say_team 'Tren istasyonu bombalama bölgesine saldırın!'"
+		"2" "#Cstrike_rush_enclosed"		"say_team 'Bombalama bölgesinin içine saldırın!'"
+		"3" "#Cstrike_flank_them"   		"say_team 'Yan tarafa saldırın!'"
+		"4" "#Cstrike_bomb_site_secure"  	"say_team 'Bombalama Hedefi Ele Geçirildi!'"
+		"5" "#Cstrike_lend_me_blaster"  	"say_team 'Ateşleyiciyi bana verin!'"
+	}
+
+	MAP de_vertigo "1" "#Cstrike_vertigo"
+	{
+		"1" "#Cstrike_rush_upper_level" 	"say_team 'Üst kata saldırın!'"
+		"2" "#Cstrike_rush_lower_level" 	"say_team 'Alt kata saldırın!'"
+		"3" "#Cstrike_flank_them"   		"say_team 'Yan tarafa saldırın!'"
+		"4" "#Cstrike_snipers_watch_out"	"say_team 'Keskin nişancılara dikkat edin!'"
+		"5" "#Cstrike_bomb_site_secure"  	"say_team 'Bombalama Hedefi Ele Geçirildi!'"
+	}
+
+	MAP de_prodigy "1" "#Cstrike_prodigy"
+	{
+		"1" "#Cstrike_rush_to_pipes" 		"say_team 'Borulara doğru saldırın!'"
+		"2" "#Cstrike_rush_to_lab" 		"say_team 'Laboratuvara saldırın!'"
+		"3" "#Cstrike_take_the hallway"   	"say_team 'Koridoru ele geçirin!'"
+		"4" "#Cstrike_flank_them"		"say_team 'Yan tarafa saldırın!'"
+		"5" "#Cstrike_take_the_apc"  		"say_team 'Zırhlı araç için bir yol ele geçirin!'"
+	}
+
+	MAP de_aztec "1" "#Cstrike_aztec"
+	{
+		"1" "#Cstrike_take_bridge"		"say_team 'Köprüyü ele geçirin!'"
+		"2" "#Cstrike_enemy_at_bomb_site" 	"say_team 'Düşmanlar bombalama alanında. '"
+		"3" "#Cstrike_rush_to_bomb_site"   	"say_team 'Bombalama bölgesine doğru saldırın!'"
+		"4" "#Cstrike_bomb_site_secure"	"say_team 'Bombalama Bölgesi Ele Geçirildi!'"
+		"5" "#Cstrike_take_water_route"  	"say_team 'Suyoluna doğru gidin!'"
+	}
+
+	MAP de_inferno "1" "#Cstrike_inferno"
+	{
+		"1" "#Cstrike_take_bridge"		"say_team 'Köprüyü ele geçirin!'"
+		"2" "#Cstrike_enemy_at_bomb_site" 	"say_team 'Düşmanlar bombalama alanında.'"
+		"3" "#Cstrike_rush_to_bomb_site"   	"say_team 'Bombalama bölgesine doğru saldırın!'"
+		"4" "#Cstrike_bomb_site_secure"	"say_team 'Bombalama Hedefi Ele Geçirildi!'"
+		"5" "#Cstrike_take_water_route"  	"say_team 'Suyoluna doğru gidin!'"
+	}
+
+	MAP cs_office "1" "#Cstrike_office"
+	{
+		"1" "#Cstrike_take_back_route"		"say_team 'Arka sokaklardan gidin!'"
+		"2" "#Cstrike_rush_to_hostages"	"say_team 'Mahkumun bulunduğu yere doğru saldırın!'"
+		"3" "#Cstrike_do_it_for_manilov"		"say_team 'Manilov için!'"
+		"4" "#Cstrike_take_front_route"		"say_team 'Önümüzdeki yoldan gidin!'"
+		"5" "#Cstrike_flank_them"		"say_team 'Yan tarafa saldırın!'"
+	}
+
+	MAP cs_backalley "1" "#Cstrike_backalley"
+	{
+		"1" "#Cstrike_flank_them"		"say_team 'Yan tarafa saldırın!'"
+		"2" "#Cstrike_enemy_overhead" 	"say_team 'Düşman tepede!'"
+		"3" "#Cstrike_rush_to_hostages"	"say_team 'Mahkumun bulunduğu yere doğru saldırın!'"
+		"4" "#Cstrike_go_you_blaster"		"say_team 'Geber!'"
+		"5" "#Cstrike_taking_heavy_fire"		"say_team 'Ateş alıyoruz!'"
+	}
+
+	MAP cs_747 "1" "#Cstrike_747"
+	{
+		"1" "#Cstrike_rush_the_plane'"		"say_team 'Uçağa doğru saldırın.'"
+		"2" "#Cstrike_meet_in_terminal"		"say_team 'Terminalde toplanın.'"
+		"3" "#Cstrike_enemy_outside_plane"	"say_team 'Düşmanlar uçağın dışında!'"
+		"4" "#Cstrike_enemy_in_cargo"  	"say_team 'Düşmanlar yük vagonunda!'"
+		"5" "#Cstrike_flank_them"		"say_team 'Yan tarafa saldırın!'"
+	}
+
+	MAP as_oilrig "1" "#Cstrike_oilrig"
+	{
+		"1" "#Cstrike_rush_to_chopper" 	"say_team 'Helikoptere doğru saldırın!'"
+		"2" "#Cstrike_to_the_elevator" 		"say_team 'Asansöre gidin.'"
+		"3" "#Cstrike_vip_spotted"   		"say_team 'VIP bulundu!'"
+		"4" "#Cstrike_sniper_spotted"  		"say_team 'Keskin nişancı bulundu!'"
+		"5" "#Cstrike_protect_the_vip"  		"say_team 'VIP'yi koru!'"
+	}
+
+	MAP cs_assault "1" "#Cstrike_assault"
+	{
+		"1" "#Cstrike_rush_the_building" 	"say_team 'Binaya saldırın!'"
+		"2" "#Cstrike_take_the_vents" 		"say_team 'Havalandırmaları ele geçirin!'"
+		"3" "#Cstrike_enemy_in_vents"   	"say_team 'Düşmanlar havalandırmada!'"
+		"4" "#Cstrike_rush_hostage_room"	"say_team 'Mahkum hücresine saldırın!'"
+		"5" "#Cstrike_team_regroup"  		"say_team 'Takım Toplanın!'"
+	}
+
+	MAP de_nuke "1" "#Cstrike_nuke"
+	{
+		"1" "#Cstrike_go_to_main_hall" 		"say_team 'Ana hole gidin.'"
+		"2" "#Cstrike_go_to_basement" 		"say_team 'Bodruma gidin.'"
+		"3" "#Cstrike_flank_yard"   		"say_team 'Bahçeyi geçin.'"
+		"4" "#Cstrike_flank_comm_room"  	"say_team 'Muhabere odasını geçin.'"
+		"5" "#Cstrike_at_entrance_hall"  	"say_team 'Girişte.'"
+	}
+
+	MAP de_cbble "1" "#Cstrike_cbble"
+	{
+		"1" "#Cstrike_heading_central_hall" 	"say_team 'Orta koridora gidiyorum.'"
+		"2" "#Cstrike_heading_underpass" 	"say_team 'Yeraltı yoluna gidiyorum.'"
+		"3" "#Cstrike_sniper_in_tower"   	"say_team 'Kulede keskin nişancı görüldü.'"
+		"4" "#Cstrike_bomb_target_secure"  	"say_team 'Bombalama bölgesi ele geçirildi.'"
+		"5" "#Cstrike_guard_start_area"  	"say_team 'Başlangıç bölgesini savunun.'"
+	}
+
+	MAP de_dust "1" "#Cstrike_dust"
+	{
+		"1" "#Cstrike_heading_to_hallway" 	"say_team 'Koridora gidiyorum.'"
+		"2" "#Cstrike_heading_underpass" 	"say_team 'Yeraltı yoluna gidiyorum.'"
+		"3" "#Cstrike_bomb_a_secure"   	"say_team 'Bombalama Bölgesi A ele geçirildi.'"
+		"4" "#Cstrike_bomb_b_secure"  	"say_team 'Bombalama Bölgesi B ele geçirildi.'"
+		"5" "#Cstrike_sniper_at_underpass"  	"say_team 'Yeraltı yolunda keskin nişancı görüldü.'"
+	}
+
+	MAP de_dust2 "1" "#Cstrike_dust2"
+	{
+		"1" "#Cstrike_heading_to_hallway" 	"say_team 'Koridora gidiyorum.'"
+		"2" "#Cstrike_heading_underpass" 	"say_team 'Yeraltı yoluna gidiyorum.'"
+		"3" "#Cstrike_bomb_a_secure"   	"say_team 'Bombalama Bölgesi A ele geçirildi.'"
+		"4" "#Cstrike_bomb_b_secure"  	"say_team 'Bombalama Bölgesi B ele geçirildi.'"
+		"5" "#Cstrike_heading_to_tunnel"  	"say_team 'Tünele gidiyorum.'"
+	}
+
+	MAP cs_italy "1" "#Cstrike_italy"
+	{
+		"1" "#Cstrike_meet_at_market" 		"say_team 'Pazar yerinde toplanın.'"
+		"2" "#Cstrike_rush_the_house" 		"say_team 'Eve saldırın.'"
+		"3" "#Cstrike_head_to_wine_cellar"   	"say_team 'Şarap mahzenine gidin.'"
+		"4" "#Cstrike_rush_long_passage"  	"say_team 'Uzun tünele saldırın.'"
+		"5" "#Cstrike_hostages_rescued"  	"say_team 'Rehineler kurtarılıyor.'"
+	}
+
+	MAP cs_estate "1" "#Cstrike_estate"
+	{
+		"1" "#Cstrike_go_to_sewer" 		"say_team 'Kanalizasyona gidin.'"
+		"2" "#Cstrike_enemy_on_first_story" 	"say_team 'Düşman 1. katta.'"
+		"3" "#Cstrike_enemy_on_sec_story"   	"say_team 'Düşman 2. katta.'"
+		"4" "#Cstrike_enemy_in_back"  		"say_team 'Düşman arkanda.'"
+		"5" "#Cstrike_enemy_in_front"  		"say_team 'Düşman önünde.'"
+	}
+
+	MAP as_tundra "1" "#Cstrike_tundra"
+	{
+		"1" "#Cstrike_use_sec_route" 		"say_team '2. yola gidin.'"
+		"2" "#Cstrike_use_primary_route" 	"say_team '1. yola gidin.'"
+		"3" "#Cstrike_snipers_watch_out"	"say_team 'Keskin nişancılara dikkat edin!'"
+		"4" "#Cstrike_rush_to_apc"  		"say_team 'Zırhlı araca doğru saldırın.'"
+		"5" "#Cstrike_rush_to_chopper"  	"say_team 'Helikoptere doğru saldırın!'"
+	}
+
+	MAP cs_militia "1" "#Cstrike_militia"
+	{
+		"1" "#Cstrike_meet_at_garage" 		"say_team 'Garaj havalandırmasında toplanın.'"
+		"2" "#Cstrike_meet_front_house" 	"say_team 'Evin önünde toplanın.'"
+		"3" "#Cstrike_meet_backyard"   		"say_team 'Arka avluda toplanın.'"
+		"4" "#Cstrike_enemy_topside"  		"say_team 'Düşman tepede!'"
+		"5" "#Cstrike_enemy_sewers"  		"say_team 'Düşman kanalizasyonda!'"
+	}
+
+
+     "2" "#Cstrike_Acknowledged"	"say_team 'Tamam.'"
+     "3" "#Cstrike_Negative"			"say_team 'Olumsuz.'"
+     "4" "#Cstrike_Go"			"say_team 'Hadi, hadi, hadi!'"
+     "5" "#Cstrike_On_My_Way"			"say_team 'Gidiyorum.'"
+     "6" "#Cstrike_Need_Backup"			"say_team 'Destek kuvvetler'"
+}
+
+"4" "#Cstrike_DROP_CURRENT_ITEM" 	"drop"
