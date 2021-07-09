@@ -14,6 +14,6 @@ Our Discord group: https://discord.gg/EvUAY6D
 
 - kr (Korean) by Tracker6974
 
-- tr (Turkish) by avsar-master
+- tr (Turkish) by Yunus
 
 There will be more languages to be added, if you want request a language please [start an issue](https://github.com/xRiseless/cso2014-translations/issues/new) to talk about it.
